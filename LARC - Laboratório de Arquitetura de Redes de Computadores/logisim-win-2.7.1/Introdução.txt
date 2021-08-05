@@ -1,0 +1,7 @@
+ULA = Unidade lógica e aritmética
+
+O processador é formado por 3 componentes:
+1º) Unidade de controle - Efetua o controle do circuito (sistema operacional)
+2º) Registradores com memória de alta velocidade
+3º) ULA: Unidade responsável por fazer cálculos aritméticos e executar operações lógicas.
+
