@@ -1,0 +1,56 @@
+- Roteador tem 2 slots de conexão para expansão dos cartões de comunicação, precisa atribuir interface de uso serial chamada WIC-1T
+
+- Precisa adicionar módulo com o equipamento desligado.
+
+- Lado direito slot 0, lado equerdo slot 1, duas interfaces fastinternet = 2 placas de rede 10/100 para conectividade de rede interna (rede local).
+- 1 porta console e 1 porta auxiliar.
+
+//---------------- Inserindo programação manualmente ao roteador------------------
+
+- Inserindo programação no CLI (Comand line interface)
+1º) Continue with configuration? [yes/no]  ---- "Deve digitar n"
+
+2º) Se digitar '?' ele identifica todos os comandos que são possíveis nessa interface de visitante
+
+3º) Para habilitar interface de programação e pular do nível 0 pro nível 1 que é o nível de privilégio digite: 'enable'
+
+Router# -> indica que temos um módulo de privilégio ativo
+
+4º) Para identificar o inventário de todas as interface conectadas no roteador: 'show running-config' (dica: se digitar as duas primeiras letras e a tecla tab, o cisco completa o comando sem precisar digitar tudo)
+
+5º) Comando para usar terminal: configure terminal
+
+6º) Comando que altera o nome do rotedor: hostname "Roteador_lado_A" (Tanto faz o nome)
+
+7º) Acessar (indicando o endereço das interfaces) fastEthernet: interface fastEthernet 0/0
+
+8º) Inserir (Atribuir) endereço para interface seguido da máscara: ip address 192.168.0.1 255.255.255.0
+
+9º) Comando para ligar fastEthernet mudando o estado para up: no shutdoun
+
+10º) Habilitar interface serial: interface serial 0/0/0
+
+11º) Repete o sistema pra inserir ip: ip address 10.0.0.1 255.255.255.252
+
+12º) Ativação usando shutdoun: no shutdown
+
+13º) Comando para indicar a velocidade da comunicação entre os roteadores: clock rate 4000000 (Mesma coisa que 4MB)
+
+14º) Comando para descer um nível e voltar para o menu config: exit
+
+15º) Evocar a tecnologia de roteamento mais básica e utilizada no mercado: router rip
+
+16º) Declarar redes para o roteador: network 192.168.0.0 (neste caso, que é a rede local)
+
+17º)    "       "     "       "    : network 10.0.0.0 (neste caso, que é a rede wan)
+
+18º) Sair do modo de privilégio: end
+
+19º) Salvar configuração do roteador: write
+
+20º) Ver o resultado usando novamente o comando: show running-config
+
+21º) Depois que tudo ja estiver configurado incluindo os periféricos, podemos entrar em qualquer um dos roteadores, podemos chamar a interface usando o comando "enable", e depois o comando "show ip route" para vizualição do comando "router rip" que proporciona a troca de tabelas de redes descobertas, tanto do lado A parao o lado B, quanto do lado B para o lado A.
+Tudo que começa com a letra "C" indica quais equipamentos estão ligados direto ao roteador
+Tudo que começa com a letra "R" é uma rede remota descoberta.
+

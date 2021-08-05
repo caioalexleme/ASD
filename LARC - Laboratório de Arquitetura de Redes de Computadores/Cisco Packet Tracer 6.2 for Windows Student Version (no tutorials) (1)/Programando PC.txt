@@ -1,0 +1,23 @@
+1- Clicar no menu "Desktop"
+
+2- Usar o 1º botão de configuração de IP
+
+3- Static:      IP Address: 192.168.0.2
+                Subnet Mask: 255.255.255.0
+                Default Gateway: 192.168.0.1
+
+-=-=- Fazer as conexões entre 2 roteadores e para cada um, um switch e um PC -=-=-
+
+- Para ligar um PC e um Switch, e um Switch e um Roteador: "Copper Straight-Through"
+
+- Para ligar os dois Roteadores entre si pela porta WAN: "serial DCE", 
+clicando no Roteador escolhe a interface: "Serial0/0/0" arrasta e escolhe a mesma interface no outro Roteador
+
+-=-=-=-=- Fazer o teste de comunicação --=-=-=-=-=
+
+- Clica no PC de uma estação, escolhe no menu "Desktop", clica no botão "rum" chamando assim o "prompt de comando"
+
+- ipconfig: Identifica o ip, mascara e Gateway adicionado ao equipamento (PC).
+
+- Testar a conectividade: ping 192.168.0.1 (ip do roteador)
+
