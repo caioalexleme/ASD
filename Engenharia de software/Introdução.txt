@@ -1,0 +1,9 @@
+O que é software?
+
+É um conjunto de instruções que elas tem que ser encadeadas lógicamente pra fazer sentido e resolver o problema de usuários.
+
+- São instruções (programas de computadores) que quando executadas fornecem as características, as funções e o desempenho desejados.
+ - Estrutura de dados que permite aos programas manipular adequadamente a informação.
+ - Documentos que descrevem a operação e o uso dos programas.
+
+ 
