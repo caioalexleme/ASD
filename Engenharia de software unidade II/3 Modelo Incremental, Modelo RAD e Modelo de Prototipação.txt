@@ -1,0 +1,61 @@
+
+>> Modelo Incremental <<
+
+- Divide o desenvolvimento de software em incrementos (que são partes do sistema) que "independem" uns dos outros.
+- Cada sequência linear produz uma parte do software. O processo se repete até que o produto esteja completo.
+- O incremento inicial é chamado de núcleo do produto. Isto quer dizer que os requisitos básicos devem ser satisfeitos logo no início do projeto.
+
+Quando utilizar?
+- Para sistemas que podem ser divididos em módulos.
+- Para sistemas com muitas alterações de requisitos.
+- Quando o usuário necessita utilizar uma parte do produto antes do final de um projeto.
+- Quando há um prazo de entrega que não pode ser modificado.
+
+. Vantagens:
+    - Entregas parciais facilitam a validação do cliente.
+    - Feedback constante aumenta a qualidade
+    - Cada incremendo é ua parte de software utlizável.
+. Desvantagens:
+    - Cliente pode não aceitar a divisão em módulos.
+
+
+>> Modelo RAD (Rapid Application Development) <<
+
+- É incrementável e contém um ciclo de desenvolvimento curto (em média de 60 a 90 dias).
+- Contrução baseada em componentes.
+- Pode ser dividido entre várias equipes RAD e, ao final, integrada para formar o todo.
+
+Quando utilizar?
+- As restrições de tempo devem ser (em média de 60 a 90 dias)
+- Se a aplicação de software pode ser modularizado e cada função principal principal possa ser completada em menos de 3 meses.
+- Cada função principal pode ser tratada por uma equipe distinta, e, depois, integrada para formar um todo
+
+. Vantagens:
+    - Ciclo curto de desenvolvimento;
+    - Usa a prototipação interativa e viva;
+    - Aumento do reúso de código
+. Desvantagens:
+    - Não indicado para projetos grandes e complexos;
+    - Não aplicado a projetos com alto risco técnico.
+
+
+>> Modelo de prototipação <<
+
+- É um modelo evolucionário.
+- Pode ser usado por qualquer dos demais modelos.
+- Utilizado para identificar e validar os requisitos.
+- Permite visualizar como o sistema funcionará quando estiver pronto.
+
+Quando utilizar?
+- Quando os requisitos estão mal definidos ou dificeis de serem compreendidos.
+- Um meio de redução de riscos, ao permitir que o usuário visualize como vai ficar antes de estar pronto.
+- Pode ser usado em qualquer tipo de sistema na fase de captura dos requisitos. Depois, pode continuar com outros modelos ao decorrer de desenvolvimento.
+
+. Vantagens:
+    - Reduz o número de mudanças;
+    - Aumenta a qualidade;
+    - Pode reduzir o tempo de desenvolvimento.
+. Desvantagens:
+    - O cliente acha que o produto está pronto;
+    - O projetista pode incorporar as soluções inadequadas.
+

@@ -1,0 +1,74 @@
+
+>> Modelo Espiral <<
+
+- Engloba a natureza interativa do Modelo de Prototipação com os aspectos do Modelo Cascata e de análise de riscos.
+- Cada loop representa uma fase do processo de software
+- Onde cada loop pode estar relacionado à viabilidade do sistema
+- O próximo loop, à definição de requisitos
+- O próximo, ao projeto e assim por diante
+- A cada ciclo são produzidas versões cada vez mais complexas do software
+
+Quando utilizar?
+- Para softwares de grande porte.
+- Para softwares que possuem risco no seu desenvolvimento
+- Com o uso de prototipação, tem-se melhor conhecimento de requisitos do sistema.
+
+. Vantagens:
+    - É uma alternativa ao ciclo cascata;
+    - Primeiro modelo a incluir a análise de riscos.
+    - Permite uma maior interação com o cliente.
+. Desvantagens:
+    - Difícil convercer o cliente que uma abordagem "evolutiva" é melhor;
+    - Exige experiência na avaliação de riscos e no uso do modelo.
+
+>> Processo unificado <<
+
+- Baseado em casos de uso.
+- Centrado em arquitetura.
+- Modela o software utilizando a UML
+- Desenvolve o software interativamente
+- Gerencia os requisitos
+- Verificação contínua da qualidade
+
+. Vantagens:
+    - Tolerância às mudanças de requisitos;
+    - Elementos de um software são integrados progressivamente;
+    - Inncorpora, formalmente, a gerência de projetos ao ciclo;
+. Desvantagens:
+    - Cliente não aceita o processo interativo;
+    - Complexidade de suas fases e seus fluxos;
+    - Indispensáveis que os profissionais sejam capacitados no processo.
+
+>> RUP (Processo Unificado Racional) <<
+
+- Processo configurável.
+- Adapta-se a softwares de pequeno, médio ou grande porte;
+- Baseado em documentação de requisitos.
+- Utiliza UML.
+- Trabalha com orientação aos objetos.
+
+>> Processo Praxis <<
+- Tem como objetivo dar suporte ao treinamento em engenharia de software e à implantação de processos em organizações.
+- É baseado na experiência do prof. Wilson de Pádua Paula Filho.
+- Baseia-se em: CMMI, UML, UP e nos padrões do Institute Eletric Eletronic Engineering (IEEE) para a engenharia de software.
+- Fornece suporte para projetos realizados individualmente ou por pequenas equipes, com duração de seis meses a um ano.
+- Abrange requisitos, análise, desenho, testes e implementação, quanto métodos gerenciais, como gestão de requisitos, gestão de projetos, garantia da qualidade e gestão de configuração.
+- Propõe um ciclo de vida composto por frases.
+- Gera artefatos (documentos e modelos).
+
+>> Processo Clean Room (Sala Limpa) <<
+- É uma aplicação prática de matemática e estatística para produzir software de alta qualidade.
+- Aplica fortemente a prevenção de erros.
+- Utiliza os métodos de especificação precisos, chamados de especificações formais.
+- A especificação formal e complexa e trabalhosa.
+
+- Normalmente, utilizada na produção de softwares que trazem risco à perda de vidas humanas.
+- Exemplos: Controle de trens, metrôs, aviôes e usinas nucleares.
+
+. Vantagens:
+    - Alta qualidade;
+    - Baixo número de erros.
+. Desvantagens:
+    - Processo muito complexo;
+    - Requer conhecimento matemático;
+    - Produtividade é menor.

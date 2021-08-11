@@ -51,6 +51,14 @@ Modelo Cascata (watterfall)
     . Envolve a definição da arquitetura de software, do banco de dados e das características visuais.
 - Codificação:
     . Tradução dos requisitos para uma linguagem de programação.
--Testes:
+- Testes:
     . Verifica se a aplicação está de acordo com a sua especificação;
-    
+- Manutenção:
+    . Envolve as alterações no sistema relacionadas aos erros, às evoluções de negócio ou às evoluções técnicas.
+- Principais dificuldades:
+    . Os projetos nem sempre são sequenciais.
+    . O produto somente é visível no final de todo o ciclo.
+- Quando utilizar:
+    . Projetos com requisitos bem definidos;
+    . Projetos pequenos com duração de, até, dois meses.
+
