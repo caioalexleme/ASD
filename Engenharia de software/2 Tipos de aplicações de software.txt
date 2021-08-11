@@ -1,0 +1,50 @@
+
+
+Nível operacional, nível tático e nível estratégico.
+
+
+- Para atender as necessidades das empresas, diversos tipos de aplicação surgiram ao longo do tempo para atender as constantes demandas comerciais, industriais e pessoais da sociedade atual.
+
+- Esses tipos de aplicação são apresentados a seguir.
+
+Classificação de aplicações de software
+- Sistemas de Processamento de Transações (SPT)
+- Sistemas de Informações Gerenciais (SIG)
+- Sistemas de Apoio a Decisão (SAD)
+- Sistemas de Informação Executiva (SIE)
+- Sistemas Especialistas (SE)
+- Sistemas de Automação de Escritório (SAE)
+
+Sistemas de Processamento de Transações (SPT): 
+- Sistemas tradicionais que coletam, guardam, modificam e recuperam as transações, gerenciando as informações das organizações.
+- Uma transação é um evento que gera ou modifica dados.
+- As transações podem ser de negócio (financeiras, imobiliárias) ou técnicas (banco de dados, transações operacionais).
+- Exemplos: site bancário, compra pela internet, sistema de biblioteca, sistema contábil etc.
+    Características:
+    - Tempo de resposta rápida - atender os  usuários.
+    - Confiabilidade - Dependência da organização.
+    - Inflexibilidade - processada da mesma maneira.
+    - Processamento controlado - suporte à organização.
+    - Armazenamento e recuperação de informação.
+    - Registro para auditoria - geração de log.
+
+Sistemas de Informações Gerenciais (SIG):
+- São sistemas que fornecem informações integradas para o gerenciamento das organizações.
+- Normalmente, são fornecidos como pacotes customizáveis.
+- Apoiam o planejamento, o controle e a decisão das organizações por meio de relatórios, processos correntes, acesso online e eventos internos.
+- Exemplos: 
+    . ERP (TOTTVS, SAP) e CRM (relacionamento com o cliente).
+    . ERP: Sistemas Integrados de Gestão Empresarial: interface com banco de dados único para gerenciar todos os processos de negócios de uma empresa.
+    . SCM: Gerenciamento da Cadeia de Suprimentos: permite uma gestão mais eficiente do negócio, integrando com fornecedores, fabricantes, atacadistas, varejistas até o consumidor final.
+    . CRM: Gestão de Relacionamento com o Cliente: apoia as empresas na gerência e em estreitar laços com clientes.
+    . KMS: Gestão do Conhecimento: recolhe, registra, organiza e recupera o conhecimento dos colaboradores para que fiquem internalizados na empresa.
+
+Sistemas de Apoio à Decisão (SAD):
+- São sistemas que analisam um grande número de variáveis e dados para que seja possível o posicionamento quanto a uma questão.
+- São interativos com os usuários, processam grande quantidade de informação para gerar análises precisas e geram relatórios analíticos da situação.
+- Envolvem pesquisa de banco de dados, inteligência artificial, simulações e estastísticas.
+- Exemplos clássicos são: análise de crédito, sistemas de BI (Business Inteligence) em geral.
+    . Relacionamento com o cliente: Passivo, ativo e cooperativo.
+    . Modo de apoio: Base em modelos, dados ou conhecimento.
+    . Escopo da aplicação: Empresarial ou desktop.
+

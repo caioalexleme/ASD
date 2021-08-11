@@ -1,0 +1,39 @@
+O que é software?
+
+É um conjunto de instruções que elas tem que ser encadeadas lógicamente pra fazer sentido e resolver o problema de usuários.
+
+- São instruções (programas de computadores) que quando executadas fornecem as características, as funções e o desempenho desejados.
+- Estrutura de dados que permite aos programas manipular adequadamente a informação.
+- Documentos que descrevem a operação e o uso dos programas.
+
+Definições de Engenharia de Software:
+
+- Segundo o IEEE, Engenharia de Software é a aplicação de uma abordagem sistemática, disciplinada e quantificável ao desenvolvimento, à operação e à manutenção do software.
+
+- Segundo Sommerville (2011), "é uma disciplina de Engenharia relacionada com todos os aspectos da produção de software, desde os estágios iniciais de especificação de sistemas até a manutenção desse sistema".
+
+- Disciplina de engenharia: Aplicação de técnicas, métodos e ferramentas para melhorar os estados de uma atividade.
+
+- Todos os aspectos da produção de software: a Engenharia de software não está relacionada ao processo técnico de desenvolvimento de software, mas também a atividades de gestão do projeto, qualidade e métricas que suportem esse processo.
+
+Camadas (pilares) da Engenharia de Software:
+- ferramentas
+- métodos
+- processo
+- qualidade
+
+Ferramentas: É a camada que proporciona apoio automatizado aos processos e aos métodos, como as ferramentas CASE (Computer Aided Software Engineering).
+
+Métodos: É a camada que fornece a técnica de como fazer para contruir software, ou seja, abordagens que incluem comunicação, análise de requisitos, modelagem, construção, testes e suporte.
+
+Processo: É a camada que constitui o elo que mantém juntos os métodos e as ferramentas. Define a sequencia em que os métodos devem ser aplicados, controlando o projeto, a qualidade, definindo os produtos de trabalho e coordenando as mudanças de requisitos.
+
+Qualidade: É a camada que suporta a engenharia de Software, tendo como foco o aperfeiçoamento contínuo dos processos.
+
+Diferenças básicas entre um software e um outro produto manufaturado:
+- Complexidade
+- Não é visto e nem sentido (intangibilidade).
+- Não existe produção em série - é sob medida.
+- Não tem prazo de validade.
+- Precisa acompanhar a evolução técnica e de negócio
+- Ilusão de fácil de ser alterado.
