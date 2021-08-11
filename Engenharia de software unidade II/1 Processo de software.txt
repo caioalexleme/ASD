@@ -1,0 +1,40 @@
+>> Processo de desenvolvimento de software <<
+- Conjunto de atividades coerentes e consistentes para especificar, projetar, implementar e testar um software.
+- É uma apresentação abstrata de como será realizada a contrução do software.
+
+Para que um processo?
+- Para definir as atividades a serem desenvolvidas no projeto.
+- Para uniformizar o entendimento dos envolvidos em relação ao desenvolvimento de sistemas.
+- Para manter a consistência entre os sistemas desenvolvidos em uma mesma empresa.
+- Para viabilizar os pontos de controle para a gerência.
+
+Processo pessoal de software:
+- Sugere práticas ou métodos para que o próprio indivíduo possa identificar e corrigir os seus pontos fracos.
+- É uma sugestão para organizar e disciplinar o indivíduo, e não para limitar a sua capacidade de criação.
+- Possui 7 etapas sequenciais e progressivas, cada uma com um conjunto de roteiros e formulários disponíveis em www.sei.cmu.edu
+
+Objetivos do Processo Pessoal de Software (PSP):
+. Melhorar o planejamento;
+. Melhoria das estimativas e prazos;
+. Estabelecer processos de revisão de projeto e código.
+. Gerenciar a qualidade;
+. Executar a fase de projeto de maneira mais formal;
+. Identificar pontos de melhoria e qualidade.
+
+
+Processo para equipe de software (TSP)
+. O TSP é baseado no PSP e estabelece um framework para:
+- Planejar e gerenciar um projeto em equipe;
+- Definir processos - Incremental;
+- Distribuir papéis - Disciplina;
+- Construir um trabalho em equipe;
+- Estabelecer medidas de qualidade;
+- Ter equipe eficazes.
+    . Equipes eficazes possuem
+    - Objetivo definido, realista e tangível;
+    - Recursos são suficientes para o trabalho;
+    - Membros qualificados;
+    - Time motivado e empenhado em cumprir os Objetivos;
+    - Membros coopera e apoiam uns aos outros;
+    - Membros são disciplinados em seu trabalho.
+

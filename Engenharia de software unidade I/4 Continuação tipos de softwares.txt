@@ -1,0 +1,14 @@
+
+
+------------ Prazos, custos e recursos: --------------------
+
+Escopo: É necessário identificar com clareza e co detalhes quais são as necessidades (requisitos) dos envolvidos no projeto.
+Prazo: Uma vez definido o escopo, são realizadas as estimativas de tempo e recursos para atender essas necessidades.
+Custo: Com a definição do prazo e dos recursos, chega-se a estimativa de valores para a realização do projeto.
+
+Qualidade de software:
+- Qualidade de um produto de software pode ser definida como o atendimento às necessidades do cliente.
+- O processo de qualidade deve fazer parte do processo de desenvolvimento de software.
+- Deve ser verificada durante todo o ciclo de construção (grantia da qualidade) e validada quando o produto está pronto (controle de qualidade).
+- Qualidade é uma ação preventiva.
+

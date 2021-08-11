@@ -1,0 +1,56 @@
+
+
+>> Modelos de ciclo de vida de software <<
+
+Principais modelos de ciclos de vida:
+- Modelo Codifica-Remenda;
+- Modelo Sequencial Linear (cascata);
+- Modelo Incremental;
+- Modelo RAD;
+- Modelo Prototipação;
+- Modelo Espiral;
+- Modelo Unificado;
+- Modelo PRAXIS;
+- Modelo Sala Limpa.
+
+O modelo de ciclo de vida processo é escolhido com base:
+- Na natureza do projeto e da aplicação (tipo software);
+- Nos métodos e ferramentas a serem entregues;
+- Nos controles e nos produtos intermediários e finais a serem entregues.
+
+Levantamento das necessidades:
+- Entendimento e levantamento das necessidades da área do negócio.
+. Análise:
+    - Identificação e avaliação das alternativas sistêmicas que atendam aos requisitos.
+. Projeto:
+    - Definem as características técnicas relacionadas à construção como a arquitetura e o banco de dados.
+. Desenvolvimento:
+    - Inclui a codificação e os testes do novo sistema
+. Implantação: 
+    - Consiste em transferir a aplicação do ambiente de desenvolvimento para o ambiente de produção.
+. Manutenção:
+    - Atividades relacionadas a correções e/ou inclusão de novas funcionalidades após o sistema estar em produção.
+
+Modelo Codifica-Remenda:
+- É o modelo de ciclo de vida mais caótico.
+- Parte de uma especificação simples ou uma reunião para iniciar a codificação, fazendo correções à medida que surgem os defeitos.
+- Não há a separação de papéis e todos fazem todas as atividades.
+- Ainda é utilizado nos dias atuais.
+
+Modelo Cascata (watterfall)
+- Engenharia de sistemas:
+    . Envolve a coleta das necessidades dos usuários;
+- Definem-se:
+    . Os requisitos de negócio;
+    . A avaliação do sistema atual em uso, se existir
+    . Elementos de software e hardware necessários.
+- Análise:
+    . Concentra-se no detalhamento do "o quê" deve ser feito.
+- Design:
+    . Define o "como" a aplicação será construída;
+    . Envolve a definição da arquitetura de software, do banco de dados e das características visuais.
+- Codificação:
+    . Tradução dos requisitos para uma linguagem de programação.
+-Testes:
+    . Verifica se a aplicação está de acordo com a sua especificação;
+    

@@ -1,0 +1,32 @@
+>>>> Sistemas de Informação Executiva (SIE): <<<
+- Trata de se de um tipo de sistema de informações gerenciais destinado a facilitar e apoiar a informação e a tomada de decisão dos altos executivos.
+- É uma forma especializada de SAD, Que apresenta os resultados em telas gráficas, fáceis de usar e de navegar, criando situações de detalhamento
+- Vem perdendo espaço para os sistemas de BI (Business Inteligence) com seus relatórios e painéis interativos.
+
+Características:
+. Não exige experiência com computador
+. Fácil de usar
+. Fornece informações resumidas da empresa.
+. Possui filtros de dados para a gestão.
+. Os dados são obtidos das outras aplicações da organização
+. Essencialmente, é uma aplicação de consulta.
+
+
+>>> Sistemas Especialistas (SE): <<<
+- Usam conhecimentos e procedimentos de inferência para resolver problemas que necessitam de especialistas para serem resolvidos.
+- Utilizam inteligência artificial com linguagens como LISP e PROLOG.
+- São capazes de simular a capacidade de decisão humana.
+Exemplo: fazer diagnóstico do sistema de injeção de um automóvel, análise de crédito de um cliente, entre outros.
+
+Vantagens:
+. Custo reduzido.
+. Perigo reduzido.
+. Múltiplos conhecimentos.
+. Aumento do nível de confiança.
+. Resposta rápida.
+
+
+>>> Sistemas de Automação de Escritório (SAE)
+- São aplicativos que facilitam a vida dos funcionários de uma empresa realizando as atividades que outrora eram manuais.
+- Aumentam a produtividade e a qualidade das informações apresentadas.
+- Principais são: editores de texto, planilhas eletrônicas, e-mail, chats, correios de voz, videoconferência entre outros.
