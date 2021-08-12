@@ -1,0 +1,40 @@
+
+
+>> SCRUM <<
+
+- Gerenciamento ágil de projetos.
+- É um processo incremental para o desenvolvimento de qualquer produto software;
+- É um processo incremental para o gerenciamento de qualquer projeto;
+- Formal e tem passos pré-definidos;
+- Pouca flexibilidade de mudanças.
+
+Componentes:
+    - Processos: reunião de planejamento, reunião diária, reuniões de revisão e de lições aprendidas.
+    - Ferramentas: quadro Kanban, estórias, gráficos de controle.
+    - Pessoas: Scrum Master, Product Owner e Time de desenvolvimento.
+    - Cultura: time multidisciplinar, time autogerenciável, entrega de valor, cliente parte do time, entregas contínuas e colaboração.
+
+Conceitos:
+    - O Product Backlog representa uma lista com todos os requisitos priorizados e ordenados de acordo com o valor que representam para o cliente e negócio.
+    - Um Sprint é um incremento de 2 a 4 semanas que a equipe de um projeto tem para produzir o incremento.
+    - Uma Review Meeting é uma reunião ao final do sprint para o cliente realizar o aceite do incremento.
+    - Uma Retrospective Meeting é uma reunião para o time avaliar os fatos positivos e negativos observados.
+
+
+>> ICONIX <<
+
+- É um modelo ágil dirigido por casos de uso, que utiliza prototipação desde o início e diagramas da UML.
+- Os diagramas utilizados são: casos de uso, diagrama de classe, diagrama de objetos e diagrama de sequência.
+- É um processo mais simples que o processo unificado, sem perder a simplicidade do XP.
+
+Passo a passo:
+    - Prototipar a interface com o usuário;
+    - Escrever um caso de uso que defina como a interface irá se comportar;
+    - Elaborar o diagrama de classes de domínio;
+    - Incluir a visão de solução técnica a partir dos casos de uso com o diagrama de objetos;
+    - Elaborar os diagramas de sequência dos cenários;
+    - Implementar o caso de uso;
+    - Retornar ao passo 1 até terminarem as interfaces.
+    
+
+    

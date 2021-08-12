@@ -1,0 +1,59 @@
+
+>> Método Crystal <<
+
+Considera os seguintes fatores:
+    - Cada projeto tem suas próprias características.
+    - Equipes motivadas são fundamentais.
+    - Comunicação precisa ser efetiva.
+    - Foco na gestão de pessoas.
+
+* Diferente dos demais métodos ágeis por ser uma família de metodologias e não apenas uma.
+
+. As famílias são definidas pelo tamanho da equipe e permitem a adaptação do método de acordo com o projeto.
+- Crystal Clear - 3 a 10 pessoas.
+- Crystal Yellow - 15 a 30 pessoas.
+- Crystal Orange - 30 a 50 pessoas.
+
+. Vantagens:
+    - Ênfase no processo de comunicação da equipe.
+    - Especificações e modelos são informais.
+    - Utiliza casos de uso da UML.
+    - Usa incrementos regulares de uma mês.
+    - Método é pouco definido para permitir adaptações.
+. Desvantagens:
+    - Informabilidade pode gerar dúvidas em projetos maiores.
+    - Flexibilidade de adaptação pode gerar falhas.
+    
+
+>> Test Driven Development (TDD) <<
+
+- Não é método de testes, mas sim um método de desenvolvimento, criado por Kent Beck em 2003
+- Baseia-se em ciclos curtos e é caracterizado por:
+    . Primeiro o desenvolvedor cria casos de testes para uma melhoria ou nova funcionalidade.
+    . Depois é produzido um código para atender aos testes esperados.
+
+Ciclo de desenvolvimento:
+. Adicionar um teste:
+    - Escrever um teste baseado na especificação.
+    - Faz o desenvolvedor focar nos requisitos.
+    - Na primeira execução os testes devem falhar, pois o código não está pronto.
+. Escrever o código:
+    - Construir o código para passar nos testes escritos e automatizados.
+    - Todos os testes devem passar com sucesso.
+. Refatorar o código:
+    - Melhoria do código escrito.
+    - Refazer os testes após alterações.
+. Repetir tudo:
+    - Iniciando outro teste, o ciclo é repetido.
+    - Incorpora requisitos e novos testes até ficar 100% correto.
+    - Usar a integração contínua para reversão.
+
+. Vantagens:
+    - Processo incremental.
+    - Especificações e modelos são informais.
+    - Testes unitários efetivos.
+    - Aumento da profundidade em alterações.
+. Desvantagens:
+    - Sem especificações não se constrói.
+    - A criação de testes automatizados podem gerar atrasos no tempo de construção.
+    - É um modelo ágil.

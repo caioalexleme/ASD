@@ -1,0 +1,12 @@
+
+>> Modelagem Ágil <<
+
+- É um caminho alternativo à falta de modelos preconizadas pelos métodos àgeis, criando padrões, documentos e contratações formais.
+- Propõe se a encontrar um meio-termo que permita uma modelagem suficiente para o desenvolvimento e não se torne um fardo para as equipes de construção.
+- Permite que cada equipe defina o que é suficiente para o cliente e para o desenvolvimento.
+
+Objetivos:
+- Definir e colocar em prática um conjunto de práticas que atendam às necessidades.
+- Lidar com a questão de incluir modelos aos métodos ágeis, tornando os mais formais.
+- Discutir e propor um conjunto de atividades mínimas para a quebra do paradigma.
+

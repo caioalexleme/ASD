@@ -1,0 +1,41 @@
+
+>> Feature Driven Development (FDD) <<
+
+- Esse método existia antes do Manifesto ágil, publicado em 2001;
+- Baseia-se no desenvolvimento por funcionalidade, ou seja, por requisitos funcionais do sistema;
+- Pode ser utilizado em conjunto com o SCRUM, em que o FDD seja o processo de desenvolvimento e o SCRUM de gerenciamento.
+
+Processos básicos:
+    - Análise orientada a objetos.
+    - Decomposição funcional para criar a lista de funcionalidades.
+    - Planejamento incremental por funcionalidade.
+    - Desenho orientado a objetos.
+    - Construção por funcionalidade.
+
+. Vantagens:
+    - Modelagem orientada a objetos.
+    - Desenvolvimento incremental.
+    - Equipes pequenas.
+    - Inspeção para garantir a qualidade.
+    - Integração contínua.
+. Desvantagem:
+    - Desenvolvedor é incentivado como único responsável pelo módulo que desenvolve.
+
+>> Adaptative Software Develoopment (ASD) <<
+
+. Principais características:
+    - É incremental.
+    - Ciclos de 4 a 8 semanas;
+    - Cliente sempre presente durante o processo;
+    - Pode ser usado para sistemas grandes;
+    - Utiliza técnica de reunião JAD (Joint Application Development) para o desenvolvimento de aplicações;
+
+. Vantagens:
+    - Desenvolvimento orientado à riscos.
+    - Desenvolvimento baseado em componentes.
+    - Equipes pequenas.
+    - Prazos prefixados (time-boxed).
+    - Boa tolerância a mudanças
+. Desvantegens:
+    - Pouco levantamento de requisitos.
+

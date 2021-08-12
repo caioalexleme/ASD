@@ -1,0 +1,20 @@
+
+>> Dynamic System Development (DSDM) << 
+
+- É o predecessor do método XP e baseado no RAD;
+- Utilização de fixação de tempo;
+- Equipes pequenas;
+- Bom suporte a mudanças.
+
+. Vantagens:
+    - Desenvolvimento incremental.
+    - Usuário sempre envolvido.
+    - Equipe DSDM autorizada a tomar decisões.
+    - Foca na entrega frequente do produto.
+    - "Construa, antes de construir corretamente".
+    - Testes são integrados ao ciclo de vida.
+. Desvantagens:
+    - Requisitos são acompanhados em auto nível.
+    - Depende de autonomia para tomar decisões.
+
+    

@@ -1,0 +1,50 @@
+
+* Em 2001 Kent Bech e 16 outros notáveis desenvolvedores, produtores e consumidores de software, conhecidos como Aliança Ágil, assinaram o manifesto para o Desenvolvimento Ágil de Software (https://agilemanifesto.org/).
+
+Manifesto Ágil - Valores
+- Indivíduos e interações em vez de processos e ferramentas.
+- Software funcionando em vez de documentação de abrangente.
+- Colaboração do Cliente em vez de negociação de contatos.
+- Resposta às modificações em vez de seguir um plano.
+
+Princípios:
+1) Modificação de requisitos são bem vindas.
+2) Entrega de software funcionando frequentemente.
+3) Pessoal de negócio e desenvolvedores trabalhando juntos.
+4) Indivíduos motivados.
+5) Conversa face a face pra levantar informações.
+6) Software funcionando com medidas de progresso.
+7) Ritmo constante de desenvolvimento sustentável.
+8) Excelência técnica.
+9) Simplicidade
+10) Equipes auto-organizadas
+11) Equipe reflete como se tornar mais efetiva, então sintoniza e ajusta adequadamente seu comportamento.
+
+Extreme Programming (XP)
+Princípios básicos:
+- Simplicidade
+- Comunicação
+- Feedback
+- Coragem
+
+12 práticas:
+1) Processo de Planejamento ("Planning game")
+2) Releases Curtos
+3) Metáfora
+4) Projeto (Design) Simples
+5) Testes
+6) Refactoring
+7) Gerenciar a qualidade
+8) Programação em Pares
+9) Propriedade Coletiva do Código
+10) Integração contínua
+11) Semana de 40 horas
+12) On-Site Customer (Cliente sempre presente)
+
+Desvantagens do processo:
+- Não haver nenhuma documentação do projeto.
+- Trabalhar somente com recursos de nível sênior é mais caro e difícil
+- Difícil controle para projetos grandes
+- Software é contruído para o "Agora"
+- Mudança cultural
+
