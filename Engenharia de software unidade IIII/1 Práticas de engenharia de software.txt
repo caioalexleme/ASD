@@ -1,0 +1,70 @@
+
+>> Práticas de engenharia de software << 
+
+- É uma coleção de conceitos, métodos e ferramentas de que o engenheiro de software faz uso no seu dia a dia.
+- Determinam um modelo de processo de software que inclui atividades técnicas e gerenciais para o desenvolvimento da aplicação.
+
+Envolve:
+- Entender o problema: comunicação e análise
+- Planejar uma solução: modelagem e projeto.
+- Executar o plano: geração do código.
+- Examinar o resultado: realização de testes.
+
+Princípios da comunicação:
+- Prepare-se antes de se comunicar.
+- Sempre que possível, tenha um facilitador.
+- Saiba ouvir.
+- Faça a comunicação face a face.
+- Faça anotações e documente as decisões.
+- Tenha foco, não se disperse com outros assuntos.
+- Utilize figuras para facilitar o entendimento.
+- Busque a negociação ganha-ganha.
+
+>> Técnica de Reunião Walkthrough <<
+
+- É uma técnica de reunião informal que pode ser utilizada em qualquer fase do desenvolvimento de software.
+- É mais utilizada como técnica de revisão de qualquer produto técnico de software antes de entregá-lo ao cliente.
+- Também conhecida como revisão por pares, é muito simples e bem aceita por todos.
+
+Envolve três papéis:
+- O autor.
+- O revisor.
+- O escriba.
+
+Técnica:
+- O autor descreve o produto técnico passo a passo para que revisor faça os comentários.
+- O escriba registra os apontamentos para posterior correção.
+
+>> Joint Application Development (JAD) <<
+- É uma reunião de grupo em que há interação livre entre os participantese substitui a técnica de entrevistas.
+- Utilizada para definir os requisitos do projeto.
+- Visa envolver o cliente como coautor do trabalho, e não apenas um interlocutor, aumentando o seu coprometimento.
+
+Envolve seis papéis:
+- Facilitador, Ususários, Gerentes e Desenvolvedores, Secretário e Observador.
+
+Fases:
+- Definição do tema.
+- Pesquisa,
+- Preparação,
+- Reunião,
+- Elaboração do documento final.
+
+Práticas de uma reunião JAD:
+- Agende com antecedência e comunique a todos.
+- Convoque as pessoas certas.
+- Envie a agenda e documentos antes da reunião.
+- Preestabeleça o horário de início e fim.
+- Escolha local isento de influências e corfortável.
+- Utilize várias mídias (quadro, flipchart, etc.)
+- Utilize formato arena na sala.
+- Foco 100% no assunto durante a reunião.
+
+* Interatividade:
+- A prática de comunicação é essencial para o sucessodo desenvolvimento de software. Entre as opções abaixo, qual alternativa representa um dos princípios da comunicação:
+a) Utilizar o processo cascata.
+b) Comunicação face a face. (X)
+c) Tratar múltiplos assuntos.
+d) Interromper sempre que achar necessário.
+e) Procure uma negociação boa para você.
+

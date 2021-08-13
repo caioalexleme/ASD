@@ -1,0 +1,65 @@
+
+>> Tática de planejamento <<
+
+- A Atividade do planejamento é esencial para aumentar a probabilidade de sucesso de um projeto de software.
+- Não deve ser burocrático.
+- Deve ser feito em ondas sucessivas, à medida que os objetivos do processo vão evoluindo.
+- Deve ser realizado com a participação de todos os envolvidos.
+
+? Mas o que é um projeto?
+- É um empreendimento temporário para criar um produto único para atender as necessidades do seu cliente.
+- O PMBOK (Project MAnagement of Knowledge) é um guia de boas práticas em gerênciamento de projetos.
+
+Baseiia se na tríplice restrição:
+- Escopo, prazo, custo e qualidade.
+
+Plano do projeto:
+- Reúne a documentação necessária para conduzir o processo.
+
+Deve conter:
+- O escopo do projeto.
+- O cronograma.
+- O orçamento.
+- Os riscos.
+- Os recursos humanos necessários.
+- Os padrões de qualidade esperados.
+- Plano para a distribuição das informações.
+
+Estrutura Analítica de Projeto (EAP)
+- É a decomposição do escopo do projeto em produtos entregáveis com o objetivo de facilitar o entendimento e a validação do cliente.
+
+Recursos:
+- Qualquer variável requerida para a execução do projeto.
+
+Alguns tipos de recursos:
+- Pessoas, equipamentos, materiais, capital, instalações entre outras.
+
+Responsabilidades:
+- É a distribuição do trabalho para as pessoas da equipe do projeto.
+- Para evitar conflitos durante o projeto, deve estar claro para todos os envolvidos, quem é o responsável por cada atividade.
+
+Cronograma:
+- É a descrição de sequencia de atividades, suas durações e responsáveis para a realização do projeto.
+- Envolve quem realizará a atividade.
+- Determina o tempo  total do proejeto.
+
+Problemas x Riscos:
+- É tudo aquilo que pode gerar problemas ao projeto.
+Consiste em um conjunto de atividades preventivas para evitar que ocorram problemas no projeto.
+- Deve conter para cada risco: ações e contingências.
+- Deve ser realizado durante todo o projeto.
+
+Padrões de qualidade:
+- É a definição de "oa quê sera feito durante o projeto" para garantir que o produto esteja correto.
+
+Plano de counicação:
+- Deve descrever quais os métodos e para quem as informações de andamento do projeto devem ser distribuídas durante a fase de execução.
+
+Interatividade:
+- As práticas de planejamento são essenciais para aum projeto de software. Qual das alternativas abaixo está correta em relação a essa afirmação?
+a) Deve ser feito um cronograma.
+b) É preciso definir o número de recursos necessários.
+c) Deve ser feita uma análise de riscos.
+d) Deve ser elaborada uma Estrutura Analítica do Projeto.
+e) Todas estão corretas. (x)
+
