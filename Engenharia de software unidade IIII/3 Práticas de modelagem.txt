@@ -1,0 +1,24 @@
+
+>> Práticas de modelagem <<
+
+- Consiste num conjunto de atividades para construir modelos (diagramas) que expliquem as características e comportamentos de um arquivo de software.
+- Registra o "O quê" e o "como" o software deve ser desenvolvido.
+- Formaliza as definições e as especificações obtidas junto ao cliente.
+
+Os modelos permitem ter:
+- Um meio para a discussão.
+- Um meio para a comunicação.
+- Uma base para análise.
+- Um simulador de situações.
+- Uma base de controle.
+- Um meio para garantir o correto funcionamento.
+
+. O foco da modelagem orientada a objetos está em ver o mmundo como um conjunto de objetos que interagem entre si para produzir um resultado comum.
+
+Principais características:
+- Foco na modelagem de informações.
+- Identificar os objetos do mundo real.
+- Identificar suas características (atributos).
+- Identificar seus comportamentos (métodos).
+- Formam as classes, que são os blocos básicos para a construção.
+- Uma vez identificados os objetos,
