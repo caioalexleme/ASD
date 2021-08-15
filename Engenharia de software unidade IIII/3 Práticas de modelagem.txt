@@ -21,4 +21,30 @@ Principais características:
 - Identificar suas características (atributos).
 - Identificar seus comportamentos (métodos).
 - Formam as classes, que são os blocos básicos para a construção.
-- Uma vez identificados os objetos,
+
+. Uma vez identificados os objetos, a relação entre eles forma o sistema a ser desenvolvido.
+. Ele era construído a partir de interações entre esses objetos.
+
+>> Modelagem Orientada a Objetos com UML <<
+
+. UML: Unified Modeling Language
+- É a unificação das diversas linguagens de modelagem orientada a objetos existentes.
+- Foi criada em 1995 por Booch, Rumbaugh, Jacobson,  que unificaram os seus métodos Booch, OMT e OOSE, que eram os mais utilizados na época.
+- A partir de 1999, passou a ser mantida pela OMG (Objeto Management Group) - www.omg.org.
+
+A UML divide os diagramas em 3 categorias:
+- Estáticos: mostram a estrutura física do sistema e não envolvem as interações. Diagramas de Casos de Uso e de Classes.
+
+- Dinâmicos: mostram a interação ativa entre os elementos estruturais do sistema.
+. Os principais são os diagramas de sequência, estado e de atividades.
+
+- Arquiteturais: Mostram a realização dos sistema em componentes funcionais e executáveis.
+. Os principais Diagramas de Componentes e de Implantação.
+
+>> Interatividade <<
+- A UML é a principal linguagem de modelagem orientada a objetos para o desenvolvimento de software e possui diversos diagramas para representar os objetos. O diagrama que mostra a interação entre esses objetos é o:
+a) Diagrama de classes.
+b) Diagrama de casos de uso.
+c) Diagrama de sequência. (x)
+d) Diagrama de objetos.
+e) Diagrama de componentes.

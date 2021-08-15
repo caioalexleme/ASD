@@ -1,0 +1,63 @@
+
+>> Modelagem de processo de negócio (BPMN) <<
+
+- Define gráficamente o fluxo de comportamento das regras de negócio do sistema.
+- Foi publicado em 2004 pela OMG.
+
+Objetivos:
+- Fornecer uma notação fácil de entender por todos os envolvidos.
+- Ser uma ferramenta de trabalho comum para usuários, analistas e desenvolvedores.
+
+>> MDD - Model Driven Development <<
+
+- Surgiu com o objetivo de criar especificações e modelos apoiados por ferramentas que, interpretadas pelo computador, gerem o código de forma automática ao seu final.
+- Utiliza linguagem DSL (Domain Specific Language) para gerar essas especificações.
+- Modelo ainda em fase de experimentos.
+
+- É a fase que vem após as fases de requisitos e especificações de soluções conceituais. É o código.
+- Diversas boas práticas devem ser observadas pelo engenheiro de software;
+- Desenvolvimento incremental;
+- Padrões de codificação;
+- Defininção de arquitetura;
+- Verificação de qualidade;
+- Testes constantes, entre outras.
+
+Práticas de construção - Arquitetura baseada em componentes:
+- A arquitetura define como o software deverá ser construído. É a definição da estrutura do sistema.
+- O desenvolvimento baseado em componentes (CBSE) visa criar código que possa ser reutilizado dentro do sistema desenvolvido ou por outros sistemas.
+. Seus principais objetivos são:
+    - Eliminar duplicação de código.
+    - Reduzir o tempo de desenvolvimento.
+    - Aumentar a qualidade.
+
+Verificação da qualidade:
+- Envolve avaliar se o software desenvolvido está em um nível satisfatório de aceitação.
+- Essa avaliação se dá através de testes contínuos durante o processo de desenvolvimento.
+
+Controle de mudanças:
+- Controlar as mudanças que ocorrem durante o ciclo de desenvolvimento é uma das tarefas mais complexas da engenharia de software.
+. Os problemas mais comuns são:
+    - Codificação simultânea.
+    - Múltiplas versões;
+    - Alterações contínuas;
+    - É essencial o uso de ferramentas para o controle das mudanças.
+
+Práticas de implantação:
+- Consiste nas atividades de liberação do software desenvolvido para o ambiente de produção do cliente.
+. A implantação deve garantir:
+    - Se o software for novo, que esteja completo e funcionando após a instalação.
+    - Se for uma alteração, que não cause problemas no ambiente e não afete a aplicação em uso.
+
+Alguns cuidados importantes:
+- Elaborar o plano de implantação em conjunto com todos os envolvidos.
+- Verificar todo o hardware e software no novo ambiente.
+- Garantir o envolvimento de usuários-chaves.
+- Ter um processo de retorno à versão anterior em caso de problemas na implantação.
+
+>> Interatividade <<
+- O desenvolvimento baseado em componentes é uma boa prática de construção da engenharia de software. Entre as alternativas abaixo, qual é um benefício de uso dessa prática:
+a) Não melhora a qualidade.
+b) É uma boa prática para testes.
+c) Aumenta o tempo de desenvolvimento
+d) Reúso de código desenvolvido (x)
+e) Nenhuma das anteriores. 
