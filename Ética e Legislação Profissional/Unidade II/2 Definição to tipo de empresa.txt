@@ -1,0 +1,10 @@
+
+>> Definição do tipo de empresa <<
+
+- Empresário (individual): é a pessoa que trabalha no comércio ou com serviços não intelectuais, ou seja, que não depende de graduação superior para seu desempenho. É a antiga firma individual e o seu registro é a realizado na Junta Comercial.
+- Sociedade empresária limitada (Ltda.): é a sociedade que possui dois ou mais sócios e que trabalha no comércio ou com serviços não intelectuais.
+- Sociedade simples limitada (Ltda.): é a sociedade que possui dois ou mais sócios e que trabalha com atividades intelectuais, ou seja, de natureza científica, literárias ou artística.
+
+>> Tipos de participação <<
+
+- O sócio- administrador é aquele que efetivamente desempenha funções dentro

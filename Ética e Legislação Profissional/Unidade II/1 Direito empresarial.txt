@@ -41,4 +41,49 @@ Empresa e empresário:
 - Comerciante > empresário (prestadores de serviço, industriais, etc.)
 - Atos do comércio - Atividade econômica organizada.
 
-- A empresa é o resultado
+- A empresa é o resultado da atividade do empresário, sendo assim, sinônimo de atividade empresarial. Contudo, a organização da atividade empresarial é feita pelo empresário.
+- Empresa = atividade empreserial
+A estrutura do conceito de empresa:
+- Atividade empresarial: O empresério exerce uma atividade que é a própria empresa; como dito anteriormente, empresa e atividade empresarial são sinônimos.
+
+- Atividade econômica: porque está voltada à obtenção de lucro para quem a explora.
+- Atividade organizada: no sentido de que nela se encontram articulados os fatores de produção de bens ou serviços e circulação de bens ou serviços.
+- A falta de qualquer um desses requisitos descaracteriza a atividades empresarial e, consequentemente, a empresa.
+
+Destaca-se da definição de empresário a noção dos seguintes elementos:
+I. Profissionalismo: compreende o exercício da atividade pelo empresário com habitualidade, além da pessoalidade do empresário ou de parceiros e colaboradores, sendo também necessária a organização de elementos inerentes à atividade empresarial.
+II. Atividade econômica: o empresário deve exercer atividade de circulação de riquezas com o objetivo de lucratividade.
+
+>> Espécie de empresário <<
+- Empresário individual - é representado por uma pessoa natural, por meio do seu nome civil.
+- Sociedade  empresária - pessoa jurídica, composta pela sociedade de pessoas naturais e/ou jurídicas
+- Empresário individual com responsabilidade limitada (artigo 980-A, do CC/2002) - pessoa natural que explora atividade empresarial, porém ao contrário do empresário individual, tem personalidade jurídica, conforme artigo 44, inciso IV, do CC/2002.
+
+
+>> Condições para ser empresário individual ou administrador de sociedade empresária <<
+
+Assim, são dois os requisitos básicos para o exercício da atividade empresarial:
+- Capacidade civil para o exercício da profissão: capacidade plena, sendo absolutamente capazes, têm os maiores de 18 anos, desde que emancipados por outorga dos pais, casamento, nomeação para emprego público efetivo, estabelecimento por economia própria, obtenção de grau em curso superior).
+
+-Não estar legalmente impedido de exercer sua atividade empresarial: existem os legalmente impedidos, ou seja, aqueles que, muito embora sejam plenamente capazes nos termos anteriormente descritos, encontram vedação total ou parcial, em lei, para o desenvolvimento da atividade empresarial.
+
+
+>> Abertura ou registro de empresa <<
+
+- A empresa adquire personalidade jurídica: "Art. 985. A sociedade adquire personalidade jurídica com a inscrição, no registro próprio e na forma da lei, dos seus atos constitutivos" - Código civil.
+
+- No dia 11 de novembro de 2011, foi publicada a lei Complementar nº 139, que elevou o limite de enquadramento do regime tributário do Simples Nacional e do Microempreendedor Individual (MEI).
+
+- O simples é a forma de tributação que engloba 8 impostos numa única alíquota com valores reduzidos, entre eles: IR, PIS, Confins, INSS, ICMS e IPI.
+- O Super Simples - a Lei Complementar nº 147, de 7 de agosto de 2014, alterou a Lei Complementar nº 123, de 2006, que institui o Estatuto da Micro e Pequena Empresa e dispões sobre o Simples Nacional.
+
+>> Baixa de empresas <<
+
+- Poderá haver a baixa de empresas, mesmo com pendências ou débitos tributários a qualquer tempo. O pedido de baixa importa responsabilidade solidária dos empresários, dos titulares, dos sócios e dos administradores no período da ocorrência dos respectivos fatos geradores.
+
+>> Passos iniciais para abrir uma empresa <<
+
+Cópia autenticada do RG e do CPF do titular, no caso de empresário individual, ou do(s)
+sócio(s)-administrador(es), em caso de sociedade. Também são aceitas cópias de documentos de conselhos profissionais e carteiras de habilitação. Autenticada significa que a cópia do documento deve ter o  reconhecimento de algum cartório ou tabelionato.
+- Cópia do comprovante de endereço da empresa: esse documento será utilizado para a emissão do alvará de funcionamento.
+

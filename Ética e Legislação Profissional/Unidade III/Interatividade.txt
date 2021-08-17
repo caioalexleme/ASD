@@ -13,3 +13,15 @@ d) Onerosidade e alteridade
 e) Todas as anteriores estão corretas e se complementam. (x)
 
 O habeas data é um remédio constitucional que tem por objetivo proteger a esfera íntima dos indivíduos contra:
+a) Usos abusivos de registros de dados pessoais coletados por meios fradulentos, desleais ou ilícitos.
+b) Introdução nesses registros, de dados sensíveis.
+c) Consevação de dados falsos ou com fins diversos dos autorizados em lei.
+d) Todas as alternativas anteriores estão corretas. (d)
+e) Nenhuma das alternativas anteriores está correta.
+
+Quando falamos do Marco Civil da Internet, sabe-se que se trata de uma lei, sendo que ela estabelece:
+a) Responsabilidades comerciais sobre produção e softwares.
+b) Direitos e deveres da internet no Brasil. (x)
+c) Restrições de circulação de dados por meio eletrônico
+d) Limitação de acessos estrangeiros a dados no brasil
+e) Controle total sob a circulação das informaçãoes eletrônicas
