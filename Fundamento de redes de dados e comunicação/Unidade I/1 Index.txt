@@ -1,0 +1,63 @@
+
+>> Histórico das redes de comunicação <<
+
+- Snais de fumaça e pinturas nas cavernas.
+- 1875 - Alexander Graham Bell inventou o primeiro sistema telefônico com transmissão elétrica inteligível da voz, por meio de fio, motivando diversos estudos, trabalhos e inovações em transmissão da informação.
+- 1888 - Heinrich Rudolf Hertz apresenta o seu trabalho a respeito das propriedades das ondas eletromagnéticas e sua transmissão.
+- 1893 - primeira transmissão de voz via rádio por meio de ondas eletromagnéticas na avenida Paulista (São Paulo), pelo padre Landell de Moura.
+- 1897 - transmissão de sinais telegráficos sem fio por Guglielmo Marconi (1874).
+- 1898 - desenvolvimento de uma sistema de comunicação de rádio para navios russos por Aleksander Stepanovich Popov.
+- 1957 - Lançamento do primeiro satélite artificial (Sputnik) pelos russos, proporcionando a comunicação de sinais de voz e de televisão.
+- No final da década de 1960, criação da ARPANET, considerada praticamente a primeira rede de computadores e precursora da internet.
+
+>> Tipo de sistemas de comunicação <<
+
+- Sistema de telefonia física
+- Sistema de telefonia celular
+- Sistema de comunicação por fibras ópticas
+- Sistema de comunicação por rádio.
+- Sistema de comunicação via satélite.
+
+>> Sinais da informação <<
+
+- Sinais analógicos assumem infinitos valores em um espaço de tempo.
+- Sinais digitais assumem valores definidos em um espaço de tempo.
+
+. Característica de um sinal analógico
+- Amplitude: é o maior valor encontrado em um sinal analógico.
+- Período: é o espaço de tempo em que o ciclo de uma onda se repete.
+- Frequência: é a quantidade de ciclos (períodos) em um intervalo de tempo igual a um segundo; é na verdade o inverso do período e tem o seu valor dado em Hertz (Hz).
+- Fase: é a posição da forma de onda em relação a um tempo igual a zero.
+
+- Assume apenas valores pré-definidos.
+- É mais adequada para as redes de computadores.
+- O computador "compreende" apenas o que é digital, mais especificamente é binário, ou seja, dois valores: 0 (zero) e 1 (um).
+- Cada algarismo que representa um número binário é chamado de bit.
+- Assim, toda a realidade em volta de um sistema computacional é traduzida para bits e bytes (conjundo de 8 bits).
+
+>> Transimissão de sinais <<
+
+- Classifica-se em analógica ou digital.
+- Pode ser usada de três modos diferentes: simplex, half-duplex e full-duplex.
+- Também é possível classificar a transmissão como síncrona ou assíncrona.
+
+>> Principais processos de comunicação <<
+
+- Modulação: é o processo pelo qual uma onde portadora é alterada segundo as características de um sinal que precisa ser transmitido a um destino.
+- Multiplexação: é o processo usado quando se deseja transmitir, em um único meio, sinais oriundos de diferentes em fontes.
+- Codificação: é o processo de transformação de um conjunto de sinais em códigos.
+
+>> Distúrbios em um canal de comunicação <<
+
+-Interferência: Sinal de origem humana que invade o canal de comunicação, atrapalhando e dificultando o processo de comunicação.
+- Ruído: sinais aleatórios de origem natural que provocam efeitos indesejáveis nos canais de comunicação.
+- Atenuação: perda de potência de um sinal ao se propagar por um canal de comunicação.
+- Distorção: Alteração da forma do sinal devido à atenuação imposta às diferentes frequências.
+
+>> Medidas de desempenho de um sistema de comunicação <<
+
+- Taxa de transferência: mede a quantidade de dados transferida no tempo.
+- Atraso (ou delay): medida de tempo relacionada ao deslocamento da informação da origem (transmissor) até o destino (receptor).
+- Jitter: somar todos os atrasos encontrados nos pacotes de dados.
+- Relação sinal ruído: é a razão entre a potência transmitida de um sinal e o ruído encontrado na transmissão.
+

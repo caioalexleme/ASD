@@ -1,0 +1,27 @@
+Qual é o tipo de transmissão que ocorre apenas de forma unidirecional, ou seja, obedece apenas a uma direção?
+a) Transmissão duplex.
+b) Transmissão fullduplex.
+c) Transmissão simplex. (x)
+d) Transmissão half-duplex.
+e) Transmissão isócrona.
+
+Qual dos dispositivos a seguir não se trata de um dispositivo final?
+a) computadores.
+b) Roteadores. (x)
+c) Impressoras de rede.
+d) Telefones VoIP
+e) Terminais de vídeo conferência.
+
+Qual das opções a seguir NÃO pode ser considerada um meio físico confinado?
+a) Cabo coaxial grosso. 
+b) Cabo de par trançado.
+c) Fibra óptica.
+d) Ar. (d)
+e) Cabo coaxial fino.
+
+Qual das categorias de cabos a seguir opera na velocidades de 100Mbps por segundo?
+a) 1.
+b) 2.
+c) 3.
+d) 4.
+e) 5. (x)

@@ -1,0 +1,4 @@
+
+>> Redes de computadores <<
+
+- É um conjunto de módulos processadores capazes de trocar informações e copartilhar recursos, interligados por um sistema de comunicação 
