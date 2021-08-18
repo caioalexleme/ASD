@@ -1,4 +1,35 @@
 
 >> Redes de computadores <<
 
-- É um conjunto de módulos processadores capazes de trocar informações e copartilhar recursos, interligados por um sistema de comunicação 
+- É um conjunto de módulos processadores capazes de trocar informações e copartilhar recursos, interligados por um sistema de comunicação.
+- Baseiam-se nos princípios de uma rede de informações, que, por meio de hardware e software, torna-a mais dinâmica para atender suas necessidades de comunicação.
+- A sua evolução é constante, ampliando a capacidade de comunicação e favorecendo as interações sociais, comerciais, políticas e pessoais.
+- Mudam rapidamente para acompanhar a transformação da rede global.
+
+>> Composição das redes de computadores <<
+
+- Protocolos: regras que os dispositivos de rede usam para se comunicar.
+- Meios de comunicação: meios de transporte que permitem a transmissão, recepção e encaminhamento de dados.
+
+>> Protocolos <<
+- Podem ser considerados como acordos ou regras que regem os processos de comunicação de dados.
+= Eles normalmente são criados em um contexto descrito por um modelo ou padrão, não operando de maneira isolada, mas totalmente interligados, formando um pilha de protocolos.
+- Em redes de computadores, os principais modelos que agrupam protocolos são os modelos OSI e TCP/IP.
+
+>> Classificação das redes de computadores quanto à abrangência <<
+
+- LAN (Local Area Network): rede relativamente pequena de computadores, de abrangência limitada.
+- MAN (Metropolitan Area Network): Rede de alta velocidade composta de LANs situadas em uma mesa região metropolitana.
+- WAN (Wide Area Network): rede que conecta LANs situadas em diferentes áreas metropolitanas.
+
+>> Classificação das redes de computadores quanto ao modelo computacional <<
+
+- Processamento centralizado: caracterizado pela existência de um computador central com grande capacidade de processamento, conhecido como sinais burros.
+- Computação distrubuída: cada máquina tem o seu próprio poder de processamento. É possível subdividí-las em:
+    - Cliente-servidor.
+    - Ponto a ponto.
+
+>> Arquitetura de redes <<
+
+- É um meio de descrever o projeto lógico de uma rede de computadores.
+- Apresenda os meios tecnológicos
