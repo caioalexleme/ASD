@@ -32,4 +32,44 @@
 >> Arquitetura de redes <<
 
 - É um meio de descrever o projeto lógico de uma rede de computadores.
-- Apresenda os meios tecnológicos
+- Apresenta os meios tecnológicos que sustenta a infraestrutura, os serviços e os protocolos de rede.
+- As características abordadas pela arquitetura são: tolerância e falhas, escalabilidade, qualidade de serviço e segurança.
+
+>> Tipos de arquitetura de redes <<
+
+- Cliente servidor: é caracterizada pela existência do controle e do gerenciamento central de recursos em servidores.
+- Ponto a ponto: é uma arquitetura em que qualquer computador pode atuar tanto como servidor como cliente.
+
+>> Topologias de rede <<
+
+- Topologia física: descrição da configuração dos meios físicos que interconectam os dispositivos em uma rede.
+- Topologia lógica: define o modo os dispositivos se comunicam e os dados se propagam na rede.
+
+>> Topologia físicas de rede <<
+
+- Topologia física em estrela: todos os componentes estão interligados a um equipamento concentrador, que é o núcleo central de uma rede.
+- Topologia física em barramento: cada um dos componentes está interligado a um barramento físico.
+- Topologia física em anel: há um meio físico interligando os componentes um por um, formando um anel físico.
+
+>> Topologias lógicas de rede <<
+
+- Topologia lógica em barramento: utiliza o método de contenção, que é um processo de acesso ao canal de comunicação com acesso múltiplo e verificação portadora.
+- Topologia lógica em anel: utiliza o método de acesso controlado, de forma que os dispositivos podem utilizar o canal de comunicação de modo controlado e revezado.
+
+>> Equipamentos de Rede <<
+
+-  São os elementos responsáveis pela transmissão, recepção e encaminhamento de dados. Para o funcionamento de uma rede, são necessários dispositivos que permitam o transporte de dados e uma comunicação adequada entre os diversos equipamentos.
+- Eles estão divididos em: dispositivos finais e dispositivos intermediários.
+
+>> Dispositivos finais <<
+
+- Também chamados de hosts, são aqueles que estão mais próximos das pessoas.
+- Esses dispositivos formam a interface entre os usuários e a rede de comunicação subjacente.
+- Um dispositivo de host é a origem ou o destino de uma mensagem transmitida pela rede.
+- São exemplos de dispositivos finais: computadores, impressoras de rede, Telefones VoIP, terminais de videoconferência, câmeras de segurança, dispositivos móveis.
+
+>> Dispositivos Intermediários <<
+- Os dispositivos intermediários são os que interconectam a dispositivos finais, fornecendo conectividade e funcionam em segundo plano para garantir que os dados fluam pela rede.
+- Esses dispositivos conectam os hosts individuais à rede e podem conectar várias redes individuais para formar uma rede interconectada.
+- Os dispositivos intermediários podem ser classificados em: de acesso à rede (Switches e pontos de acesso sem fio), de interconexão (roteadores) e de segurança (firewalls).
+

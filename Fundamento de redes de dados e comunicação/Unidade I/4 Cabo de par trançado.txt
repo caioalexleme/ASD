@@ -1,0 +1,71 @@
+
+>> Cabo de par trançado <<
+- É composto por 1, 2 ou 4 pares de fios enrolados de dois em dois formando uma camada isolantes.
+- Trançamento das duas propriedades elétricas ao longo do fio e reduz o nível de interferência eletromagnética.
+- Encontrados em redes domésticas e corporativas interligando dispositivos.
+- Suporta sinais analógicos ou digitais e sua largura de banda é 10/100/1000 Mbps que pode variar conforme o meio onde está inserto.
+- Pode alcançar a velocidade de 10Gbps.
+
+>> Cabos de pares trançados sem blindagem <<
+
+- São conhecidos como cabos UTP e são constituídos de quatro pares de fios enrolados revestidos com uma capa de plástico - PVC.
+- É um dos cabos mais utilizados, principalmente o de categoria de 5e, devido à facilidade de manuseio, baixo de preço, transmissão de dados de até 100 Mbps a uma distância máxima de 100 metros.
+- Utiliza conectores com oito contatos, conhecido por conector RJ-45.
+- Como desvantagem, esse cabo pode sofrer interferências eletromagnéticas externas.
+
+>> Cabos de pares trançados blindados <<
+
+- Os cabos de pares trançados com blindagem, como o próprio nome sugere, possuem uma blindagem além da cobertura de plásticos em seus pares.
+- Essa blindagem é uma capa metálica com imunidade a ruídos que é instalada em cada par.
+- O custo desse cabo é mais elevado, sendo indicado para ambientes com interferência eletromagnética.
+
+>> Categorias de cabos de pares trançados <<
+
+- Categoria 1: são os cabos telefônicos utilizados para o tráfego de voz, mas não dados.
+- Categoria 2: certifica cabos UTP com transmissão de dados de até 4Mbps. Possui 4 pares de fios. Muito utilizado em redes que seguem o padrão token ring.
+- Categoria 3: certifica cabos UTP com tranmissão de dados de até 16Mbps. Possui 4 pares de fios. Foi utilizado nas primeiras redes ethernet com 10Mbps.
+- Categoria 4: Certifica cabos UTP com transmissão de dados de até 20 Mbps. Possui 4 pares de fios. Foi muito utilizado em redes token ring.
+- Categoria 5: Certifica cabos UTP com transmissão de dados de até 100 Mbps. Possui 4 pares de fios.
+- Categoria 5e: certifica cabos UTP com transmissão de dados de até 1 Gbps. Possui 4 pares de fios. Visualmente não possui diferença.
+- Categoria 6: certifica cabos UTP com transmissão de dados de até 10 Gbps. Possui 4 pares de fios.
+- Categoria 7a: certifica cabos de pares trançados com blindagem, permitindo velocidade de até 40Gbps.
+
+>> Fibras ópticas <<
+
+- Por meio das fibras ópticas, os dados são transportados na forma de sinais luminosos - fótons.
+- É um meio seguro de transmitir dados, pois não transportam sinais elétricos minimizando problemas de segurança e de ruídos/interferência.
+- A transmissão nas fibras ópticas ocorre sob o princípio da reflexão da luz por meio de aparelhos que transformam sinais elétricos em pulsos de luz - fótons.
+- Cada fóton representa um código binário, 1 ou 0.
+
+>> Constituição das fibras ópticas <<
+
+. São constituídas de material dielétrica, em geral muito fino de sílica ou vidro, transparente, flexível e de dimensões reduzidas, além de ter em sua construção mais três elementos.
+- Núcleo central de vidro - ocorre a transmissão da luz que possui alto índice de refração.
+- Casca - material vidro que serve para envolver o núcleo com índice de refração inferior.
+- Revestimento - cobertura de plástico fino para proteger o revestimento interno.
+
+>> Vantagens da fibra óptica <<
+
+- Imune a interferências eletromagnéticas: essa característica permite a instalação e ambientes com ruídos e próximos a cabos elétricos.
+- Alcance a grandes distâncias: devido à baixa atenuação e à baixa taxa de erro permite alcançar distância de 100 km.
+- Alta velocidade: operam na casa dos terabytes.
+
+>> Fiber to the home (FTTH) <<
+
+- Fiber to the home ou simplesmente FTTH é uma tecnologia capaz de transmitir telefonia, TV digital e internet com alta velocidade.
+- Esse meio, até pouco tempo atrás, era utilizado ou como ponto de acesso aos backbones das prestadoras de telecomunicação ou para usuários de grande porte, como empresas e indústrias.
+- No FTTH, as taxas chega a ordem dos gigabits, mas usualmente utilizam-se entre 100 e 500 Mbps. Hoje é crescente a oferta de FTTH nas grande capitais com taxas similares a essas.
+
+>> Canal de comunicação de rádio <<
+
+- A informação é transportada por meio das ondas eletromagnéticas.
+- Essas ondas são irradiadas por antenas transmissoras em uma determinada frequência e captadas por uma antena receptora dentro da mesma frequência.
+- A antena é uma elemento de grande importância na transmissão de um sinal de radiofrequência e sua instalação tem que ser sempre bem considerada.
+- As antenas podem ser classificadas de acordo com as propriedades físicas; a frequência ou cuprimento; a direção da variação, com relação ao sentido de propagação.
+
+>> Distúrbios nos canais de comunicação <<
+
+- Interferência: Sinal de origem humana que invade o canal de comunicação atrapalhando e dificultando o processo de comunicação.
+- Ruído: sinal aleatório de origem natural que provoca efeitos indesejáveis nos canais de comunicação.
+- Atenuação: perda de potência de um sinal ao se propagar por um canal de comunicação.
+- Distorção: 

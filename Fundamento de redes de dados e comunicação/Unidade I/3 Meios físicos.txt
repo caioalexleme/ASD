@@ -1,0 +1,57 @@
+
+>> Meios físicos <<
+
+- Também conhecidos como canais de comunicação, são os meios de transporte que permitem a transmissão de dados.
+- Esses meios são peças fundamentais no processo de comunicação nas redes de computadores.
+- Por isso que, em sua determinação, é necessária a adoção de critérios como: velocidades suportadas, imunidade à ruído, taxa de erros, disponibilidade, confiabilidade, atenuação e limitação geográfica.
+
+>> Classificação do meio físico <<
+- Meios físicos confinados são os cabos coaxiais, de pares metálicos e as fibras ópticas.
+- Meios físicos não confinados são os que utilizam comunicação sem fio, por exemplo: Comunicação via satélite, enlaces de micro-ondas, bluetooth e radiofusão de um modo geral.
+
+>> Cabeamento estruturado <<
+
+- Ao trabalhar com meios físicos confinados em redes locais (LAN), é necessário seguir um conjunto de normas que visa a estruturar melhor o projeto de meios físicos.
+- As principais normas utilizadas são as editadas pelas organizações EIA (Eletronic Industries Alliance) e TIA (Telecommunications Industry Association).
+- Quando esses padrões são seguidos, afirma-se que o cabeamento utilizado é estruturado.
+
+>> Objetivos do cabeammento estruturado <<
+
+- Implementar um padrão genérico para ser seguido por fornecedores diferentes dos cabos de telecomunicação.
+- Estruturar um sistema instrapredial e interpredial com produtos de fornecedores distintos.
+- Estabelecer critérios técnicos de desempenho para sistemas de cabeamento diferentes.
+
+>> Subsistemas do cabeamento estruturado <<
+- Cabeamento horizontal: interconexão entre a área de trabalho e a sala de telecomunicação. É composto de cabos, terminações mecânicas, patch cords e ponto de consolidação ou saída para múltiplo usuários.
+- Cabeamento vertical: Interconexão entre a sala de comunicação, a sala de equipamentos e a entrada de serviço. É composto de conexões cruzadas, terminações mecânicas e patch cords.
+
+>> Cabo coaxial <<
+
+- Foi o primeiro tipo de meio físico de rede empregado em uma LAN.
+- Utilizado para comunicações de vídeo.
+- Constituído por um fio de cobre condutor, revestido por uma camada com um material isolante coberto por uma blindagem de alumínio ou cobre para proteger o fio de interferências externas.
+- É mais indicado para longas distâncias, suportando velocidades de megabits por segundo sem a necessidade de regenaração do sinal.
+- Dividem-se em cabos coaxiais grossos.
+
+>> Cabo coaxial fino <<
+- Utilizado no início das redes locais com topologia em barramento; com o desenvolvimento das topologias em anel e estrela, porém, ele passou a ser substituído pelo cabos UTP (Ushielded Twisted Pair).
+- Padronizado pelo IEEE como 10Base2 e é, muitas vezes, descrito como RG-58, com uma impedância de 50 ohms.
+- É possível chegar ao comprimento máximo de 185 m, com trinta conexões e uma taxa de transferência de 10Mbps.
+- Utiliza um conector BNC T.
+
+>> Cabo coaxial grosso <<
+- Usado em redes de computadores industriais com distância superior a 200 m ou quando há grande incidência de interferências eletromagnéticas.
+- Utilizado na transmissão de voz e imagens analógicas e em backbones em virtude do alto custo das fibras ópticas.
+- Principais características: velocidade máxima de transmissão de 10Mbps, alcance máximo do cabo de 500M, comporta até 100 computadores no barramento, com distância entre as estações de 2,5 m ou múltiplos; aplicado em rede Ethernet ou Token Ring; possui uma impedância de 75 ohms.
+
+>> Vantagens dos cabos coaxiais <<
+
+- Blindagem que habilita o cabo a alcançar distâncias maiores que os cabos de pares trançados metálicos.
+- Pode ser utilizado na transmissão em banda larga.
+- Considerável maior imunidade a ruídos em comparação com os cabos de pares trançados metálicos.
+
+>> Desvantagens dos cabos coaxiais <<
+
+- As características construtivas desse cabo não permitem flexibilidade o suficiente, além de apresentar o defeito de "mau-contato".
+- Dificuldades no lançamento e passagem desse cabo.
+- Funciona em topologia física em barramento, em que caso o cabo quebre ou apresente mau-contato toda a rede pode ficar fora de operação.
