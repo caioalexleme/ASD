@@ -1,0 +1,21 @@
+
+>> Principais operadores aritméticos << 
+
++, -, *, /, DIV (quociente), MOD (Resto da divisão), ** (exponenciação)
+
+>> Operadores relacionais <<
+= (igual), <> (diferente), >=, <=, >, <
+"O resultado de uma operação relacional será sempre um valor lógico (V ou F)"
+
+>> Operador XOR (ou exclusivo): <<
+Operando 1 |      | Operando 2 | Resultado
+------------------------------------------ 
+verdadeiro | xor  |verdadeiro  | Falso
+verdadeiro | xor  |falso       | Verdadeiro
+falso      | xor  |verdadeiro  | Verdadeiro
+falso      | xor  |falso       | Falso
+
+"O resultado só será verdadeiro quando os dois operandos forem diferentes".
+
+"Pseudocódigo: Forma genérica de escrever um algorítmo utilizando linguagem simples sem conhecer a sintaxe de nenhuma linguagem de programação".
+
