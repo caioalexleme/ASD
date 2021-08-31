@@ -9,3 +9,6 @@ e)
 Resolva a equação:
 .) 125^x=625
 e)
+
+Resolva a equação
+a) x=16
