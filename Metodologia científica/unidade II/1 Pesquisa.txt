@@ -30,3 +30,24 @@ A pesquisa, portanto, possui três elementos:
 - em relação aos seus objetivos, 
 - em relação à natureza das fontes.
 
+>> Pesquisa quantitativa x pesquisa qualitativa <<
+
+. Início da Ciência Moderna:
+- A toda lei científica estava associada uma formulação matemática - relação quantitativa
+- Pesquisas quantitativas (matemática) e experimentais.
+- Pesquisa quantitativa - quantidade - dados quantitativos.
+- Pesquisa qualitativa - métodos não experimentais - dados qualitativos (natureza do objeto).
+- Os métodos quantitativo e qualitativo são complementares.
+- A escolha do método depende da questão a ser investigada.
+
+>> Exemplos de pesquisa qualitativa <<
+
+. Estudo de caso:
+- pesquisa sobre um caso particular que representa bem o seu universo (conjunto de casos análogos);
+- caso: indivíduo, família, grupo de indivíduos.
+- pesquisa longitudinal, coletar dados, observar aspectos, generalização para casos análogos.
+
+. Pesquisa-ação:
+- intervém na situação - propões mudanças aos participantes;
+- (geralmente) colaborativa;
+- diagnóstico - aná
