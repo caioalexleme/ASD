@@ -50,4 +50,24 @@ A pesquisa, portanto, possui três elementos:
 . Pesquisa-ação:
 - intervém na situação - propões mudanças aos participantes;
 - (geralmente) colaborativa;
-- diagnóstico - aná
+- diagnóstico - análise da situação;
+- busca modificá-la.
+
+>> Pesquisa em relação aos seus objetivos <<
+
+Pesquisa: exploratória, descritiva ou explorativa.
+
+. Pesquisa exploratória (quase científica ou não científica):
+- primeiro passo, preparação para a pesquisa.
+- Levantamento da bibliografia;
+- Levantar informações sobre o assunto estudado
+
+. Pesquisa descritiva:
+- Descrever as características do fenômeno;
+- Coleta de dados (questionários, observação);
+- Forma de levantamentos
+
+. Pesquisa explicativa:
+- Procura identificar as causas do fenômeno estudado, explicando-as;
+- aplicação do método experimental/matemático ou interpretação (métodos qualitativos)
+
