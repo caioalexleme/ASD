@@ -1,0 +1,81 @@
+
+>> Tipos de texto <<
+
+. Resenha crítica
+- Descrição munuciosa - apresenta uma síntese do conteúdo de uma obra (texto/livro)
+- Comenta o valor e o alcance da obra apresentada
+Pode ser dividido em:
+- cabeçalho - dados bibliográficos completos da obra;
+- Breve formação sobre o autor;
+- síntese do conteúdo (objetiva - assunto, pontos principais, ideia central);
+- Comentário crítico (avaliação - aspectos positivos e negativos)
+
+. Fichamento
+- Segundo Severino, a "Documentação de tudo o que for julgado importante e útil em função dos estudos e do trabalho profissional deve ser feita em fichas"
+- Ouvir aulas e ler livros só trazem resultados positivos quando há uma documentação pessoal.
+- Atualmente: podem ser digitados no computador e impressas quando o estudante precisar de uma cópia
+- Severino: documentação temática, documentação bibliográfica.
+
+. Marconi: fichas bibliográficas, fichas de citações, fichas de resumo, fichas de esboço, fichas de comentário
+Estrutura das fichas - três partes principais:
+- cabeçalho;
+- referência bibliográfica (normas da ABNT)
+- corpo ou texto
+Opcionais:
+- indicação da obra (a quem se destina)
+- local onde encontrá-la (biblioteca)
+
+. Ficha temática - tema. Exemplo: ficha sobre o significado do termo "pesquisa" - definições de vários autores.
+- Transcrição de citação literal - entre aspas e indicação abreviada da fonte logo após a citação
+- Transcrição - síntese das idéias - sem aspas, com indicação da fonte
+- Transcrição de ideias pessoais - sem aspas e sem indicação.
+
+>> Ficha bibliográfica <<
+
+- Não somente de livros, mas de artigos, resenhas, capítulos de livros e etc
+- Cabeçalho: pelo menos o título (assunto pesquisado - pode ser dividido em tópicos: título genérico remoto, título genérico próximo, título específico), número de classificação da ficha, sequência indicada por uma letra (A, B, C etc) - mais de uma ficha
+- Referência bibliográfica
+- Corpo ou texto (ficha bibliográfica de citações, de resumo, de esboço, de comentário).
+
+>> Exemplos de ficha bibliográfica <<
+
+Cabeçalho                    |             Metodologia científica                  | 
+-----------------------------------------------------------------------------------------
+                             | Fichamento                                          | 1
+-------------------------------------------------------------------------------------------
+Referência bibliográfica     | SEVERINO, A. J. Metodologia do trabalho científico  |
+                             | 23. ed. São Paulo: Cortez, 2007 p. 66-77            |
+-------------------------------------------------------------------------------
+Corpo ou texto               | O autor aborda a importância da documentação pessoal| pessoal                      | e apresenta o fichamento com a utilização de fichas |
+                             | para...                                             |
+----------------------------------------------------------------------------------------
+Indicação da obra            | Estudantes universitários                           |
+--------------------------------------------------------------------------------------
+local                        | Biblioteca Unip (Campus...)                         |
+------------------------------------------------------------------------------------
+
+>> Características da redação acadêmica <<
+
+. Segundo Spina:
+- construção correta (respeito às normas gramaticais) - uso de dicionários, gramáticas - regências
+- Propriedade (emprego correto dos termos)
+- riqueza (variação no vocabulário)
+- clareza (linguagem inteligível)
+- concisão (utilizar o mínimo de palavras, sem prejudicar a clareza);
+- medida (naturalidade - uso espontâneo da linguagem)
+- seriedade (objetividade)
+
+>> Linguagem científica <<
+. Segundo Cervo, Bervian e da Silva:
+- impessoalidade (verbo na terceira pessoa) - o presente trabalho (e não meu trabalho)
+- Objetividade (não há lugar para impressões subjetivas) - exemplo: "eu penso"
+- Precisão (sem ambiguidades) - escolha das palavras
+- cortesia (resultados de outros trabalhos) e modéstia - "sua finalidade e expressar, e não impressionar 
+- Linguagem informativa (transmissão de conhecimentos) e técnica (ou seja, nem coloquial, nem literária)
+- clareza - característica primordial - "Para haver clareza de expressão, é necessário que haja primeiramente clareza de ideias" - escrever para os leitores
+- uso do vocabulário comum - sentido próprio, concreto e objetivo (não usar sentido figurado)
+- Uso do vocabulário técnico
+- Frases simples e curtas (exprimir melhor as ideias, facilitar a compreensão)
+- Além disso: coesão textual (estruturas gramaticais - ligar uma sentença a outra) e coerência (o texto como um todo deve "fazer sentido" - ser coerente, sem contradições de ideias)
+- "Pegue três maçãs, coloque-AS sobre a mesa."
+
