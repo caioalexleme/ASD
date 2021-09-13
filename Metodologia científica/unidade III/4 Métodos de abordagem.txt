@@ -1,0 +1,57 @@
+
+>> Métodos de abordagem <<
+
+. Método indutivo
+- Verdades particulares para verdades gerais. Generalização de propriedades comuns a um grupo de casos estudados. Observar, descobrir a relação, generalizar
+Exemplo:
+    "Os corpos A, B, C, D atraem o ferro.
+    Ora, os corpos A, B, C, D são todos imãs
+    Logo, os imãs atraem o ferro"
+
+. Método dedutivo
+- Raciocínio do geral para o particular, do universal para o singular.
+Exemplo:
+    - Todo número par é divisível por dois. Ora, o número 100 é par. Logo o número 100 é divisível por dois.
+
+. Método hipotético-dedutivo - proposto por Popper. Conjecturas (hipóteses provisórias) são submetidas a testes - eliminar o erro. Esquema:
+P1 (problema) -> TT (teoria tentativa - solução provisória) -> EE (eliminação do erro - testes) -> P2 (novo problema)
+- Problema - a partir de conflitos entre expectativas e teorias que já existem
+- Solução provisória - conjectura (nova teoria) - sujeita a testes
+- Falseamento - refutar. Se a teoria passa pelos testes: confirmada provisoriamente. Há variações
+
+. Método dialético - origem: Grécia antiga (filósofos).
+. Dialética = "[...] conflito originado pela contradição entre princípios teóricos ou fenômenos empíricos."
+. (HOUAISS) versão online
+Hegel (filósofo alemão) - três momentos de dialética:
+- tese (afirmação considerada verdadeira)
+- antítese (negação da tese)
+- síntese (resultado da confrontação - nova tese)
+
+>> Projeto de pesquisa - Embasamento teórico <<
+
+. Embasamento teórico (como?) - ou fundamentação teórica
+- Antes de elaborar o projeto; pesquisa bibliográfica - textos teóricos que serão utilizados (outros podem ser acrescentados no decorrer da pesquisa)
+- Contribuem para a justificativa da pesquisa
+- Bases teóricas da pesquisa. Contextualizar a pesquisa
+- Evitar o uso de teorias contraditórias entre si
+- Procurar pesquisas iguais ou semelhantes já feitas. Citar as suas conclusões.
+- Definir os termos/categorias/conceitos que serão utilizados na análise do objeto da pesquisa (fenômeno estudado). Mesmo termo pode ter significados diferentes em outras áreas.
+
+. Cronograma (quando?)
+- Pesquisa dividida em partes - previsão de tempo necessário para cada uma delas.
+- Indicar as várias etapas, inclusive a redação final do trabalho
+- Algumas partes dependem das anteriores. Por exemplo, a análise dos dados só ocorre depois da sua coleta e tabulação (organização dos dados)
+- Levar em conta o tempo disponível para a pesquisa. Administrar bem o tempo.
+
+. Orçamento e instrumentos
+Orçamento (com quanto?)
+- Por vezes a pesquisa envolve pesquisadores de campo, programadores e outras equipes. Além disso, há gastos com material, especialmente se a pesquisa for realizada em laboratório ou envolver grande quantidade de participantes para tratamentos estatísticos.
+
+Instrumentos de pesquisa (como?)
+- Indicar instrumentos relacionados às técnicas utilizadas para a coleta de dados.
+
+. Bibliografia:
+- Indicar a bibliografia respeitando as normas da ABNT.
+- Esta é uma bibliografia preliminar, que pode ser ampliada ao longo da pesquisa.
+- Livros, artigos, periódicos, anais, publicações etc.
+
