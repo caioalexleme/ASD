@@ -1,0 +1,76 @@
+
+>> Projeto de pesquisa <<
+
+. Antecede o trabalho de pesquisa - planejamento, disciplina, ordem da pesquisa, organização e distribuição do tempo.
+
+Estrutura do projeto de pesquisa proposta por Markoni e Lakatos.
+- "Apresentação (quem?)
+- Objetivo (Pra quê? para quem?)
+- Justificativa (por quê?)
+- Objeto (o quê)
+- Metodologia (como? com quê? onde? quando?)
+- Embasamento teórico (como?)"
+- Cronograma (quando?)
+- Orçamento (com quanto?)
+- Instrumentos de pesquisa (como?)
+- Bibliografia
+
+>> projeto de pesquisa - apresentação <<
+
+. Apresentação (quem?)
+- Capa (nome da instituição; título - mesmo provisório, sintetiza a pesquisa, expressa o conteúdo temático; subtítulo - especifica e delimita; responsável - coordenador da pesquisa/orientador; local - cidade onde se encontra a instituição; data - ano de apresentação do projeto)
+
+>> Objetivo (para quê? para quem?) <<
+
+- Tema - assunto específico que será desenvolvido. A partir de uma dificuldade de trabalho, das preferências, sugestão do professor/orientador, TCC etc. É o objeto de estudo. Indicar as motivações.
+- Delimitação do tema - estabelecer limites (geográfico - onde, temporal - quando). Permite o aprofundamento da parte a ser estudada. Indicar a abordagem (ponto de vista.)
+- Objetivo geral - propósito da realização da pesquisa.
+- Objetivos específicos - aplicar o objeto geral a situações particulares. Etapas intermediárias para alcançar o geral.
+- Verbos de ação: analisar, demonstrar, identificar etc.
+
+>> Justificativa (por quê?) <<
+
+- Responde a pergunta "por quê?" - apresenta as razões para a realização da pesquisa
+Destacar:
+- estágio atual da teoria relacionada ao tema - o que já foi feito;
+- contribuições teóricas
+- importância do tema (geral e casos particulares)
+- sugerir modificações (contexto do tema proposto)
+- descoberta de soluções
+- Ressalta a importância da pesquisa - capacidade de convencer
+
+>> Objeto (o quê?) <<
+- O que será pesquisado? qual será o objeto da pesquisa?
+- Formular o problema de pesquisa
+- Transformar o tema em problema
+- PROBLEMA - questão que envolve uma dificuldade prática ou teórica para a qual buscamos uma solução
+- "A elaboração clara do problema é fruto da revisão da literatura e da reflexão pessoal"
+- Nem sempre o pesquisador chega a uma solução - possibilita novas pesquisas
+- "[...] é mais importante para o desenvolvimento da ciência saber formular problemas do que encontrar soluções"
+Problema - questão científica, expressa uma relação entre duas ou mais variáveis
+
+. Hipóteses
+- Resposta provável ao problema de pesquisa
+- Hipótese básica - é a principal
+- Hipóteses secundárias - complementares
+- Características: não contradizer verdades já aceitas; ser simples; elaborada a partir dos fatos verificável por eles.
+- HIPÓTESE - relaciona duas ou mais variáveis. Comprovação.
+- Variáveis - variável é "um valor que pode ser dado a uma quantidade, qualidade, característica [...] que pode oscilar em cada caso particular"
+
+>> Metodologia (como? com que? onde? quando?) <<
+
+Método de abordagem (veremos mais adiante)
+- Método indutivo
+- Método dedutivo
+- Método hipotético-dedutivo
+- método dialético
+- Método de procedimento: empírico/experimental; histórico - influência do passado; comparativo - "diferenças e semelhanças entre diferentes fatos"; monográfico - estudo profundo - todos os aspectos; funcionalista - funcionalidade do fato; estruturalista - do fenômeno concreto para o nível abstrato; estatístico; genealógico - estudo do parentesco.
+
+. Técnicas (coleta de dados)
+- documentação indireta (pesquisa bibliográfica e documental)
+- documentação direta (intensiva ou extensiva)
+- documentação direta INTENSIVA - Observação (examinar fatos que serão estudados); entrevista (conversação face a face)
+
+. Documentação direta EXTENSIVA
+- "[...] questionário, formulário, testes, medidas de opnião e de atitudes, análise de conteúdo etc." 
+- Delimitar o universo da pesquisa - restringir o grupo (de pessoas, coisas, fenômenos) que será pesquisado
