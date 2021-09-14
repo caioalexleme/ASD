@@ -1,0 +1,104 @@
+
+
+Agência reguladora e normatizadora de publicações técnicas - padronizar os trabalhos acadêmicos (teses, dissertações, monografias etc) no Brasil.
+
+Segundo a ABNT, a estrutura de um trabalho acadêmico é composta por uma parte externa e uma parte interna.
+
+Nossa aula será baseada em:
+- ABNT NBR 14724 (NBR = norma brasileira) - versão mais recente
+- Guia de normalização para apresentação de trabalhos acadêmicos da Universidade Paulista: ABNT - versão mais recente
+
+>> Apresentação do trabalho <<
+
+Formato - papel branco, formato A4
+Fonte:
+- Fonte (Arial ou Times New Roman), tamanho 12, (todo o trabalho)
+- Mesma fonte, tamanho 10 - "citações com mais de três linhas, notas de rodapé, paginação, legenda e fonte das ilustrações e das tabelas" (guia da UNIP p 7)
+- Mesma fonte, tamanho 12, em maiúsculo e negrito para os títulos.
+- Mesma fonte, tamanho 12, em minúsculo para os subtítulos
+- Cor: preta (ilustrações: outras cores são permitidas)
+
+>> Margens e alinhamento <<
+
+- Anverso (frente da folha): margens esquerda e superior de 3 cm, direita e inferior de 2 cm
+- Verso: margens direita e superior de 3 cm, esquerda e inferior de 2 cm
+- Recuo da primeira linha de parágrafo: 1,25 cm (um Tab), a partir da margem esquerda
+- Recuo de parágrafo para citações com mais de 3 linhas: 4 cm da margem  esquerda.
+- Alinhamento do texto: justificado (Word)
+- Alinhamento de títulos e seções: alinhar a esquerda
+- Alinhamento de títulos sem indicação numérica (resumo, abstract, listas, sumários e referências): centralizado.
+
+>> Espaçamento e paginação <<
+
+- Espaço entre linhas: 1,5 cm
+- Espaço simples: "citações de mais de três linhas, notas de rodapé, referências, ficha catalográfica, legendas e fontes das ilustrações e tabelas" (Guia da UNIP, p. 8)
+- Títulos e subtítulos: anverso, parte superior, separados do texto por um espaço de 1,5 cm
+- Natureza do trabalho, objetivo, nome da instituição e área concentração - alinhados do meio da folha para a direita, espaço simples.
+- Paginação: a partir da folha de rosto, todas as folhas são contadas. São enumeradas a partir da introdução. Números arábicos, margem direita superior (anverso), esquerda superior (verso).
+
+>> Estrutura do trabalho <<
+
+- Parte externa: capa (obrigatória), lombada (opcional)
+- Parte interna:
+    - Elementos pré-textuais (antecedem o texto - informações que contribuem para a identificação e a utilização) - utilizam somente o anverso da folha. Exceção: folha de rosto.
+    - Elementos textuais (parte que é exposta a matéria). Anverso e Verso (recomendado)
+    - Elementos pós-textuais ("elementos que complementam o trabalho"). Anverso e Verso.
+
+>> Elementos pré-textuais <<
+
+- Folha de rosto (Anverso e verso)
+- Errata (opcional)
+- Folha de aprovação
+- Dedicatória (opcional)
+- Agradecimentos (opcional)
+- Epígrafe (opcional)
+- Resumo na língua vernácula (português)
+- Resumo em língua estrangeira (inglês, francês, espanhol, etc)
+- Lista de ilustrações (opcional)
+- lista de tabelas (opcional)
+- lista de abreviaturas e siglas (opcional)
+- lista de símbolos (opcional)
+- sumário
+
+Elementos textuais:
+- introdução
+- Desenvolvimento
+- Conclusão
+
+Elementos pós-textuais:
+- referências
+- glossário (opcional)
+- apêndice (opcional)
+- anexo (opcional)
+- índice (opcional)
+
+>> Capa (obrigatório) <<
+* IMAGEM ANEXA
+
+>> Lombada (ou dorso) - opcional <<
+* IMAGEM ANEXA
+
+>> Folha de rosto (anverso) - elemento obrigatório <<
+* IMAGEM ANEXA
+
+. Indicar o tipo de trabalho (dissertação, tese, TCC etc) e objetivo (aprovação em disciplina, grau pretendido etc), nome da instituição e área de concentração (pós-graduação)
+
+. Verso:
+- Ficha catalográfica (indica as referências bibliográficas) - solicitar à Biblioteca
+
+Guia da normalização para apresentação de trabalhos acadêmicos da Universidade Paulista: ABNT / Biblioteca Universidade Paulista, UNIP, / revisada e atualizada pelas bibliotecárias Alice Horiuche e Bruna Orgler Schiavi, - 2014
+49 p,: il, color
+
+1. Normalização. 2. Trabalhos acadêmicos. 3. ABNT.I.Biblioteca Universidade Paulista.
+
+>> Errata (opcional) <<
+* IMAGEM ANEXA
+
+>> Folha de aprovação (obrigatório) <<
+* IMAGEM ANEXA
+
+>> Dedicatória / Agradecimentos (opcionais) <<
+* IMAGEM ANEXA
+
+>> Epígrafe (opcional) <<
+* IMAGEM ANEXA
