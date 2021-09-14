@@ -1,0 +1,43 @@
+
+>> Resumos na língua vernácula e em língua estrangeira (Obrigatórios) <<
+
+- Sequência de frases objetivas e concisas - pontos relevantes, extensão máxima: 500 palavras (trabalhos acadêmicos e relatórios). Escrito em um só parágrafo. Parte inferior: palavras chave do trabalho
+- Resumo em língua estrangeira (em inglês, Abstract; em espanhol, Resumen; e francês, Resumé; em italiano, Riassunto). Mesma estrutura do resumo em português. Palavras chave na língua estrangeira. Não usar tradutores automáticos.
+
+>> Listas (opcionais) <<
+
+- Listas de ilustrações - desenhos, esquemas, fluxogramas, fotografias, gráficos, mapas, organogramas (se necessário, fazer listas separadas). Respeita a ordem de apresentação das ilustrações do texto - acompanhadas do número da página correspondente
+- Lista de tabelas - como no caso anterior, lista de tabelas de acordo com a ordem em que aparecem no texto. Cada item é acompanhado do respectivo número de página.
+- Lista de abreviaturas e siglas - em ordem alfabética, seguidas das palavras ou expressões correspondentes por extenso.
+- Lista de símbolos - De acordo com a ordem apresentada no texto, com o significado correspondente.
+
+>> Sumário (obrigatório) <<
+* IMAGEM ANEXA
+
+- Sumário = "enumeração das divisões, seções e outras partes do trabalho, na mesma ordem e grafia em que a matéria nele se sucede" (ABNT, p. 4). Último elemento pré-textual.
+- Sumário não é sinônimo de Índice
+- Índice = "Lista de palavras ou frases, ordenadas segundo determinado critério, que localiza e remete para as informações contidas no texto" - Elemento pós textual opcional.
+
+>> Elementos textuais <<
+
+. Introdução - Define e delimita o tema tratado no trabalho, apresentando seus objetivos e a justificativa da escolha.
+. Desenvolvimento - Detalha a pesquisa, apresentando sua fundamentação teórica, a metodologia, a coleta e a análise de dados. Parte mais extensa.
+. Conclusão - Sintetiza o trabalho. Reflexões e ponto de vista do autor sobre os resultados. Considerações finais, novas ideias.
+
+>> Elementos pós-textuais <<
+
+Referências (obrigatório) - ordem alfabética crescente
+
+- Recurso tipográfico para destacar o título: negrito, grifo ou itálico. Das preferência ao negrito.
+Referência de monografia completa (livro, guia, enciclopédia etc) ou trabalhos acadêmicos (dissertações, teses, TCC etc)
+- Elementos essenciais - autor(es), título, edição, local, editora e data de publicação.  Exemplos:
+* IMAGEM ANEXA
+
+. Mais de 3 autores (et al. = et alii - latim = e outros):
+* IMAGEM ANEXA
+
+. Referência de parte de monografia em meio eletrônico
+* IMAGEM ANEXA
+
+. Artigos, matérias de jornal, boletim:
+* IMAGEM ANEXA
