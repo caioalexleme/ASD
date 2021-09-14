@@ -1,0 +1,62 @@
+
+. Glossário (opcional) = relação de palavra ou expressões técnicas utilizadas no corpo do texto com as respectivas definições
+. Apêndice (opcional) = complementa o texto. Material elaborado pelo autor. Por exemplo, questionários. Precedido por APÊNDICE.
+. Anexo (opcional) = texto ou documento que não foi elaborado pelo autor, mas que "serve de fundamentação, comprovação e ilustração". Precedido por ANEXO.
+. Índice (opcional) = (já vimos a definição) lista de palavras ou expressões com indicação da página correspondente a cada termo.
+
+>> Citações <<
+. Citação - elementos extraídos de documentos que são úteis para fundamentar / sustentar as ideias que o autor desenvolve no seu texto. Sempre: indicar a fonte
+    ... as citações bem escolhidas apenas enriquecem o trabalho; o que não se pode admitir em hipótese alguma é a transcrição literal de uma passagem de outro autor sem se fazer a devida referência (SEVERINO, 2007, p. 175, grifo do autor)
+A citação pode ser:
+- direta - "transcrição textual de parte da obra do autor consultado";
+- indireta - "Texto baseado na obra do autor consultado".
+
+>> Citação direta <<
+
+. Citação direta de até três linhas - aparece no corpo do texto, entre aspas duplas. Exemplo:
+
+Segundo Severino (2007 p. 175), "a citação quando literal, deve ser copiada ao pé da letra e colocada entre aspas"
+
+. Citação direta com mais de três linhas - destacada do texto com  recuo de 4 cm em relação à margem esquerda, com letra menor e sem aspas. Exemplo:
+    Quando for suprimida alguma palavra ou trecho do texto citado, usam-se três pontinhos entre colchetes [...] para indicar a supressão. Interpolações, acréscimos ou comentários à citação são indicados por um colchete vazio []. Ênfase ou destaques [...]
+    devem ser indicados com negrito ou itálico e com a expressão "grifo nosso" entre parênteses (CERVO, 2007, p. 128)
+
+>> Citação indireta <<
+
+. Escrita no corpo do texto. Exemplo:
+Segundo Cervo, Bervian a Silva (2007, p. 128) quando um trecho de outro autor é utilizado sem indicar o autor e a fonte, há plágio
+
+. Notas de Rodapé - aparecem na parte inferior da página, escritas em letras de tamanho menos em relação ao texto. Podem indicar a fonte de uma citação, acresentar um comentário ou explicação ao texto, indicar outras partes do trabalho ou de outros, e apresentar a versão original de citações
+
+. Notas de referência - Exemplo:
+
+------------------------------------------------------------------------
+¹MARCONI, M. de A. Metodologia científica; para o 
+curso de direito. 2. ed. São Paulo: Atlas, 2001.
+
+>> Expressões latinas (notas de rodapé / referência) <<
+
+. Apud (citado por) - única que também pode ser usada no texto. Exemplo:
+Trujillo (1974 apud LAKATOS e MARCONI, p. 77-80)
+
+Idem ou Id. - substitui o nome do autor (mesmo autor, obras diferentes). Exemplo:
+
+¹ASSOCIAÇÂO BRASILEIRA DE NORMAS TÉCNICAS, 1989, p. 9.
+²Ibid., p. 10
+
+. Confira ou Cf. (confronte) - recomenda outro trabalho, Exemplo:
+
+¹Cf. Guia de normalização para apresentação de trabalhos acadêmicos da Universidade Paulista : ABNT . [Para as outras expressões]
+
+>> Projeto de pesquisa <<
+
+- Apresentação (capa)
+- Objetivo (tema / delimitação do tema / objetivo geral / específicos)
+- Justificativa (importância do tema / estágio atual da teoria)
+- Objeto (problema de pesquisa)
+- Metodologia (método de abordagem / de procedimento / técnicas de coleta de dados)
+- Embasamento teórico (bases teóricas da pesquisa / termos)
+- Cronograma (previsão do tempo para cada parte)
+- Orçamento (gastos)
+- Instrumentos de pesquisa (coleta de dados)
+- Bibliografia
