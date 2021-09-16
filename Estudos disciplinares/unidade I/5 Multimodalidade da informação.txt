@@ -1,0 +1,30 @@
+
+>> Leitura de (info)gráficos, tabelas e conteúdos multimodais <<
+
+- Tais tipos de textos são usados atualmente para facilitar e ampliar o volume de informações e leitura do conteúdo proposto. Tanto os infográficos, como tabelas e listas servem para dar um tratamento mais visual.
+
+- Os tipos de gráficos são inúmeros: linhas, barras, colunas, setores (popularmente conhecido como gráfico de pizzas) etc.
+
+. Alguns elementos importantes que estão incluídos nos gráficos são:
+- Título: quase sempre presente, indicando a que informação ele se refere.
+- Fonte: de onde as informações foram retiradas, juntamente com o ano de publicação.
+- Números: dados imprescindíveis para comparar as informações presentes nos gráficos. Usados para representar quantidade ou tempo (mês, ano, período)
+
+- Legendas: ajudam na leitura das informações apresentadas. Na maioria dos casos, o uso de cores detaca diferentes informações
+- Cores: auxiliam na comparação de determinados itens, os quais servem para auxiliar na distinção dos dados, de forma contrastiva e comparativa.
+- Direção: os elementos podem ser apresentados na vertical e na horizontal embora alguns infográficos e traços explorem elementos diagonais e em movimento.
+
+>> Gráficos ... <<
+
+- Coluna: é um dos mais utilizados. O valor de cada coluna é proporcional à sua altura, em que as categorias são indicadas no eixo x (horizontal) e os valores para a categoria no eixo y (vertical).
+*IMAGEM ANEXA
+
+- Barra: apresenta, basicamente, a mesma função dos gráficos de colunas, com os valores para cada categoriana posição horizontal e as categorias na posição vertical
+*IMAGEM ANEXA
+
+- Linha: é usado para apresentar uma sequência de valores de um elemento (eixo y) ao longo do tempo (eixo x). É muito útil para representar a evolução de um certo dado.
+*IMAGEM ANEXA
+
+- Setores: mais conhecido como "gráfico de pizza", o gráfico de setores é usado, principalmente, para a visualização de números percentuais. Em geral, é utilizado para representar partes de um todo.
+- É um círculo, representanto o todo (100%), dividido em partes (fatias), com cores ou legendas diferentes, que correspondem às partes de maneira proporcional.
+
