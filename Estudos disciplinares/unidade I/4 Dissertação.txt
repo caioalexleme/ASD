@@ -1,0 +1,36 @@
+
+>> Tipologia textual: dissertação <<
+
+- Dissertar implica em comentar ou "falar" sobre certo tema ou determinado assunto. É expor também, dependendo da situação, debater. Sempre há defesa de uma opnião, ponto de vista, os quais solicitam a apresentação detalhada e organizada de determinados temas e conhecimentos.
+- no geral, tal texto solicita a leitura e a organização de conhecimentos prévios do assunto/tema tratado.
+
+>> expositivo <<
+
+. O texto expositivo busca apresentar e apenas explicar. Assim:
+- Introdução: apresentação do assunto sobre o qual se escreve (apresentação da tese);
+- Desenvolvimento: exposição das informações e conhecimentos a respeito do assunto (é o momento da discussão da tese):
+- Conclusão: finalização do exercício, com o encerramento do que foi dito.
+
+>> argumentativa <<
+
+. O texto expositivo busca apresentar e apenas explicar. Assim:
+- Introdução: apresentação do assunto sobre o qual se escreve (apresentação da tese) e do ponto de vista assumido em relação a ele.
+- Desenvolvimento: a fundamentação do ponto de vista e sua defesa com argumentos (defende-se a tese proposta).
+- Conclusão: retomada do ponto de vista para fechar o texto de modo mais persuasivo do texto, com o encerramento do que foi dito.
+
+Exemplo:
+- "Redução da maioridade penal, grande falácia.
+- O advogado criminalista Dalio Zippin Filho explica por que é contrário à mudança na maioridade penal.
+- Diulurnamente o Brasil é abalado com a notícia de que um crie bárbaro foi praticado por um adolescente, penalmente irresponsável nos termos do que dispões os artigos 27 do CP, 104 do ECA e 228 da CF. A sociedade clama por maior segurança. Pede pela redução da maioridade penal, mas logo descobrirá que a criminalidade continuará a existir, e haverá mais discussão, para reduzir para 14 ou 12 anos...
+
+- Analisando a legislação de 57 países, constatou-se que apenas 17% adotam idade menor de 18 anos como definição legal de adulto. Se aceitarmos punir os adolescentes da mesma forma como fazemos com os adultos, estamos admitindo que eles devem pagar pela ineficácia do Estado, que não cumpriu a lei e não lhes deu a proteção constitucional que é seu direito. A prisão é hipócrita, afirmando que retira o indivíduo infrator da sociedade com a intenção de reassocializá-li, segregando-o, para depois reintegrá-lo. Com a redução da menoridade penal, o nosso sistema penitenciário entrará em colapso...
+
+- Cerca de 85% dos menores em conflito com a lei praticam delitos contra o patrimônio ou por atuarem no tráfico de drogas, e somente 15% estão internados por atentarem contra a vida.
+
+- Afirmar que os adolescentes não são punidos ou responsabilizados é permitir que a mentira, tantas vezes dita, transforme-se em verdade, pois não é o ECA que provoca a impunidade, mas a falta de ação do Estado. Ao contrário do que muitos pensam, hoje em dia os adolescentes infratores são punidos com muito mais rigor do que os adultos...
+
+- Apresentar propostas legislativas visando a redução da menoridade penal com a modificação do disposto no artigo 228 da Constituição Federal constitui uma grande falácia, pois o artigo 60, § 4°, inciso IV de nossa Carta Magna não admite que sejam objeto de deliberação de emenda à Constituição os direito e garantias individuais, pois de trata de cláusula pétrea...
+
+- A precenção a criminalidade está diretamente associada à existência de políticas sociais básicas e não à repressão, pois não é a severidade da pena que previne a criminalidade, mas sim a certeza de sua aplicação e sua capacidade de inclusão social.
+
+- Dalio Zippin Filho é advogado e criminalista."
