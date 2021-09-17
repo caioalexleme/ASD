@@ -1,0 +1,4 @@
+
+>> Energia: sistema de tarifação da energia elétrica (tipos de bandeiras) <<
+
+- (Enade 2017) Leia o texto a seguir. O sistema de tarifação de energia elétrica funciona com base em três bandeiras. Na bandeira verde, as condições de geração de energia são favoráveis, e a tarifa não sofre acréscimo. Na bandeira amarela, a tarifa sofre acréscimo de R$ 0,020 para cada kWh consumido, e na bandeira vermelha, condição de maior custo de geração de energia, a tarifa sofre acréscimo de R$ 0,035 para cada kWh consumido. Assim, 

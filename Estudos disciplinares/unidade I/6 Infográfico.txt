@@ -1,0 +1,25 @@
+
+>> (info)gráficos <<
+
+- Consiste num desenho, arte gráfica ou imagem que, combinada com um texto, auxilia a compreensão do leitor. No geral combina texto escrito com movimentos, desenhos e alguns tipos de gráficos anteriormente citados.
+* IMAGEM ANEXA
+
+>> Tabelas <<
+
+- Usadas pra estruturar e organizar informações ou dados. Como os gráficos, as tabelas facilitam a compreensão, usando linhas e colunas distintas, as quais separam as informações necessárias. Contudo, o leitor precisa fazer relação entre os dados, comparando-os isoladamente ou de forma contextualizada. 
+
+- ATENÇÃO - Da mesma forma que os gráficos, é importante conhecer alguns elementos desse tipo de representação.
+
+- Título - indica o assunto e também tem a função de chamar a atenção do leitor.
+- Subtítulo - detalha o tema da tabela e contextualiza a situação.
+- Cabeçalho - corresponde ao título dos conteúdos das colunas e das linhas.
+- Corpo - os dados das tabelas
+- Fonte - possui a mesma função que nos gráficos e, usualmente, aparece no rodapé da tabela
+
+Exemplos:
+- Simples: empregada para indicar a relação entre uma informação e outra (como produto e preço, por exemplo). É formada por duas colunas e deve ser lida horizontalmente.
+*IMAGEM ANEXA
+
+- Dupla entrada: apresenta dois ou mais tipos  de dado sobre um item. Deve ser lida na vertical e na horizontal, simultaneamente, para que as linhas e as colunas sejam relacionadas.
+*IMAGEM ANEXA
+
