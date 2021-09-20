@@ -1,0 +1,55 @@
+
+
+- Associação Brasileira de Normas Técnicas é uma entidade privada, sem fins lucrativos, que tem como objetivo sistematizar, por meio de documentos normativos, "a produção, a comercialização e o uso de bens e serviços de forma competitiva e sustentável nos mercados interno e externo, contribuindo para o desenvolvimento científico e tennológico, proteção do meio ambiente e defesa do consumidor" (ABNT - disponível em: http://www.abnt.org.br/abnt/missao-visao-e-valores/)
+
+>> Regras gerais para a monografia <<
+*IMAGENS ANEXAS
+
+>> Elementos pré-textuais <<
+
+- O trabalho deve apresentar os elementos pré-textuais, textuais e pós-textuais. Os elementos pré-textuais são:
+. Capa: onde deve constar o nome da instituição, autor, título e sub-título do trabalho, número do volume (se houver mais de um), local e ano do depósito.
+. Tudo deve ser digitado em fonte Arial ou Times New Roman, corpo 12.
+. Folha de rosto (obrigatório: traz as informações da instituição, do título do trabalho, do autor, da especificação do trabalho, do curso, acrescida do nome do orientador, da cidade e do ano).
+. Ficha catalográfica: para elaboração da ficha catalográfica, acesse o site da instituição: Serviços - Biblioteca - Ficha catalográfica
+. Folha de aprovação (obrigatório): onde consta o nome do orientador e dos integrantes da banca examinadora.
+
+>> Elementos pré-textuais <<
+
+- Dedicatória, agradecimentos e epígrafe (opcionais).
+- Resumos em português e em língua estrangeira (abstract) são obrigatórios, além das palavras chave (no mínimo três).
+- Lista de ilustrações, tabelas, abreviaturas e símbolos (opcional): embora a ABNT não estabeleça como obrigatórias, as listas de ilustrações e tabelas são determinadas como necessárias para a maioria das universidades do mundo. Dessa maneira devem ser listadas todas as ilustrações que aparecem no trabalho, todas as tabelas, todas as abreviações, bem como todos os símbolos.
+- Sumário (obrigatório): enumera todas as divisões que estarão presentes no trabalho.
+
+>> Elementos textuais <<
+
+. Introdução
+. Os capítulos que nada mais são do que o corpo efetivo do trabalho.
+. As considerações finais.
+
+>> Elementos pós-textuais <<
+
+- Referências bibliográficas (obrigatório): devem constar aqui todos os documentos (impressos ou digitais) que fora utilizados ou citados no trabalho.
+
+- Apêndice (opcional): texto ou documento elaborado pelo autor, com o objetivo de complementar o trabalho. Ex.: um questionário de pesquisa.
+
+- Anexos (opcional): texto ou documento não elaborado pelo autor, que serve de fundamentação para complemento do trabalho. Ex.: uma fotografia que tenha significação para alguma parte do trabalho.
+
+>> Citações <<
+
+- Citação é quando utilizamos uma informação extraída de outra fonte.
+
+. Exemplos:
+- A ironia seria uma forma implícita de heterogeneidade mostrada, conforme a classificação proposta por Authier-Reiriz (1982).
+
+- "Apesar das aparências, a desconstrução do logocentrismo não é uma psicanálise da filosofia [...]" (DERRIDA, 1967, p. 293).
+
+. Citação direta: é a transcrição de parte da obra do autor consultado. Neste caso é preciso especificar, depois do nome do autor, ano e página.
+
+. Citações diretas com menos de três linhas devem vir entre aspas no corpo do texto, com o mesmo tamanho de letra e repeitando-se o espaço entrelinhas.
+
+. Barbour descreve: "O estudo da morfologia dos terrenos [...] ativos [...]"
+
+. "Não se mova, faça de conta que está morta" (CLARAC; BONNIN, 1985, p. 72).
+
+. Segundo Sá: "[...] por meio da mesma 'arte de conservação' que abrange tão extensa e significativa parte da nossa existência cotidiana [...]" (SÁ, 1995, p. 27.)
