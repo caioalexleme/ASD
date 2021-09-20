@@ -1,0 +1,56 @@
+
+>> Citações <<
+
+- Citação direta 'com mais de três linhas': deve ter recuo de 4 cm da margem esquerda, vir com letra Arial ou Times New Roman, corpo 10 e espaço entrelinhas simples.
+* IMAGEM ANEXA
+
+- Informações verbais: a realização de conversas e entrevistas com especialistas é uma oportunidade de conseguir material original e inédito sobre os assuntos da pesquisa, como também a participação em eventos, conferências, simpósios etc. (TORRES, 2012, p. 98)
+
+- Autor do depoimento. Assunto ou título. Local do depoimento, instituição (se houver), data em que a informação foi proferida. Nota indicando tipo de depoimento, conferência, discurso, anotação de aula etc.
+
+.Exemplo: KOUTZII, Flávio. A Guerra do Golfo. Porto Alegre: UFRGS, 13 mar. 1991. Informação verbal. Palestra ministrada aos professores, alunos e funcionários.
+
+- No caso do uso de notas em rodapé, deve-se seguir o seguinte padrão: AUTOR, título, ano e página. Exemplo: ALMEIRE, L. Sonhos e Vida, data, p.
+
+- Ibid. Quando nós temos várias notas de rodapé que se referem a uma mesma obra, mudando só a página, utilizamos a expressão latina 'ibid'. Exemplo:
+GOLDMANN F., Filosofando, 2002, 0. 10.
+- Ibid., p. 16.
+- Ibid., p. 89.
+
+- Idem: quando temos o mesmo autor, mas uma obra diferente, a expressão utilizada é Idem.
+- MORIN, E. O Método: a natureza da natureza, p. 30
+- Idem. O Método: vida da vida, p. 59.
+
+- Citação indireta: está baseada na obra do autor consultado, como um todo. E a apresentaçao de um conceito ou de um pensamento desenvolvido por esse autor. Aqui, a indicação de páginas é opcional, mas dá credibilidade à obra.
+
+- Exemplo: Merrian e Caffarela (1991) observam que a localização de recursos tem um papel no processo de aprendizagem autodirigida.
+
+- Tais pressupostos conferem à sua abordagem diferenças substanciais com relação à visão funcionalista da comunicação, profundamente difundida pela cibernética de Nobert Wiener (1978), aqui abordada com a finalidade de explicitar tais divergências.
+
+>> Artigo científico <<
+
+- É importante sabermos que as normas da ABNT são específicas para cada trabalho científico. Por exemplo, quando estamos falando de artigos científicos estamos nos referindo à NBR 6022-2018.
+
+- Essa norma teve a sua primeira alteração em 1994, a segunda alteração em 2003, e uma terceira em 2018.
+
+- A essência do artigo científico foi mantida, porém houve mudanças da estrutura desses artigos.
+
+>> Novas normas para o artigo científico <<
+
+- O agradecimento, que era pré-textual, agora ficou pós-textual, deve vir no final do trabalho.
+
+- Foi incluído o DOI = Identificador de Objeto Digital, que faz o documento ser único, podendo ser rastreado em toda a internet.
+
+- Ficou evidenciado que o artigo é dividído em seções e não capítulos.
+
+- Na norma antiga, os elementos pré-textuais eram compostos pelo título do trabalho, os nomes dos autores e o resumo em língua portuguesa com as palavras-chave. O título e o resumo em língua estrangeira eram elementos obrigatórios e pós-textuais vindo no final do artigo. Na nova norma, eles deixam de ser obrigatórios e, se forem feitos, deverão ser pré-textuais.
+
+- Outra modificação é que ficaram  obrigatórias, como elementos pré-textuais, a data da submissão e a data da aprovação do artigo.
+
+- O corpo do artigo continua sendo formado pela introdução, pelo desenvolvimento e pelas considerações finais, que antes eram denominadas "conslusões".
+
+- Quanto à formatação, foi abolido o espaçamento de 1,5 cm; devendo ser espaçamento simples, mantendo-se o corpo 12 da fonte.
+
+- Houve pequena modificação na formatação de equações e fórmulas que devem ter seus números indicativos à direita do texto.
+
+- Agora, as ilustrações deverão ter seu título na parte de cima e não mais na parte de baixo.
