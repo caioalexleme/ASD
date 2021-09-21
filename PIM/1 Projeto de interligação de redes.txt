@@ -27,3 +27,76 @@
 
 - É imprescindível a composição do texto por referências e citações de seus pares, quanto à ideia disposta. Desta forma, cabe ressaltar que quando uma obra intelectual, ou parte dela, é apresentada sem dar os créditos ao autor, caracteriza-se como uma indevida apropriação intelectual.
 
+>> Contextualização do caso <<
+
+- A 2SHOW.IE é uma agência de marketing digital que surgiu a partir da ideia de agregar, transformar, unir e criar conteúdos, por meio de mídia e plataformas digitais contemporâneas.
+
+- Neste último trimestre, a partir de excelentes resultados, e do aumento da carteira de clientes e serviços, a 2SHOW.IE expandiu o seu escritório por meio de um parceiro de segmento de publicidade, ampliando os seus serviços de mídia, gamificação, redes sociais, criação e desenvolvimento de 'Web design', 'marketing' de conteúdo, Search Engine Optimization (SEO), Pagamento por cliente (PPC), entre outros.
+
+- No entanto, devido à expansão física e de serviços, faz-se necessário a interconexão de rede, de forma que os dispositivos ativos (hosts), localizados fisicamente no escritório central, possam se comunicar com os seus pares na sucursal, a fim de compartilhar as informações e os serviços e os colaboradores/usuários.
+
+>> Parque tecnológico autal <<
+
+. O parque ecológico da 2SHOW.IE comtempla:
+. Escritório central:
+- 1 servidor responsável por manter os serviços: DNS, arquivos de usuários, serviço de diretórios (Microsoft Active Directory: AD), servidor de impressão, Microsoft Project Server e o antivírus: Kaspersky (end point);
+
+- 1 servidor responsável por manter 'softwares' e aplicativos de monitoramento de performance, rotinas e pesquisas através da internet;
+
+- 1 servidor de páginas da internet rodando sob o Microsoft Internet Information Server (Microsoft IIS);
+
+- 35 estações de trbalhos (hosts) distribuídas entre desktops e notebooks;
+
+- 5 impressoras multifuncionais em rede;
+
+- 1 Access Point (AP).
+
+. Sucursal:
+- 1 Servidor responsável por manter os serviços: arquivos dos usuários e servidor de impressão;
+
+- 20 Estações de trabalho (hosts) distribuídas entre desktops e notebooks;
+
+- 3 impressoras multifuncionais em rede
+
+- 1 Access point (AP)
+
+
+>> Atividades a serem desenvolvidas <<
+
+- Segundo o modelo de conexão a ser proposto, os roteadores CPE (do inglês, Customer Premises Equipament), é um temo técnico comumente utilizado por empresas operadoras de telecomunicação e players/fornecedores de serviços de comunicação, que, denomina o "Equipamento de Comunicaçãode Dados dentro das instalações do cliente", deverão se interconectar com os equipamentos da rede da empresa 2SHOW.IE, estabelecendo a conectividade entre o prédio do escritório central e o prédio da sua sucursal, distanciados, entre si, em aproximadamente, 60 km.
+
+. Esta conexão deverá ser feita da seguinte forma:
+- Diretamente na rede IP entre as localidades, através da utilização de, pelo menos, 1 link de comunicação de dados - rede wan - utilizando a tecnologia que atenda as necessidades dos serviços de rede utilizado pela 2SHOW.IE;
+
+- Conexão dos CPEs (roteadores) aos switches das plantas base, com a utilização de fibra óptica;
+
+- Reestruturação do endereçamento IPv4 das redes LAN, tanto do escritório central quanto da sucursal;
+
+- Definir se é cabível a adequação dos serviços de rede em outros servidores atuais, justificando a resposta/solução adotada.
+
+>> Atividades relacionadas as disciplinas <<
+
+. Com o auxílio da disciplina Fundamentos de Redes de Dados e Comunicações, desenvolver por meio de uma proposta técnica, a solução escolhida para compor:
+- O link de comunicação de dados - rede WAN - qual será o link e a velocidade de transissão, entre outras características técnicas pertinentes;
+
+- Tipo de fibra óptica (FO) utilizada para interconectar os roteadores e os switches;
+
+- Características do cabeamento - par trançado - a ser utilizado para a interconexão entre os hosts (servidores, desktops, notebooks, impressoras, access point etc.) e os switches.
+
+. Com o auxílio da disciplina Matemática para a Computação, montar o  plano de endereçamento de rede correto quanto a clase de rede (classe A, B ou C), a ser utilizada tanto no escritório central quanto na sucursal.
+
+. Com o auxílio da disciplina Metodologia científica (ABNT), consolidar o trabalho a patir dos padrões acadêmicos definidos pela ABNT em diversas normas. O trabalho deve conter um embasamento teórico (consulta bibliográfica) consistente e comprovado, para facilitar a interpretação e a avalição das informações obtidas, e também a análise.
+
+. Ética e legislação Profissional: Verificar e demonstrar que o projeto está e linha com as regras gerais de direito. Direito civil, do trabalho e constitucional. Ética. Códigos de ética profissional e empresarial. Aspectos jurídicos da internet. Higiêne e segurança do trabalho.
+
+. Com o auxílio do laboratório de Arquitetura e Redes de Computadores (LARC), montar, através da ferramenta Cisco Packet Tracer, a versão 'desktop 7.2.2 ou 7.3.0 - Obs.: o Cisco Packet Tracer é uma ferramenta de simulação de configuração de rede que permite realizar configurações de rede, direto do seu computador ou de um dispositivo móvel. Pode ser baixado através de um prévio cadastro diretamente do site da Cisco (Pesquise por meio de pesquisa: Google, Bing, entre outros, por: netacad.com, download Cisco Packet Tracer) - uma topologia - Física: apresentando os elementos interconectados em rede e Lógica: apresentando: as configurações de rede dos dispositivos: IP, máscara de rede, gateway e DNS - a interconexão etre roteadores, switches, servidores, access points, ao menos 2 desktops e um notebook (conectado à rede por wireless) para cada uma das redes, sendo, de um lado, o escritório central da 2SHOW.IE e, do outro, a sucursal.
+
+>> resumo das atividades a serem desenvolvidas <<
+
+- Apresentar o desenvolvimento textual do trabalho sobre a solução proposta;
+
+- Elaboração e apresentação da topologia (foto/imagem) no corpo do trabalho - Topologia Física;
+
+- Elaboração e apresentação de tabela de endereçamento IP, e configurações dos ativos - Topologia Lógica;
+
+- Simulação de solução de rede e configuração de serviços em ambiente simulado, com o uso da ferramenta Cisco Packet Tracer, e a consequente documentação dos mesmos.
