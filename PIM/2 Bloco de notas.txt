@@ -1,0 +1,39 @@
+
+
+>> Contextualização do caso <<
+
+. A 2SHOW.IE é uma agência de marketing digital que surgiu a partir da ideia de agregar, transformar, unir e criar conteúdos, por meio de mídias e plataformas digitais contemporâneas.
+
+. Neste último trimestre, a partir de excelentes resultados, e do aumento da carteira de clientes e serviços, a 2SHOW.IE expandiu o seu escritório por meio de um parceiro do segmento de publicidade, ampliando os seus serviços de mídia, gamificação, redes sociais, criação e desenvolvimento de Web design, marketing de conteúdo, Search Engine Optimization (SEO), Pagamento Por Clique (PPC), entre outros.
+
+. No entanto a expansão física e de serviços, faz-se necessário a interconexão de rede, de forma que os dispositivos ativos (hosts), localizados fisicamente no escritório central, possam se comunicar com os seus pares na sucursal a fim de compartilhar as informações e os serviços entre os colaboradores/usuários
+
+>> Parque tecnológico autal <<
+
+. Escritório central:
+- 1 Servidor responsável por manter os serviços: DNS, arquivos dos usuários, serviço de diretórios (Microsoft Active Directory: AD), servidor de impressão, Microsoft Project Server e o antivírus: Kaspersky (end point)
+
+- 1 Servidor responsável por manter softwares e aplicativos de monitoramento de performance, rotinas e pesquisas através da internet;
+
+- 1 servidor de paginas da internet rodando sob o Microsoft Internet Information Server (Microsoft IIS);
+
+- 35 estações de trabalho (hosts), distribuídas entre desktops e notebooks
+
+- 5 Impressoras multifuncionais em rede
+
+- 1 Access Point (AP)
+
+
+. Sucursal
+- 1 Servidor responsável por manter os serviços: arquivos dos usuários e servidor de impressão
+- 20 Estações de trabalho (hosts) distribuídas entre desktops e notebooks
+- 3 impressoras multifuncionais em rede
+- 1 Access Point (AP)
+
+
+>> Atividades a serem desenvolvidas e o relacionamento com as disciplinas:
+
+- Segundo o modelo de conexão a ser proposto, os roteadores CPE (do inglês, Customer Premises Equipament), é um termo técnico comumente utilizado por empresas operadoras de telecomunicações e players/fornecedores de serviços de comunicação, que denomina o "Equipamento de Comunicação de dados dentro das instalações do cliente", deverão se interconectar com os equipamentos de rede da empresa 2SHOW.IE, estabelecendo a concectividade entre o prédio do escritório central e o prédio de sua sucursal, distanciados, entre si, em, aproximadamente, 60 km.
+
+. Esta concexão deverá ser feita da seguinte forma:
+- Diretamente na rede IP entre as localidades, através da utilização de, pelo menos, 1 (um) link de comunicação de dados - rede WAN - Utilizando a tecnologia que atenda às necessidades dos serviços de rede utilizados pela 2SHOW.IE
