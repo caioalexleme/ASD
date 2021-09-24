@@ -22,6 +22,8 @@
 
 - Sinais analógicos assumem infinitos valores em um espaço de tempo.
 - Sinais digitais assumem valores definidos em um espaço de tempo.
+* IMAGEM ANEXA
+
 
 . Característica de um sinal analógico
 - Amplitude: é o maior valor encontrado em um sinal analógico.
@@ -29,6 +31,7 @@
 - Frequência: é a quantidade de ciclos (períodos) em um intervalo de tempo igual a um segundo; é na verdade o inverso do período e tem o seu valor dado em Hertz (Hz).
 - Fase: é a posição da forma de onda em relação a um tempo igual a zero.
 
+. Características de um sinal digital:
 - Assume apenas valores pré-definidos.
 - É mais adequada para as redes de computadores.
 - O computador "compreende" apenas o que é digital, mais especificamente é binário, ou seja, dois valores: 0 (zero) e 1 (um).
