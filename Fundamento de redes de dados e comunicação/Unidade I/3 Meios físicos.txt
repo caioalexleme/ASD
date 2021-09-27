@@ -15,7 +15,7 @@
 - As principais normas utilizadas são as editadas pelas organizações EIA (Eletronic Industries Alliance) e TIA (Telecommunications Industry Association).
 - Quando esses padrões são seguidos, afirma-se que o cabeamento utilizado é estruturado.
 
->> Objetivos do cabeammento estruturado <<
+>> Objetivos do cabeamento estruturado <<
 
 - Implementar um padrão genérico para ser seguido por fornecedores diferentes dos cabos de telecomunicação.
 - Estruturar um sistema instrapredial e interpredial com produtos de fornecedores distintos.

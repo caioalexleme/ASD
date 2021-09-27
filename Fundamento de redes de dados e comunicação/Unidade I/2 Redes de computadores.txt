@@ -10,6 +10,8 @@
 
 - Protocolos: regras que os dispositivos de rede usam para se comunicar.
 - Meios de comunicação: meios de transporte que permitem a transmissão, recepção e encaminhamento de dados.
+- Mensagem: aquilo que se deseja transmitir entre origem e o destino
+- Dispositivos: elementos responsáveis pela transmissão, recepção e encainhamento de dados.
 
 >> Protocolos <<
 - Podem ser considerados como acordos ou regras que regem os processos de comunicação de dados.
@@ -24,7 +26,7 @@
 
 >> Classificação das redes de computadores quanto ao modelo computacional <<
 
-- Processamento centralizado: caracterizado pela existência de um computador central com grande capacidade de processamento, conhecido como sinais burros.
+- Processamento centralizado: caracterizado pela existência de um computador central com grande capacidade de processamento, interligando a diversos outros computadores sem qualquer capacidade de processamento, conhecidos como terminais burros.
 - Computação distrubuída: cada máquina tem o seu próprio poder de processamento. É possível subdividí-las em:
     - Cliente-servidor.
     - Ponto a ponto.
