@@ -68,4 +68,4 @@
 - Interferência: Sinal de origem humana que invade o canal de comunicação atrapalhando e dificultando o processo de comunicação.
 - Ruído: sinal aleatório de origem natural que provoca efeitos indesejáveis nos canais de comunicação.
 - Atenuação: perda de potência de um sinal ao se propagar por um canal de comunicação.
-- Distorção: 
+- Distorção: alteração da forma do sinal devido a atenuação imposta às diferentes frequências.
