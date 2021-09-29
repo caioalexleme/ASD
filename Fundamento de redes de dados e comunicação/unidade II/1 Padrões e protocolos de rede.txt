@@ -1,0 +1,91 @@
+
+
+>> Conteúdo da unidade II <<
+
+3. Padrões e Protocolos de Rede
+    Padrões internacionais
+    Modelo OSI
+    Modelo TCP/IP
+
+4. Protocolos de Aplicação e Transporte
+    Camada de Aplicação
+    Camada de Apresentação e Sessão
+    Camada de Transporte
+
+
+>> Padrões <<
+
+- Padrões de fato - São aqueles que não fora reconhecidos por uma organização ou comitê ao serem lançados por uma pessoa ou comunidade
+
+- Padrões de jure são protocolos reconhecidos legalmente ou por organizações.
+
+
+>> Organizações padronizadoras <<
+
+- IEEE (Institute of Electrical and Eletronics Engineers)
+- ANSI (American Nacional Standars Organization).
+- ISO (Internacional Organization for Standardization).
+- ITU-T (Internacional Telecomunication Union)
+- IEC (Internaciona Intertechnical Commmission)
+- EIA (Eletronic Industries Alliance)
+
+
+>> Modelo OSI <<
+
+- Esse modelo de redes foi desenvolvido entre o final da década de 1970 e o ano de 1984, a fim de interconectar sistemas abertos e segmentar a "problemática" das redes de computadores em camadas.
+
+- O OSI foi criado pela ISO (Internacional Organization for Standardization) que é uma das maiores organizações internacionais de padronização, atuando em diversas áreas de desenvolvimento tecnológico. A ISO é constituída por diversas organizações de diferentes países.
+
+
+>> Benefícios trazidos pelo modelo OSI <<
+
+- Auxilia na elaboração do protocolos
+- Estimula a competição
+- Impede que mudanças em uma camada afetem outras
+- Prover uma linguagem comum
+
+
+>> Camadas do modelo OSI <<
+
+- Camada de aplicação
+- Camada de apresentação
+- Camada de sessão
+- Camada de transporte
+- Camada de rede
+- Camada de enlace
+- Camada física
+
+- Camada 7 (Aplicação): comunicação do usuário
+- Camada 6 (Apresentação): formatação dos dados
+- Camada 5 (Sessão): gerenciamento de sessões
+- Camada 4 (Transporte): transporte das informações
+- Camada 3 (Rede): endereçamento lógico e roteamento
+- Camada 2 (Enlace): endereço físico e comutação
+- Camada 1 (Física): padrões físicos
+
+
+>> PDU das camadas do modelo OSI
+
+- Camada 7 - Dados
+- Camada 6 - Dados
+- Camada 5 - Dados
+- Camada 4 - Segmento
+- Camada 3 - Pacote
+- Camada 2 - Quadro
+- Camada 1 - Bit
+
+
+>> Modelo TCP/IP <<
+
+- O Modelo TCP/IP, também conhecido como Modelo DoD (Departamento de Defesa Norte-Americano), foi criada para atender a necessidade de criação da Rede de Computadores da ARPA (Agência de Pesquisas e Projetos Avançados Do Deártamento de Defesa)
+
+- É um modelo relativamente aberto e relativamente simples concebido como projeto em 1970, que traduz toda a problemática das redes em quatro camadas: camada de aplicação, camada de transporte, camada da internet e camada de acesso à rede.
+
+
+>> Modelo TCP/IP <<
+
+- Camada de aplicação
+- Camada de transporte
+- Camada de internet
+- Camada de acesso
+
