@@ -15,7 +15,7 @@
 *IMAGEM ANEXA
 
 
->> Camadas superiores domodelo OSI <<
+>> Camadas superiores do modelo OSI <<
 
 - Camada de aplicação - fornece a interface entre as aplicações que utilizamos para a comunicação e a rede subjacente pela qual nossas mensagens são transmitidas.
 - Camada de apresentação - responsável pela sintaxe e pela semântica dos dados transmitidos, bem como pela conversão e pela formatação dos dados.
