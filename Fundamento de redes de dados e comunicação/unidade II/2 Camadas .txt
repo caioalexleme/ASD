@@ -1,0 +1,96 @@
+
+
+>> Camadas do modelo TCP/IP <<
+
+- Camada de aplicação - conhecida como camada de processo, lida com aplicativos e dispositivos de origem/destino. É a camada mais próxima do usuário.
+
+- Camada de transporte - conhecida como camada de host-a-host, gerenciando o fluxo de informações entre dispositivos, gerenciando o tipo de transmissão.
+
+- Camada de internet - executa o processo de roteamento de pacotes e endereço lógico.
+
+- Camada de acesso à rede - responsável por gerenciar a transmissão da informação no meio físico.
+
+
+>> Comparação dos modelos OSI e TCP/IP <<
+*IMAGEM ANEXA
+
+
+>> Camadas superiores domodelo OSI <<
+
+- Camada de aplicação - fornece a interface entre as aplicações que utilizamos para a comunicação e a rede subjacente pela qual nossas mensagens são transmitidas.
+- Camada de apresentação - responsável pela sintaxe e pela semântica dos dados transmitidos, bem como pela conversão e pela formatação dos dados.
+- Camada de sessão - responsável pelo estabelecimento, pelo gerenciamento e pela finalização de sessões entre a entidade transmissora e a receptora.
+
+
+>> Camada de transporte do modelo OSI <<
+
+- Habilita a comunicação de múltiplas aplicações na rede ao mesmo tempo e em um único dispositivo.
+
+- Assegura que, se necessário, todos os dados sejam recebidos confiavelmente e em ordem pela aplicação correta, empregando mecanismos de tratamento de erros.
+
+- Os principais tipos de transporte são: orientado à conexão e não orientado a conexão.
+
+
+>> Protocolo de aplicação - HTTP: Hipertext Transfer Protocol <<
+
+- O HTTP define como o cliente web (browser) requisita uma página web a um servidor e como esse servidor transfere a página para o cliente.
+
+- O HTTP utiliza o protocolo TCP como protocolo de transporte, a mensagem sai de suas mãos e passa para as mãos do TCP
+
+- Com essa ajuda, O TCP provê ao HTTP um serviço confiável de transferência de dados, que implica que todas as mensagens de requisição HTTP emitidas por um processo cliente chegarão intactas ao servidor
+
+. (cookies)
+- Os cookies permitem a identificação do usuário pelos portais de internet
+
+. O cookie é formado pelos seguintes componentes:
+    - Linha de cabeçalho de cookie na mensagem de resposta HTTP
+    - Linha de cabeçalho de cookie na mensagen de requisição HTTP
+    - Arquivo de cookie mantido no computador do usuário e gerenciado pelo browser
+    - Banco de dados de apoio no site web
+
+. Funcionamento do cookie:
+    - Ao acessar um site é criado um número de identificação exclusivo e armazenado em seu computador e no banco de dados do site.
+    - Ao acessar novamente o mesmo site, o browser vai consultar e identificar o cookie e inseri-lo no cabeçalho da requisição HTTP
+    - Com isso o site web pode monitorar se é você mesmo que está acessando novamente.
+
+
+>> Protocolos de aplicação - Telnet <<
+
+- É utilizado para estabelecer conexão on-line com uma máquina remota.
+
+- O cliente Telnet é chamado de máquina local e um servidor Telnet é chamado de máquina remota.
+
+- Trata-se de um software de emulação de terminal que permite o acesso de forma remota a outro computador, sendo suportado por inúmeras aplicações.
+
+- Permite que você execute um comando de logon em uma máquina da internet e efetue comandos usando a sintaxe adequada.
+
+
+>> Protocolos de aplicação Telnet <<
+
+- A operação Telnet não usa nenhuma capacidade de processamento da máquina local. Em vez disso, ela transmite as teclas pressionadas à maquina remota e envia a saída da tela resultante de volta ao monitor local. Todo processamento e todo armazenamento ocorrem na máquina remota.
+
+- A aplicação Telnet trabalha principalmente nas três camadas superiores do modelo OSI, a camada de aplicação (comandos), a camada de apresentação (formatos normalmente ASCII)  e camada de sessão (transmissores).
+
+
+>> Protocolos de aplicação - DNS: Domain Name System <<
+
+- O protocolo para identificar de forma mais facilitada hosts da internet
+- O DNS pode ser visto como um grande banco de dados distrubuído e integrado por meio de hierarquização de servidores de nomes, chamados de servidores DNS
+- Tem a assistência de um protocolo da camada de aplicação que permite que hosts consultem o banco de dados de informações.
+- As entidades, os serviços e os protocolos da camada de aplicação que utilizam o DNS são: HTTP, SMTP, FTP etc.
+
+. Passos
+. Digitando no navegador a URL www.yahoo.com acontecem os seguintes passos:
+    . Máquina executa o lado cliente da aplicação DNS.
+    . Navegador passa o host www.yahoo.com para o lado cliente da aplicação
+    . Cliente DNS envia consulta para servidor DNS com endereço www.yahoo.com
+    . Servidor DNS envia resposta para o cliente contendo o IP do host desejado.
+    . Após receber o endereço, o navegador abre uma conexão TCP com um processo HTTP localizado naquele endereço IP resolvido.
+
+. Outros serviços
+- Apelidos dos hosts: como os hosts possuem nomes complexos ou complicados, ou, ainda mais de um nome, o DNS pode ser chamado para obter o nome real do host a partir de seu apelido.
+
+- Apelido do servidor de correio: o importante é que o número de um email seja simples de ser memorizado, por isso o DNS é acionado pela aplicação de correio eletrônico para receber o nome real a partir do apelido.
+
+- Distribuição de cargas: o serviço DNS é requisitado para distribuir cargas em sites que são muito utilizados, como o Google.
+
