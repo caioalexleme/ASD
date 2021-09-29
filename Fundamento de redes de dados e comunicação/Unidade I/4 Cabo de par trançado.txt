@@ -69,3 +69,12 @@
 - Ruído: sinal aleatório de origem natural que provoca efeitos indesejáveis nos canais de comunicação.
 - Atenuação: perda de potência de um sinal ao se propagar por um canal de comunicação.
 - Distorção: alteração da forma do sinal devido a atenuação imposta às diferentes frequências.
+
+>> Distúrbios específicos do canal de comunicação de rádio <<
+
+- Atenuação no espaço livre
+- Perdas por vegetação e obstáculo
+- Efeito das ondas multipercurso.
+- Ação da chuva
+- Efeito doppler
+- Formação de dutos no percursos da onda.
