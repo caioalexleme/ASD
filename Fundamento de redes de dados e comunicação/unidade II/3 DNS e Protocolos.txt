@@ -1,0 +1,91 @@
+
+
+>> Serviço DNS e bancos de dados <<
+
+. Banco de dados centralizado (não é utilizado em DNS).
+    - Contido em um único servidor de nomes contendo todos os registros mapeados.
+    - Ponto único de falha e alto volume de tráfego/dados
+
+.Banco de dados distribuído (Utilizado em DNS).
+    - Contido em um grande número de servidores organizados hierarquicamente e distribuído.
+    - Dividido em classes: nomes raiz, domínio de alto nível e autoridade.
+
+
+>> Servidores DNS <<
+
+- Servidor de nome raiz: existem cerca de 20 espalhados pelo mundo, mas a maior parte na América do Norte, replicados, o que garante segurança, disponibilidade e confiabilidade das informações.
+
+- Servidor de nome de domínio de alto nível (TDL): esses servidores são encarregados dos domínios de alto nível dos países, como .br, .ar, .jp.
+
+- Servidor com nome de autoridade: pertencem a todas as organizações que possuem um servidor que possa ser acessado publicamente pela internet.
+
+
+>> Cache DNS <<
+
+- Tem o objetivo de aumentar o desempenho e diminuir o número de mensagens de DNS pela internet.
+
+- Servidor DNS armazena dados de consultas quando as solicita.
+
+- Em uma nova consulta, o endereço pedido ja estará em memória e será fornecido, mesmo que não tenha a autoridade para esse nome.
+
+- Esse armazenamento de endereços é volátil, persiste após um período de tempo, que, na maioria dos servidores DNS, é de dois dias.
+
+- Após esse período, os dados que estão em cache são descartados.
+
+
+>> Protocolos de aplicação - FTP (File Transfer Protocol) <<
+
+- É um protocolo que tem como finalidade principal transferir arquivos de um computador para outro, copiando e movendo os arquivos dos servidores para os clientes e vice-versa.
+
+- Por ser um protocolo confiável e orientado à conexão, o FTP carrega a garantia de serviço de que as informações serão entregues ao destino.
+
+
+>> Protocolos de aplicação TFTP (Trivial File Transfer Protocol)
+
+- É uma variante do protocolo FTP que possui mesma finalidade, ou seja, transferir arquivos.
+
+- A principal diferença entre esses protocolos é que o TFTP não é confiável e também não é orientado à conexão, ou seja, não exige garantia na entrega da informação.
+
+- Por essa razão, o TFTP é mais rápido que o FTP, basicamente por não usar recursos que garantam a entrega dos dados.
+
+- Por outro lado FTP é muito mais seguro e confiável.
+
+
+>> Protocolos de aplicação - SMTP, POP e IMAP <<
+
+- Esses protocolos são usados especificamente para o serviço e a transferência de e-mails.
+
+- O SMTP (Simple Mail Transfer Protocol) é o protocolo usado para transferir e-mails entre servidores e também pelo aplicativo cliente para enviar e-mails.
+
+- Os protocolos POP (Post Office Protocol) e IMAP (Internet Message Access Protocol) são usados pelo aplicativo cliente para baixar um e-mail do servidor local.
+
+
+>> Protocolos de aplicação - SNMP (Simple Network Management Protocol) <<
+
+- É um protocolo que tem a função de trocar informações de gerenciamento entre os dispositivos de uma determinada rede.
+
+- O SNMP ajuda os administradores de rede à gerenciá-la de forma otimizada, em que mensagens de alerta são enviadas para o computador que gerencia a rede e, ainda, são armazenadas e base de dados de coleta de informações para registro histórico de atividade dos ativos e serviços por ele (protocolo)
+
+- Entidade de gerenciamento: chamada NMS (Network Management Systems), é que gerencia a rede. Geralmente é instalada em um servidor dedicado.
+
+- Dispositivos gerenciados: São os dispositivos que estão sendo gerenciados pelo protocolo SNMP. Exemplos de dispositivos gerenciados são os roteadores.
+
+- Agentes: módulos de software de gerenciamento de rede que residem em dispositivos gerenciados. Um agente tem conhecimento local de informações de gerenciamento e as converte para uma forma compatível de SNMP.
+
+
+>> Camada de apresentação <<
+
+- Sua principal função é representar os dados para que seja legíveis para a camada de apresentação do dispositivo de destino.
+
+- Não tem uma preocupação declarada com os princípios dos níveis de dados em bits, mas sim com sua sintaxe, ou seja, sua representação.
+
+- Nela são definidas a sintaxe abstrata, a forma como os tipos e os valores dos dados são definidos, independentemente do sistema computacional usado em sua sintaxe de transferência, ou, seja, a maneira como realiza essa qualificação.
+
+
+>> Funções da camada de apresentação <<
+
+- Os serviços oferecidos são a representação e a formatação dos dados, a seleção das sintaxes e o estabelecimento e a manutenção das conexões da apresentação.
+
+- Aliada as funções de representação dos dados, a camada de apresentação também é responsável pela realização da compactação e da criptografia.
+
+- JPEG e GIF são bons exemplos de padrões de formatação que são definidos na camada de apresentação.
