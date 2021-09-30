@@ -22,7 +22,7 @@
 
 >> Cache DNS <<
 
-- Tem o objetivo de aumentar o desempenho e diminuir o número de mensagens de DNS pela internet.
+- Tem o objetivo de aumentar o desempenho e diminuir o atraso e o número de mensagens de DNS pela internet.
 
 - Servidor DNS armazena dados de consultas quando as solicita.
 
