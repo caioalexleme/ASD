@@ -1,0 +1,69 @@
+
+
+>> Camada de sessão <<
+
+- A camada de sessão oferece mecanismos que permitem a estruturação dos circuitos que são oferecidos pelo nível de transporte.
+
+. Os principais serviços fornecidos nesse nível são:
+    - Gerenciamento do token.
+    - Controle do diálogo.
+    - Gerenciamento das atividades.
+
+
+>> Camada de trnasporte <<
+
+- Habilita a comunicação de múltiplas aplicações na rede ao mesmo tempo em um único dispositivo.
+
+- Assegura que, se necessário, todos os dados seja recebidos confiavelmente e em ordem pela aplicação correta, empregando mecanismos de tratamento de erros.
+
+- No nível da camada de transporte, a comunicação é do tipo fim a fim.
+
+- Os principais protocolos que operam na camada de transporte são: UDP e TCP
+
+
+>> Funções da camada de transporte <<
+
+- Identificação das diferentes aplicações.
+- Multiplexação
+- Handshake
+- Entrega ordenada
+- Entrega confiável
+- Janelamento
+- Controle de fluxo
+
+
+>> User Datagram Protocol (UDP) <<
+
+- É um protocolo de transporte não orientado à conexão (ou sem conexão), que tem uma grande preocupação com a velocidade na transmissão da informação.
+
+- É um protocolo de melhor esforço, ou seja, segmentos UDP podem ser perdidos ou entregues à aplicação fora de ordem.
+
+- É muito utilizado para aplicações de meios contínuos (voz, vídeo), que são tolerantes a perdas sensíveis à taxa de transmissão, assim como todas as aplicações isócronas (aplicações que precisam reproduzir-se na mesma taxa com que foram geradas)
+
+
+>> Transmission Control Protocol (TCP) <<
+
+- Diferentemente do UDP, é um protocolo que preza que qualidade no transporte.
+
+- É um protocolo orientado à conexão, que executa processos como o janelamento, controle e correção de erros, retransmissão de dados perdidos, segmentação de forma organizada, dentre outros.
+
+
+>> Semelhanças entre TCP e UDP <<
+
+- Função básica de transporte de dados das camadas superiores entre os dispositivos finais.
+
+- Diferenciação das diversas conversações em formato simultâneo por meio de um número de portas.
+
+- Os dois protocolos possuem campos de números de portas e de checksum, e também campos de dados com funções equivalentes.
+
+
+>> Diferenças entre TCP e UDP <<
+
+- O protocolo TCP possui mais campos do que o UDP no cabeçalho.
+
+- TCP é confiável e UDP não
+
+- UDP é rápido e TCP é lento
+*IMAGEM ANEXA
+
+
