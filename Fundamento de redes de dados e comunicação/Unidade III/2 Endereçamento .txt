@@ -1,0 +1,22 @@
+
+
+>> Endereçamento <<
+
+- Cada host é único em relação ao seu endereço na rede, não podem existir dois endereços iguais no mesmo segmento.
+
+- As redes podem ser divididas em sub-redes para garantir um gerenciamento eficiente de sua interligação com redes diferentes.
+
+- Possibilidade de enivo de informações para diversos hosts a  partir de um único pacote.
+
+
+>> Classes de protocolos IPv4 <<
+*IMAGEM ANEXA.
+
+
+>> Endereço de Rede e Endereço de Broadcast e Máscara de Rede <<
+
+- Endereço de Rede.
+- Endereço de Broadcast
+- Máscara de Rede.
+
+Como encontrá-los?
