@@ -18,7 +18,7 @@
 - A camada de rede fornece serviços que permitem a transferência dos dados da origem até o destino em uma comunicação de dados.
 
 
->> Atributo da camada de Rede <<
+>> Atributos da camada de Rede <<
 
 - Endereçamento lógico
 - Encapsulamento
