@@ -1,0 +1,79 @@
+
+
+>> COnteúdo da unidade III <<
+
+- Camada de redes
+
+- Protocolo de internet
+
+- Sub-redes
+
+
+>> Camada de Rede <<
+
+- A camada de rede é responsável pela atribuição de endereçamento lógico e também permite a transferência de dados da origem até o destino em uma rede de comunicação.
+
+- Outro atributo dessa camada é permitir que dispositivos possam se comunicar por meio de diversas redes interconectadas.
+
+- A camada de rede fornece serviços que permitem a transferência dos dados da origem até o destino em uma comunicação de dados.
+
+
+>> Atributo da camada de Rede <<
+
+- Endereçamento lógico
+- Encapsulamento
+- Roteamento
+- Desencapsulamento
+
+
+>> Protocolos da camada de rede <<
+
+- IPv4, internet protocol versão 4
+
+- IPv6, internet protocol versão 6
+
+- IPX, Novell Network Packet Exchange
+
+- Apple Talk
+
+
+>> Protocolo IPv4 <<
+
+- O protocolo IPv4 ainda é um protocolo bastante difundido pelo mundo
+
+- Um bom exemplo de sua aplicação é a rede de comunicação internet, que permite todas as facilidades de roteamento e endereçamento necessários.
+
+- Em breve esse protocolo estará sendo substituído pelo IPv6, que será a versão dominante da internet
+
+- O datagrama ou pacote do IPv4 é muito simples de ser compreendido. Basicamente, temos um campo cabeçalho e um campo de dados.
+
+- O campo cabeçalho do IPv4 é definido por diversos campos que são utilizados para permitir o endereçamento e o roteamento correto dos pacotes pela rede.
+*IMAGEM ANEXA.
+
+- Versão: versão do protocolo, no caso 4.
+
+- Tamheader: corresponde ao tamanho do cabeçalho contado em número de palavras de 32 bits (4 bytes).
+
+- Tipo serviço: é o campo que contém a indicação de qualidade do serviço desejado para o encaminhamento do pacote.
+
+- Tampacote: campo que contém o tamanho do pacote em quantidade de octetos (bytes)
+
+- Identificação: é o campo preenchido pela origem do pacote que o identifica. É usado na montagem da sequência dos pacotes no destino
+
+- Flags: campo de 3 bits que identifica se o pacote pode ser fragmentado no caminho até o destino e também se ja ocorreu fragmentação. O primeiro bit é sempre 0, o segundo bit indica se pode ou não fragmentar (0 = pode fragmentar, 1 = não pode fragentar) e o terceiro bit indica se este pacote é (1) ou não é (0) o último fragmento.
+
+- Deslocamento: caso tenha ocorrido fragmentação, este campo indica o deslocamento dos dados do pacote em relação ao campo de dados do pacote original (antes da fragmentação). Este campo é primordial para a remontagem do pacote e considera como unidade um octeto (1 byte)
+
+- TTL (Tempo de Vida): representa a quantidade de saltos por onde um pacote pode trafegar. Cada ativo de rede que roteia este pacote diminui o TTL de 1, sendo descartado quando este valor chega a zero.
+
+- Protocolo: Campo preenchido com um valor numérico que identifica para qual protocolo da camada superior a camada deve entregar o conteúdo deste pacote no momento em que ele chegar ao destino.
+
+- Checksum do cabeçalho: é o campo calculado e checado para cada salto que o pacote passa na rede, a fim de verificar a integridade do cabeçalho.
+
+- Endereço de origem: é o endereço de origem do pacote, composto por 32 bits
+
+- Endereço de destino: é o endereço de destino do pacote, composto por 32 bits
+
+- Opções do pacote IP: este campo é opcional, mas requerido para algumas implementações. A origem do pacote colocará nesse campo as opções selecionadas. Esse campo é variável em seu tamanho e vai depender das opções definidas pela origem.
+
+- Preenchimento: é o campo para preencher o cabeçalho, mantendo sempre o alinhamento em 32 bits
