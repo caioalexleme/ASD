@@ -10,7 +10,7 @@
     - Gerenciamento das atividades.
 
 
->> Camada de trnasporte <<
+>> Camada de transporte <<
 
 - Habilita a comunicação de múltiplas aplicações na rede ao mesmo tempo em um único dispositivo.
 
@@ -65,5 +65,3 @@
 
 - UDP é rápido e TCP é lento
 *IMAGEM ANEXA
-
-
