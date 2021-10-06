@@ -1,0 +1,63 @@
+
+
+>> Introdução <<
+
+- Um algorítmo é uma sequencia lógica, finita e bem definida de instruções que devem ser seguidas para resolver um problema ou executar uma tarefa.
+
+
+>> Programas <<
+
+- Um programa de computador é um conjunto de instruções, escrito por meio de uma linguagem de programação (linguagem computacional).
+
+. Exemplos: C, C++, C#, Java, Swift (iOS), Pascal, PHP...
+
+
+>> Lógica de programação <<
+
+. Técnica de encadear pensamentos para atingir um determinado objetivo.
+. Exemplo:
+
+- Rotina diária - levantar da cama, escovar os dentes, dirigir um carro, calcular uma média de duas notas, calcular uma conta de luz...
+
+    Ações que obedecem um sequência lógica.
+
+- O objetivo principal da lógica de programação é demonstrar técnicas para resolução de problemas e, consequentemente, para a automatização de tarefas.
+
+
+>> Algoritmos - Conceito básico <<
+
+- O algoritmo é um conjunto finito de instruções, de comandos, de ações, que tem como objetivo uma tarefa ou a resolução de um problema.
+
+
+>> Representação lógica <<
+
+. Descrição narrativa
+- Linguagem, normalmente utilizada no dia a dia.
+
+. Fluxograma
+- Conjunto de símbolos padrão.
+
+. Pseudocódigo ou Portugol
+- Estrutura escrita em português - regras predefinidas para escrever Algoritmos
+
+
+>> Linguagem narrativa <<
+
+- Forma de narrar a solução proposta por meio de linguagem natural, utilizada no dia a dia (português)
+
+. Exemplo:
+- Uma pessoa está perdida em uma cidade desconhecida e procura a rodoviária; encontra um policial e pede auxílio: - Por favor, como eu chego até a rodoviária?
+
+- O  policial responde (descrição narrativa): - Siga em frente e, na quarta esquina, vire à direita; siga em frente e, de lá, você já vai vê-la.
+
+    . Vantagem: linguagem natural.
+    . Desvantagens: ambiguidade e falta de clareza dificultarão o entendimento e a imprementação
+
+
+. Receita do bolo
+1. Providencie manteiga, ovos, 2 kg de massa
+2. Misture os ingredientes
+3. Despeje a mistura na Forma
+4. Leve ao forno
+5. Espere 20 minutos
+6. Retire da Forma
