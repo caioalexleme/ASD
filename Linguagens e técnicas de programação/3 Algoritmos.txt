@@ -1,0 +1,82 @@
+
+
+>> Regras para a construção de algoritmos <<
+
+- Entender o problema
+- Conhecer os resultados esperados
+- Informações disponíveis
+- Funcionamento do algoritmo
+- Verificação
+- Normalização
+- Objetividade
+- Simplicidade
+- Não ambiguidade
+
+
+>> Introdução à programação <<
+
+- Regras para montagem de programas - pseudocódigo
+
+- Foco na ideia e não na rigidez das regras formais - sintaxe da linguagem.
+
+- Descreve o raciocínio que será utilizado para criar um programa
+
+. Recursos:
+- Tipos de informação
+- Entrada de dados
+- Saída de dados
+- Operações possíveis
+
+- Os algoritmos e as linguagens de programação trabalham com dados bem definidos.
+
+. Dados são classificados em tipos:
+- Variáveis
+- Constantes
+- Operadores
+
+. Tipos primitivos de dados:
+- Inteiros: 1; 2; 44
+- Reais: 0,12; 3,14159; 0,000; -1,23
+
+. Caracteres (char) e cadeias (String)
+- numéricos: ('0'...'9')
+- alfabéticos: ('a'...'z'; 'A'...'Z')
+- cadeias: 'avião'
+- Lógicos: valores booleanos (verdadeiro ou falso)
+
+
+>> Constantes <<
+
+- Uma constante é uma informação que não varia com o tempo, permanece a mesma do início ao fim do algoritmo.
+
+- Podem ser de qualquer tipo: números, letras e palavras.
+
+- Exemplo: const PI = 3,141617 (nunca muda)
+
+
+>> Variáveis <<
+
+- Uma variável é um espaço de memória do computador reservado para guardar informações (dados).
+
+. Nomenclatura:
+- Iniciar com uma letras
+- Não conter espaços em branco ou caracteres especiais
+- Nomes significativos.
+
+. Declaração:
+- var
+- Nome, código: Cadeia
+- contador, idade: inteiro
+
+
+>> Operadores <<
+
+- O computador faz uma serie de operações.
+
+- Operações matemáticas (adição, subtração, multiplicação, divisão)
+
+. Manipulação de dados:
+- 2 + 3 (2 e 3 são operandos; + é o operador)
+
+. Atribuição: (←)
+- nome ← "Caio Alexandre"
