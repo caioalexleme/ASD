@@ -1,0 +1,15 @@
+
+
+>> Fluxograma <<
+
+- Conjunto de símbolos-padrão contendo os passos para a resolução de um problema.
+
+
+>> Pseudocódigo ou Portugol <<
+
+- Estrutura escrita em português, muito próximo a linguagem natural, com foto na lógica e não não na sixtaxe de linguagem.
+
+. Vantangens: uso do Português, solução lógica, define a estrutura dos dados, próximo a linguagem de programação.
+
+. Desvantagens: linguagem não oficial, não padronizado.
+
