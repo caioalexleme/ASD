@@ -1,0 +1,78 @@
+
+
+>> Introdução <<
+
+" C é uma linguagem de programação compilada de propósito geral, estruturada, imperativa, procedural, padronizada pelo ISO, criada em 1972 por Dennis Ritchie, No AT&T para desenvolver o sistema operacional Unix
+
+
+>> Características da linguagem C <<
+
+- Linguagem estruturada
+- Médio nível
+- Modularidade
+- Compilada
+- Recursos de baixo nível
+- Eficiente
+- Confiável
+- Simples e de fácil uso
+- Caso sensitivo (sensitive case)
+
+
+>> Regras da linguagem C <<
+. Sintaxe muito rígida (reagras detalhadas)
+- Tipos: propriedade dos dados
+- Declarações: Identificador
+- Expressões: fórmulas que atribuem e alteram valores
+- Funções: subrotinas, subprogramas em C
+    - main()
+    - printf()
+    - scanf()
+
+
+>> Palavras reservadas pelo padrão ANSI <<
+
+- auto
+- break
+- case
+- char
+- const
+- continue
+- default
+- do
+- double
+- else
+- enum
+- extern
+- float
+- for
+- goto
+- if
+- int
+- long
+- register
+- return
+- short
+- signed
+- sizeof
+- static
+- struct
+- switch
+- typedef
+- union
+- unsigned
+- void
+- volatile
+- while
+
+
+>> Estrutura de um programa em C <<
+
+#include <studio.h>
+/*
+Meu primeito programa em C
+*/
+void main()
+{
+    // Comentário de uma única linha
+    printf("meu primeiro programa em C\n");
+}

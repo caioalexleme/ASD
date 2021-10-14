@@ -1,0 +1,8 @@
+
+
+- A linguagem de programação C é uma linguagem estruturada, de "médio nível", utilizada principalmente para o desenvolvimento de sistemas operacionais, planilhas eletrônicas e sistemas gerenciadores de banco de dados. Com base nessas informações, selecioe a alternativa com as afirmações consideradas corretas
+a) Escalabilidade do compilador, bibliotecas padronizadas, variedade de operadores, facilidade na sintaxe, acesso a hardware e otimização de aplicações
+b) Flexibilidade na sintaxe - tipos, declarações, expressões e funções
+c) Não permite atribuir valores no momento da declaração da variável ou várias variáveis do mesmo tipo e na mesa linha.
+d) O operador de incremento e decremento automático são operadores considerados convencionais que atuam na própria variável, incrementando ou decrementando o valor
+e) Não possui comandos de entrada e saída de dados. Esta ação é realizada através de funções contidas na biblioteca padrão  stdio.h.
