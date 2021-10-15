@@ -1,0 +1,28 @@
+
+
+>> Sintaxes específicas <<
+
+- Atribuição múltipla
+    y = x = 5
+
+- Operadores de incremento e decremento
+    int a = 5;
+    a++;
+    x = ++a;
+
+*IMAGEM ANEXA
+
+
+>> Operadores unários em C <<
+* IMAGEM ANEXA
+
+
+>> Operadores relacionais em C <<
+*IMAGEM ANEXA
+
+
+>>  Operadores lógicos em C <<
+*IMAGEM ANEXA
+
+
+>> Conversão de tipos em C (cast) <<
