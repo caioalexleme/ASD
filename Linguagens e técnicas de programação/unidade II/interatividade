@@ -7,7 +7,13 @@ c) Não permite atribuir valores no momento da declaração da variável ou vár
 d) O operador de incremento e decremento automático são operadores considerados convencionais que atuam na própria variável, incrementando ou decrementando o valor
 e) Não possui comandos de entrada e saída de dados. Esta ação é realizada através de funções contidas na biblioteca padrão  stdio.h.
 
-Interatividade
+
 Analise o pseudocódigo abaixo e assinale a alternativa que contenha o valor final das variáveis A e F respectivamente.
 a) A = 6 e F = 14.44
 
+
+Analise o pseudocódigo abaixo e considere X e Y como variáveis inteiras, Z e W cadeias de caracteres e T e K variáveis lógicas (booleanas), ao final da execução, quais os valores que estarão associados às variáveis X, T e K respectivamente?
+
+Considere o trecho de código abaixo, tendo como variáveis nome (cadeia de char), faltas (inteiro) e média (float). Qual das alternativas abaixo imprime a seguinte frase:
+    Olá (nome), você tem (número de faltas) faltas e sua média é (média)!
+a)

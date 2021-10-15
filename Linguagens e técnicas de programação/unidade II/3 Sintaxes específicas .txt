@@ -26,3 +26,4 @@
 
 
 >> Conversão de tipos em C (cast) <<
+*IMAGEM ANEXA
