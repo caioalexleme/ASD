@@ -1,0 +1,75 @@
+
+
+>> Tipos de informações, variáveis e constantes <<
+
+. Tipos primitivos de dados:
+
+| Pseudocódigo                | C                                           |
+-----------------------------------------------------------------------------
+| Inteiro                     | Int
+| Real                        | float ou double
+| Caractere                   | Char
+| Lógico                      | bool (A partir do C++)
+-----------------------------------------------------------------------------
+
+- <tipo de dado> <lista de variáveis>
+	- int idade;
+- const <tipo de dado> <nome variável = valor;
+	- const float pi = 3.14159;
+
+Exemplo:
+	algoritmo "declaracao"
+	const
+	   pi <- 3.14159
+	var
+	   idade: inteiro
+	   saldo: real
+	   sexo: caracter
+	   matriculado: lógico
+	início
+	// Secão de comandos
+	fimalgoritmo
+
+	void main () {
+	
+	const pi = 3.14159;
+	int idade;
+	double saldo;
+	char sexo;
+	bool matriculado;
+
+    // Seção de comandos
+    }
+
+
+>> Declaração de variáveis <<
+
+. A linguagem permite criar muitas variáveis do mesmo tipo:
+- int a;
+- float a;
+- int a = k;
+- int a, b, c;
+- int a, b=6, c;
+
+
+>> Tipos primitivos de dados <<
+*IMAGEM ANEXA
+
+
+>> Cadeias de caracteres - inicialização direta <<
+
+- "Quando o tamanho for indefinido, será necessária colocar a indicação de fim de caractere
+	char escola [] = {'U', 'n', 'i', 'p', '\0'};
+
+
+>> Código de barra invertida <<
+*IMAGEM ANEXA
+
+
+>> Operadores <<
+*IMAGEM ANEXA
+
+
+Interatividade
+Analise o pseudocódigo abaixo e assinale a alternativa que contenha o valor final das variáveis A e F respectivamente.
+a) A = 6 e F = 14.44
