@@ -68,8 +68,3 @@ Exemplo:
 
 >> Operadores <<
 *IMAGEM ANEXA
-
-
-Interatividade
-Analise o pseudocódigo abaixo e assinale a alternativa que contenha o valor final das variáveis A e F respectivamente.
-a) A = 6 e F = 14.44

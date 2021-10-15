@@ -6,3 +6,8 @@ b) Flexibilidade na sintaxe - tipos, declarações, expressões e funções
 c) Não permite atribuir valores no momento da declaração da variável ou várias variáveis do mesmo tipo e na mesa linha.
 d) O operador de incremento e decremento automático são operadores considerados convencionais que atuam na própria variável, incrementando ou decrementando o valor
 e) Não possui comandos de entrada e saída de dados. Esta ação é realizada através de funções contidas na biblioteca padrão  stdio.h.
+
+Interatividade
+Analise o pseudocódigo abaixo e assinale a alternativa que contenha o valor final das variáveis A e F respectivamente.
+a) A = 6 e F = 14.44
+
