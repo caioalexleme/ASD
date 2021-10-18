@@ -1,0 +1,4 @@
+
+
+>> if... else <<
+- Uma instrução if pode ser seguida por uma instrução else (opcional), que é executada quando a expressão booleana for falsa
