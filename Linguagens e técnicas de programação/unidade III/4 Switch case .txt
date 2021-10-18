@@ -1,0 +1,18 @@
+
+
+>> Switch case <<
+
+- Permite que uma variável seja testada através da operação de igualdade e comparada com uma lista de valores. Cada valor é chamado de case, e a variável é testada para cada case
+
+
+>> Regras para usar switch <<
+
+- Tipos primitivos:
+    - int, byte, short, char, Strings
+
+- Pode haver inúmeros cases em um switch. Cada case é seguido por um valor a ser comparado
+
+- Comando break
+
+- Comando default
+
