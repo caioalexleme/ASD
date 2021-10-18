@@ -1,0 +1,31 @@
+
+
+>> Estruturas condicionais <<
+
+- Permite que uma instrução ou bloco seja executada após uma avaliação condicional.
+
+
+>> Tipos de estruturas condicionais <<
+*IMAGEM ANEXA 1.1
+
+
+>> IF Conceito <<
+
+- Consiste em uma expressão booleana seguida por uma ou mais declarações (comandos).
+
+- Exemplo de aplicação:
+
+    algoritmo "negativo"
+    var
+        numero: inteiro
+    inicio
+        escreva ("Entre com um número")
+        leia numero
+        se numero<0 entao
+            escreva (" negativo ")
+        fimse
+    fimalgoritmo
+
+    *IMAGEM ANEXA 1.2
+
+    
