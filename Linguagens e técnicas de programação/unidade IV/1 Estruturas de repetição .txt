@@ -1,0 +1,25 @@
+
+
+>> Estruturas de repetição <<
+
+- Como podemos imprimir a mesma mensagem várias vezes na tela:
+
+    Algoritmos |
+    Algoritmos |
+    Algoritmos |
+    Algoritmos |
+    Algoritmos |
+    Algoritmos |
+    Algoritmos |
+    Algoritmos |
+    Algoritmos |
+    Algoritmos |
+               v
+
+- Permite que uma instrução ou conjunto de instruções seja executada várias vezes, enquanto uma determinada condição seja satisfeita.
+
+
+>> Estrutura for <<
+
+- Normalmente utilizada quando se sabe o número de vezes em que uma instrução ou conjunto de instruções irá se repetir.
+
