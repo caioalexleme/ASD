@@ -1,0 +1,58 @@
+
+
+>> Alocação dinâmica <<
+
+- A linguagem C oferece meios de utilizar e racionalizar o uso da memória durante a execução do programa - alocação dinâmica.
+
+
+>> O uso da memória <<
+
+. Formas de reservar memória
+
+- Variáveis globais (e estáticas)
+- Variáveis locais
+- Alocação dinâmica
+
+
+>> O uso da memória RAM <<
+* IMAGEM ANEXA 1.1
+
+
+>> Ponteiros de variáveis <<
+
+- Cada vez que uma variável é declarada, um espaço é alocado na memória para armazenar valores.
+
+- O programa tem uma tabela que armazena o nome da variável, o endereço e o tipo do dado que será armazenado.
+
+. Exemplo:
+    int a; (reserva 4 bytes (inteiro), armazena o endereço e o tipo associado à variável).
+
+
+>> Ponteiro de variável <<
+
+- A linguagem C tem uma maneira especial de uma variável armazenar endereços - ponteiros.
+
+
+>> Declaração de ponteiros <<
+
+- O programa reserva um espaço na memória para a variável p.
+
+- P irá guardar um endereço.
+
+- O endereço armazenado conterá uma informação do tipo inteiro.
+
+- O símbolo * identifica que uma variável é do tipo ponteiro
+
+    <tipo> *nome;
+
+    Por exemplo:
+
+    int *p;
+
+. Acesso aos endereços de memória:
+- & ("Endereço de")
+- * ("Conteúdo de")
+
+
+>> Exemplo ponteiros <<
+*IMAGEM ANEXA 1.2
