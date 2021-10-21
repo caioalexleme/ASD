@@ -1,0 +1,54 @@
+
+
+>> Estrutura unidiensional - listas <<
+
+- Lista linear é uma cadeia de informações, todas com a mesa estrutura, porém correlacionadas. Cada uma dessas estruturas é chamada de nó e, em alguns casos, registro.
+
+
+>> Listas <<
+*IMAGEM ANEXA 1.1
+
+
+>> Listas ligadas <<
+
+- Uma lista é um conjunto linear de nós, que segue unidirecionalmente. Cada nó é um conjunto de dados e um ponteiro indicando o endereço do elemento seguinte.
+
+
+>> Listas ligadas posição física de nós na memória <<
+*IMAGEM ANEXA 1.2
+
+
+>> Listas ligadas <<
+
+- A sequência pode ter uma número indeterminado de elementos, e o primeiro elemento deve ser apontado por uma variável ponteiro.
+
+
+>> Listas ligadas posição lógica de nós na memória <<
+*IMAGEM ANEXA 1.3
+
+
+>> Listas ligadas <<
+
+- Na linguagem C, o nó é um registro feito por meio da estrutura heterogênea struct (dados heterogêneos)
+
+    struct no {
+        char nome;
+        int idade;
+        struct no * proximo;
+    }
+
+    struct no {
+        int info;
+        struct no * proximo;
+    };
+
+    O tipo No sendo criado:
+
+typedef struct no No;
+    
+    ou então criando diretamente na declaração da estrutura:
+
+typedef struct no {
+    int info;
+    struct no * proximo;
+} No;
