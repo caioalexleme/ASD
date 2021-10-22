@@ -1,0 +1,98 @@
+
+
+>> Listas ligadas - função de inicialização <<
+
+- Toda lista deve ser inicializada - lista vazia, sem nenhum nó.
+
+- A lista é representada pelo ponteiro apontando para o primeiro elemento.
+
+- Uma lista vazia é representada pelo ponteiro NULL.
+
+- A função tem como valor de retorno a lista vazia (valor NULL)
+
+
+>> Função de inicialização <<
+
+    void main () {
+        No* lista;
+        lista = inicia () ;
+        .
+        .
+        .
+    }
+
+    |
+    V
+
+    No* inicia () {
+        return NULL;
+    }
+
+O ponteiro lista aponta para o endereço 101, que armazena o valor NULL
+*IMAGEM ANEXA 2.1
+
+
+>> Função de inserção <<
+
+- Cada novo elemento inserido na lista é alocado dinamicamente na memória e encadeadoo na lista.
+
+- A função de inserção insere o novo elemento no início da lista.
+*IMAGEM ANEXA 2.2, 2.3
+
+
+>> Função de remoção <<
+
+- A remoção deve ser feita sem que a lista perca a sua integridade.
+
+- Deve continuar ser uma sequência em que cada elemento aponte para o nó seguinte.
+
+- A função recebe a lista e o valor do elemento que será removido da listaa, retornando o valor atualizado dessa lista.
+
+- Deve retornar o endereço atualizado, pois o nó a seguir pode ser o primeiro da sequência.
+
+
+>> Remoção no início da lista <<
+*IMAGEM ANEXA 2.4
+
+
+>> Remoção no meio da lista <<
+
+- Ocorre quando o nó a ser removido está dentro da sequência.
+
+- Antes da remoção, o endereço apontado deve ser preservado.
+
+- Após a remoção, o nó anterior da sequência recebe o endereço preservado.
+*IMAGEM ANEXA 2.5
+
+
+>> Função retira <<
+
+- A função retira é bem mais complexa que a inserção, pois deve, inicialmente, ter uma rotina para encontrar o nó a ser removido
+
+    No* retira(No* lista, int num) {
+        No* anterior = NULL;   /* Ponteiro para o no anterior */
+        No* aux = lista;   /* Ponteiro auxiliar para percorrer lista */
+        /* procura o no na lista, guardando o no anterior */
+        while(aux != NULL && aux->info != num){
+            anterior = aux;
+            aux = aux->proximo;
+        }
+        /* Verifica se achou o no */
+        if(aux == NULL) {
+            return lista;   /* não achou, retorna lista original */
+        }
+        /* achou, retira o no da lista */
+        if(anterior == NULL){
+            lista = aux->proximo;   /* retira no do inicio da lista */
+        }else{
+            anterior->proximo = aux->proximo;   /* retira no do meio da lista */
+        }
+        free (aux);   /* libera espaço na memória usado para alocar a viariável */
+        retur lista;
+
+    }
+
+
+>> Função busca, impressão e liberação de memória <<
+
+- A função 
