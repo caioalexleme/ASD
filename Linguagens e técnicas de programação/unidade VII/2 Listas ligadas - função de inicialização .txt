@@ -95,4 +95,35 @@ O ponteiro lista aponta para o endereço 101, que armazena o valor NULL
 
 >> Função busca, impressão e liberação de memória <<
 
-- A função 
+- A função busca é semelhante a função remoção, em que um laço de repetição utiliza a variável do tipo No* e aux* como controle.
+
+    No* busca (No* lista, int num) {
+        No* aux;   /* variavel auxiliar para percorrer a lista */
+        for(aux = lista; aux != NULL; aux = aux->proximo){
+            if(aux->info == num)
+                return aux;
+        }
+        return NULL;
+    }
+
+- A mesma técnica é utilizada na impressão da lista.
+
+    void imprime(No* lista) {
+        No* aux;   /* variavel auxiliar para percorrer a lista */
+        for(aux = lista; aux != NULL; aux = aux->proximo)
+            printf("Numero: %d\n", aux->info);
+    }
+
+- A função libera serve para excluir toda a lista da memória
+
+    void libera(No* lista){
+        No* aux = lista;   /* variavel auxiliar para percorrer a lista */
+        while (aux != NULL){
+            /* guarda referencia para o proximo no */
+
+            No* proximo_no = aux->proximo;
+            free(aux);   /* Libera memória apontada por aux */
+            aux = proximo_no;   /* faz aux apontar para o proximo no */
+        }
+    }
+
