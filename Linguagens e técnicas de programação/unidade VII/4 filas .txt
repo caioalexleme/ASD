@@ -1,0 +1,14 @@
+
+
+>> Filas <<
+
+- Na estrutura fila, o primeiro elemento que entra é o primeiro que sai (First In First Out - FIFO).
+
+. Operações básicas:
+- Inserir (entrada) um novo elemento (sempre no final da fila)
+- Retirar (saída) um elemento (sempre no início).
+
+
+>> Situação inicial de uma fila <<
+*IMAGEM ANEXA 4.1
+
