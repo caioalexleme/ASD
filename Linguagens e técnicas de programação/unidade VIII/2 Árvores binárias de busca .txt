@@ -1,0 +1,32 @@
+
+
+>> Árvores binárias de busca <<
+
+- Árvore binária de busca ou árvore binária de pesquisa é uma estrutura de dados em que todos os nós da subárvore esquerda possuem valor inferior ao do nó-raiz e todos os nós da subárvore direta possuem um valor superior ao do nó-raiz
+
+- A busca por um valor torna-se muito fácil, pois, a partir de simples comparações, podemos localizá-los com menos passos.
+
+- Imagine por exemplo a sequencia de entrada:
+50|67|20|13|31|45|80|60|62|2|55|25
+
+- Nessa árvore, para ir da raíz até quaisquer um dos nós, são necessários, no máximo, três "pulos"
+*IMAGEM ANEXA 2.1
+
+
+>> Operação de busca <<
+
+. Na busca, as operações são realizadas de forma recursiva e a cada movimentação, o novo nó passa a ser raíz:
+- Se o valor procurado for igual ao da raíz, o valor será retornado
+- Se o valor procurado for menor que o da raíz, busca na SAE.
+- Se o valor procurado for maior que o da raíz, busca na SAD.
+- Se o nó for folha de árvore, o valor requerido não terá sido encontrado.
+
+
+>> Operação de inserção <<
+. Na operação de inserção, o novo valor inserido não pode quebrar a estrutura da árvore. Ao encontrar uma subárvore livre ou uma folha, deve-se obedecer aos seguintes critérios:
+- Se a chave a ser inserida for menor que a chave do nó analisado, insere a chave na subárvore esquerda
+- Se a chave a ser inserida for maior que a chave do nó analisado, insere a árvore na subárvore direita
+- Se a subárvore estiver ocupada, segue a busca.
+
+- Inserção do valor na lista, fazemos a busca até encontrar um nó com a subárvore livre adequada, ou folha.
+*IMAGEM ANEXA 2.2
