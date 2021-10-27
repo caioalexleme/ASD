@@ -1,0 +1,82 @@
+
+
+>> Árvore <<
+
+- Árvores são estruturas de dados multidimensionais que permitem a representação de hierarquias ou a represenatação de hierarquias ou a representação em vários níveis.
+
+- Existe um nó denominado raiz, que pode ramificar-se (ou não) em subárvores, cujas raízes são ligadas diretamente a essa raiz, e assim sucessivamente.
+
+- Uma árvore é composta por um conjunto de nós, que podem ou não ter ramificações.
+
+
+>> Estrutura de uma árvore <<
+
+- Nós com filhos são comumente chamados de nós internos e nós que não tem filhos são chamados de folhas ou nós externos.
+*IMAGEM ANEXA 1.1
+
+
+>> Árvores binárias <<
+
+- Assim, recursivamente, os filhos são pais que têm, no máximo, dois filhos.
+
+- Árvore binária é um caso especial de árvore em que um pai tem, no máximo, dois filhos (zero, um ou dois).
+
+
+>> Exemplo <<
+
+- As operações são os nós e os números são as folhas.
+*IMAGEM ANEXA 1.2
+
+
+>> Conjunto de nós e suas ramificações <<
+*IMAGEM ANEXA 1.3
+
+
+>> Ordem das ramificações <<
+
+- Mesmo tendo duas informações iguais, uma árvore tem uma informação SAE e outra que têm muita informação na SAD são diferentes.
+*IMAGEM ANEXA 1.4
+
+
+>> Percurso em árvores binárias <<
+
+. Há três ordens de leitura principais:
+- Percurso em pré-ordem ou prefixo (busca em profundidade).
+- Percurso em ordem ou infixo (ordem simétrica).
+- Percurso em pós-ordem ou posfixo.
+
+
+>> Percurso em pré-ordem ou prefixo (busca em profundidade) <<
+
+. O percurso em pré-ordem faz, recursivamente, a partir da raiz:
+- Lê o nó;
+- Vai para SAE (esquerda);
+- Vai para SAD (direita).
+*IMAGEM ANEXA 1.5
+
+-  Percurso 5 2 1 3 4 7 6 8
+*IMAGEM ANEXA 1.6
+
+
+>> Percurso em ordem ou infixo (ordem simétrica) << 
+
+. O percurso em ordem faz, recursivamente, a partir da raiz:
+- Vai para SAE (esquerda);
+- Lê o nó;
+- Vai para SAD (direita)
+*IMAGEM ANEXA 1.7
+
+- Percurso 1 2 3 4 5 6 7 8
+*IMAGEM ANEXA 1.8
+
+
+>> Percurso em pós-ordem ou posfixo <<
+
+. O percurso em ordem faz, recursivamente, a partir da raiz:
+- Vai para SAE (esquerda);
+- Vai para SAD (direita);
+- Lê o nó
+*IMAGEM ANEXA 1.9
+
+- Percurso: 1 4 3 2 6 8 7 5
+*IMAGEM ANEXA
