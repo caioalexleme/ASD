@@ -1,0 +1,22 @@
+
+
+>> Remoção de folha <<
+
+- A exclusão na folha é a mais simples
+- Basta remover o nó da árvore
+
+
+>> Remoção de folha com um filho <<
+
+- A remoção de um nó com apenas um filho também é simples
+- Exclusão do nó e o filho sobe para a posição pai
+
+- Exemplo:
+. Remoção do valor 80, o seu filho 88, assumirá seu lugar
+*IMAGEM ANEXA 3.1
+
+
+>> Remoção de folha com dois filhos <<
+
+- Substituição do valor do nó a ser retirado pelo nó mais a direita da subárvore esquerda
+*IMAGEM ANEXA 3.2
