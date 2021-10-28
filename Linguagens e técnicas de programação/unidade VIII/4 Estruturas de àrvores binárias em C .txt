@@ -1,0 +1,99 @@
+
+
+>> Estruturas de árvores binárias em C <<
+
+- Assim como nas estruturas unidimensionais, nas árvores podemos definir um tipo para representar o nó de uma árvore binária.
+
+- A variável que era chamada de próximo (estruturas dimensionais) agora se chama SAE e SAD, subárvore esquerda e subárvore direita, que são ponteiros autorreferenciados
+
+    struct arv {
+        int info;
+        struct arv* sae;
+        struct arv* sad;
+    };
+    typedef struct arv;
+
+
+>> Inicialização de uma árvore vazia <<
+
+- Uma árvore é representada pelo nó-raiz
+
+- Uma árvore vazia deve ser representada pelo valor NULL
+
+    Arv* inicializa (void)
+    {
+        return NULL
+    }
+
+
+>> Criação de árvores não vazias <<
+
+- Operação que cria um nó raiz, dadas as informações e suas duas subárvores, à esquerda e à direita.
+
+- Essa função tem como valor de retorno o endereço do nó-raiz criado.
+
+    Arv* cria(int c, Arv* sae, Arv* sad){
+        Arv* p=(Arv*) malloc(sizeof(Arv));
+        p->info = c;
+        p->sae = sae;
+        p->sad = sad;
+        return p;
+    }
+
+    void main(){
+        Arv* a1= cria(8, inicializa(), inicializa());
+    }
+
+
+>> Aspecto da memória <<
+*IMAGEM ANEXA 4.1
+
+
+>> Novo nó com a1 na SAD <<
+*IMAGEM ANEXA 4.2
+
+
+>> Verificar se a árvore é ou não vazia <<
+
+    int vazia (Arv* a)
+    {
+        return a==NULL;
+    }
+
+
+>> Impressão em pré ordem <<
+
+    void imprimepre (Arv* a) /* impressão na forma Pre Ordem> */
+    {
+        if(!vazia (a)){
+            printf("%d" a->info); /* mostra raiz */
+            imprimepre (a->sae); /* mostra sae */
+            imprimepre (a->sad); /* mostra sad */
+        }   
+    }
+
+>> Impressão e pós-ordem <<
+
+    void imprimepo (Arv* a) /* Impressão na fora Pós Ordem> */
+    {
+     if(!vazia (a)){
+            imprimepre (a->sae); /* mostra sae */
+            imprimepre (a->sad); /* mostra sad */
+            printf("%d" a->info); /* mostra raiz */
+        }   
+    }
+
+
+>> Impressão em ordem simétrica <<
+
+    void imprimeos (Arv* a) /* Impressão na fora Pós simetrica> */
+    {
+     if(!vazia (a)){
+            imprimeos (a->sae); /* mostra sae */
+            printf("%d" a->info); /* mostra raiz */
+            imprimepre (a->sad); /* mostra sad */
+        }   
+    }
+
+
+    
