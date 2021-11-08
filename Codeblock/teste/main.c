@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
-{
-    printf("Hello world!\n");
-    return 0;
+void main(){
+FILE *Ponteiro;
+Ponteiro=fopen("arquivo.txt", "a");
+fclose(Ponteiro);
+system("PAUSE");
 }
