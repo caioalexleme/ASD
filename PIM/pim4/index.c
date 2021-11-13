@@ -1,21 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
-int main () {
-    char nome[90];
-    char opcao;
-    printf("Digite seu nome: ");
-    scanf(" %s ", &nome);
-    printf("%s Deseja continuar? ", nome);
-    scanf(" %c ", &opcao);
-    if(opcao == "n"){
-        printf("\nAté mais!!");
-    }else{
-        scanf(" %c ", &opcao);
-    }
 
+int main() {
 
-
+    int numero;
+    printf("Digite um numero: \n");
+    scanf("%d", &numero);
+    getchar();      // Limpa o buffer do teclado do PC 
+    printf("\n  %d\n\n", numero);
     system("PAUSE");
     return 0;
 }
