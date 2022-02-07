@@ -1,0 +1,39 @@
+
+
+>> Conceito sobre qualidade de software <<
+
+- Segundo a norma ABNT ISO (2000a), qualidade de software é definida como um conjunto de características que devem ser alcançadas em um determinado grau para que um produto atenda às necessidades de seus usuários.
+
+- A totalidade de características de uma entidade, que lhe confere a capacidade de satisfazer as necessidades explícitas e implícitas.
+
+- Conforme ilustrado na figura 1, para Crosby (1990) existem cinco princípios básicos da qualidade que, se seguidos, produzirão melhores resultados:
+
+    1- Fazer cento na primeira vez
+    2- Processo preventivo
+    3- Atenção às necessidades dos usuários
+    4- responsabilidade de todos
+    5- Melhora contínua
+
+>> Benefícios da Qualidade de Software <<
+
+- Muitas empresas de TI ainda permanecem na situação denominada caos, significando que o software é produzido com base em pessoas, não em processos.
+
+- A qualidade pode transformar o cenário atual, processos e métodos são introduzidos gradativamente para alcançar o grau de organização necessário para que a empresa usufrua dos benefícios de qualidade.
+
+> Caos > Qualidade > organização
+
+    Benefícios encontrados:
+    - Aumento da produtividade;
+    - Redução de defeitos no produto;
+    - Aumento da confiabilidade do produto;
+    - Menos retrabalho;
+    - Menos horas extras de trabalho;
+    - Maios satisfação dos clientes
+
+>> Obstáculos da qualidade <<
+
+- Há fatores que são opostos às boas práticas e que acabam por criar dificuldades à implementação do processo de qualidade em uma emrpresa e até mesmo a ações individuais de melhoria
+
+    = Cultura da organização
+    - Custo e prazos mal definidos
+    - Envolvidos não identificados
