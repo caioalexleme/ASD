@@ -29,3 +29,39 @@
 
 - Seu objetivo é apresentar quais processos a organização deve ter e manter para o desenvolvimento do software com qualidade. (RAOCHAN, 2005)
 
+>> NBR 9001-3 - Estrutura <<
+
+- Exige que 18 critérios estejam presentes no sistema da qualidade e agrupa essas diretrizes em 3 principais:
+    
+    - Estrutura: aspectos organizacionais, relacionados ao SGQ
+    - Ciclo de vida: descreve as atividades de desenvolvimento de software
+    - Suporte: descreve operações que apoiam as atividades do ciclo de vida
+
+>> Como funciona a certificação da NBR 9000? <<
+
+- É reconhecida no mercado por muitas organizações e traz uma série de benefícios às empresas que adotam o sistema.
+
+    - Abertura de novos mercados
+    - Maior conformidade e atendimento às exigências dos clientes
+    - Maior integração entre os setores da organização
+    - Melhores condições para acompanhar e controlar os processos 
+    - Diminuição dos custos de desenvolvimento. o Primeito passo para realiar o processo de certificação é selecionar, do modelo ISO 9000, a norma mais adequada aos propósitos da organização (ISO 9001, ISO 9002 ou ISO 9003). Para empresas de desenvolvimento de software, é a norma NBR 9000-1
+
+    >> Como funciona a certificação da NBR 9000? <<
+
+    1º Passo para certificação: selecionar, do modelo ISO 9000, a norma mais adequada aos propósitos da organização (ISO-9001, ISO-9002 ou ISO-9003). Para empresas de desenvolvimento de software é a norma 9000-3
+
+    2º Passo: A empresa deverá analisar o seu processo e treinar os funcionários para a conscientização sobre a necessidade da qualidade
+
+    3º Passo: na sequência deverá desenvolver e implementar os procedimentos necessários ao sistema da qualidade. para selecionar um órgão certificador que vai avaliar se o sistema está de acordo com a norma, fazer pré-auditorias e realizar a auditoria final de aderência ao SGQ para certificação
+
+    Observação: Revalidação a cada dois anos.
+
+    >> NBR ISO 9000-3 <<
+    *IMAGEM ANEXA
+
+    >> Prazos e valores a investir para a certificação NBR 9000 <<
+
+    - O processo de certificação pode se estender de uns meses a dois anos, dependendo do nível da maturidade da qualidade em que a organização se encontra.
+
+    - Pesquisa realizada pelo National ISO 9000 Support Group nos Estados Unidos e pelo seu correlato no Brasil (ABNT, 2000a) avaliou que os valores para obter uma certificação ficam nma faixa de U$6.500,00 a U$30.000,00, dependendo do grau inicial em que a emprese se encontra

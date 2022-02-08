@@ -3,3 +3,4 @@ No controle da qualidade, avalia-se se as ações de qualidade planejadas estão
 Quais os tipos de auditoria existentes?
 - Auditoria de produto, de processo e de sistema de qualidade
 
+Qual é a proposta da NBR 9000 para as organizações que desejam implantá-la?
