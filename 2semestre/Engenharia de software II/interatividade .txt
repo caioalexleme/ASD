@@ -1,3 +1,5 @@
 
 No controle da qualidade, avalia-se se as ações de qualidade planejadas estão sendo executadas de acordo com o processo estabelecido. Essa atividade chama-se Auditoria.
 Quais os tipos de auditoria existentes?
+- Auditoria de produto, de processo e de sistema de qualidade
+

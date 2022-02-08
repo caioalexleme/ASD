@@ -1,0 +1,31 @@
+
+
+>> NBR 9000 <<
+
+- A NBR ISO 9000 - Normas de Gestão da Qualidade e Garantia da Qualidade - serve como arcabouço-padrão para definir como as demais normas específicas devem ser utilizadas
+- A NBR ISO 9000 auxilia a empresa na seleção da norma mais apropriada para o seu negócio e na sua utilização. Trata-se de um documento não normativo (ABNT, 2000a)
+- As normas básicas para garantia da qualidade são as contratuais - ISO 9001, ISO 9002 e ISO 9003 - e as organizações só podem ser certificadas em relação a essas normas
+
+>> Descrição básica da NBR 9000 <<
+
+- ISO 9000 - Normas de Gestão da Qualidade e Garantia da Qualidade: um guia de como as demais normas devem ser usadas
+- ISO 9001 - Sistemas da Qualidade - Qualidade em projeto, Desenvolvimento, Produção, Instalação e Assistência Técnica: para uso quando a conformidade com os requisitos especificados tiver de ser garantida pelo fornecedor desde o projeto até a manutenção
+- ISO 9000-1 - Normas de Gestão da Qualidade e Garantia da Qualidade - Parte 1: estabelece os princípios gerenciais que permeiam toda a série de normas
+- ISO 9000-3 - Normas de Gestão da Qualidade e Garantia da Qualidade - Parte 3: esta norma define diretrizes para facilitar a aplicação da norma ISO 9001 a organizações que desenvolvem, fornecem e mantêm software
+
+>> NBR 9000 <<
+
+- A NBR ISO 9000 - Normas de Gestão e Garantia da Qualidade - serve como arcabouço-padrão para defenir como as demais normas específicas devem ser utilizadas
+
+- A NBR ISO 9000 auxilia a empresa na seleção da norma mais apropriada para o seu negócio e na sua utilização. Trata-se de um documento não normativo (ABNT, 2000a)
+
+- As normas básicas para garantia da qualidade são as contratuais - ISO 9001, ISO 9002 e ISO 9003 - E as organizações só podem ser certificadas em relação a essas normas
+
+*IMAGEM ANEXA 2.1
+
+>> NBR 9001-3 – Norma para empresa de desenvolvimento de software <<
+
+- Abrange questões referentes ao entendimento dos requisitos funcionais, ao uso de metodologias consistentes para desenvolvimento de software e ao gerenciamento do projeto desde a concepção até a manutenção.
+
+- Seu objetivo é apresentar quais processos a organização deve ter e manter para o desenvolvimento do software com qualidade. (RAOCHAN, 2005)
+
