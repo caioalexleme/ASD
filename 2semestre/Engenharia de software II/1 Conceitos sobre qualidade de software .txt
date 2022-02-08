@@ -37,3 +37,49 @@
     = Cultura da organização
     - Custo e prazos mal definidos
     - Envolvidos não identificados
+
+>> Visões de qualidade <<
+
+- As Visões no desenvolvimento de um software envolvem os gerentes, os desenvolvedores, os clientes e os usuários, e esses são ilustrados abaixo:
+*IMAGEM ANEXA 1.1
+
+>> Importância da qualidade <<
+
+- Os sistemas computacionais são a base de controle de todas as empresas.
+A dependência da tecnologia é visível a todos: usuários e empresas.
+Imagine um mal funcionamento que um software pode causar:
+- Bancos perdem milhões
+- Clientes veem saldo sumirem de suas contas
+- Os telefones param de funcionar
+- Aviões tem rotas desviadas
+- Trêns de metrô são colocados no mesmo trilho
+
+>> Garantia da qualidade <<
+
+- A garantia da qualidade avalia se as características do produto estão de acordo com os padrões estabelecidos e se as atividades estão ocorrendo conforme o planejado
+
+- Envolve:
+    - Uso, pelos desenvolvedores, de métodos e ferramentas que ajudem a conseguir especificações, projeto e codificação de maior qualidade
+    - Estabelecimento de padrões para documentos, código e estilo de codificação (como usar linguagem de programação); Esses padrões podem ser determinados pelo cliente, por normas internacionais ou pela empresa de desenvolvimento 
+    - Realização das atividades de verificação e validação, como revisões, inspeções entre outras.
+
+>> Controle de qualidade <<
+
+- São atividades de qualidade realizadas após o produto de software estar pronto.
+- Seu objetivo é permitir o aceite do produto, atestando que aplicação está de acordo com as especificações
+- Evita-se que produtos defeituosos sejam entregues ao cliente. A principal atividade de controle da qualidade são os testes funcionais do software
+- No controle de qualidade, avalia-se as ações de qualidade planejadas estão sendo executadas de acordo com o processo estabelecido. Essa atividade chama-se Auditoria.
+
+- Tipos de auditoria:
+    - Auditorias de produto: foco em verificar a conformidade de produtos com os padrões estabelecidos
+    - Auditorias de processo: se as ações planejadas estão sendo executadas
+    - Auditorias de sistema de qualidade: Avaliam a eficácia da implementação desse sistema e determinam o grau em que os objetivos estão sendo atingidos
+
+>> Sistema de gestão de qualidade (SGQ) <<
+
+- Padroniza os processos de uma empresa para a criação do seu produto final, proporcionando a satisfação de seus clientes e a melhoria contínua dos seus processos (ANTONIONI, 1995)
+
+>> Fatores para a implementação de um SGQ <<
+
+-> Conscientização da alta administração => Razões contratuais => Competitividade => Modismo
+
