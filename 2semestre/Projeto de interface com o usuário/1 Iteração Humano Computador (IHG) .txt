@@ -1,0 +1,36 @@
+
+
+>> Iteração Humano-Computador (IGC) <<
+
+- O termo Iteração Humano-Computador abrange todos os aspectos relacionados com a iteração de usuários e computadores, não somente o design de interfaces.
+- Muitos já consideram a interface com o usuário como o elemento mais importante de um sistema interativo. Afinal, para o usuário, "o sistema é a interface".
+- É importante saber que uma boa interface não depende de ter ou não uma boa estética. Não é difícil encontrar interfaces bonitas que são ruins, assim como encontramos também interfaces feias e boas.
+
+>> Importância de IHC <<
+
+>> Um bom e um mal design <<
+
+- Características de um mal design
+    - é irritante
+    - é difícil de utilizar
+    - é confuso
+    - os procedimentos não são óbvios
+    - é ineficiente, exige muitos passos pra executar uma tarefa simples
+
+- Características de um bom design <<
+    - utiliza objetos físicos familiares
+    - é estéticamente agradável e fácil de usar
+    - apresente um design simples e elegante
+    - pode oferecer menos funcionalidades, mas permite que qualquer um use
+    - requer pocos ou apenas um passo para realizar tarefas importantes
+
+    >> Metas de usabilidade <<
+
+    - É eficaz?
+    - É eficiente?'
+    - É segura?'
+    - É de boa utilidade?
+    - É fácil de aprender como se usa?
+    - É fácil lembrar como se usa?
+
+    
