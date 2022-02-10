@@ -1,0 +1,93 @@
+
+
+*IMAGEM ANEXA 3.1
+
+>> Modelo McCall <<
+
+- Jim McCall desenvolveu um modelo de qualidade para o Departamento de Defesa Americano em que a qualidade é definida por um CONJUNTO DE CARACTERÍSTICAS INTERNAS E EXTERNAS de um software, tornando-se o primeiro modelo de qualidade a ser amplamente divulgado e utilizado.
+- São três visões: Revisão, Operação e Transição, com 11 processos:
+*IMAGEM ANEXA 3.2
+
+>> ISO/NBR 9126 - Característica de Qualidade do Produto de Software <<
+
+- Fornece um modelo geral que define seis categorias de características de qualidade do produto de software divididas em subcaracterísticas.
+- Estas podem ser avaliadas por meio de métricas quantitativas
+- Tais conjuntos permitem dizer se o o software satisfaz as necessidades e os padrões estabelecidos pelos desenvolvedores e pelos usuários (ISO, 2001).
+*IMAGEM ANEXA 3.3
+
+>> ISO/NBR 9126 - Métricas <<
+
+- Define três classes de aplicação de métricas qua auxiliam as empresas na criação de suas próprias métricas:
+    - Métricas externas: medem se o software satisfaz as necessidades de operação do sistema pelo usuário. Ex.: performance.
+    - Métricas interns: avaliam o software durante sua construção. Ex.: quantidade de erros encontrados em revisões
+    - Qualidade em uso: avalia pela perspectiva do uso cotidiano pelos usuários. Ex.: efetividade, produtividade, segurança e a satisfação do usuário com o software.
+    *IMAGEM ANEXA 3.4
+
+>> ISO/NBR 12207 - Ciclo de Vida do Software <<
+
+- A norma definne um conjunto de processos que padroniza as atividades e orienta o desenvolvimento, a manutenção e a aquisição para as empresas de desenvolvimento de softwares
+
+- Processos fundamentais
+    - Aquisição
+    - Fornecimento
+    - Desenvolvimento
+        - Operação
+        - Manutenção
+
+- Processos de Apoio
+    - Documentação
+    - Gerência de configuração, Garantia da qualidade e Verificação
+    - Validação
+    - Revisão, Auditoria
+    - Resolução de problemas
+
+- Processos organizacionais
+    - Gerência, Melhoria
+    - Infraestrutura, Treinamento
+
+>> ISO/NBR 12207 - Processos fundamentais <<
+
+- Execução do desenvolvimento, da operação e da manutenção do software durante o seu ciclo de vida
+    - Aquisição
+    - Fornecimento
+    - Desenvolvimento
+    - Operação
+    - Manutenção
+
+>> ISO/NBR 12207 - Processos de Apoio <<
+
+- Definem as tarefas que auxiliam outros processos, principalmente as relacionadas à qualidade do software
+    - Documentação
+    - Configuração
+    - Garantia da qualidade
+    - Verificação
+    - Validação
+    - Revisão
+    - Auditoria
+    - Resolução de problemas
+
+>> ISO/NBR 12207 - Processos Organizacionais <<
+
+- Definem as tarefaz que permitem a manutenção ou a melhoria contínua dos processos.
+    - Gerência
+    - Infraestrutura
+    - Melhoria
+    - Treinamento
+
+>> ISO/NBR 12207 - Processos de adaptação <<
+
+- Proporciona a flexibilidade necessária a todo processo e permite que a norma seja adaptável a qualquer empresa de desenvolvimento
+
+- Suas atividades são:
+    - Análise de requisitos do sistema
+    - Projeto de arquitetura do sistema
+    - Análise dos requisitos do software
+    - Projeto de arquitetura do sofftware
+    - Projeto detalhado do software
+    - Codificação e testes do software
+    - Integração do sistema
+    - Testes de qualificação do software
+    - Integração do sistema
+    - Teste de qualificação do sistema
+    - Instalação do software
+    - Apoio à aceitação do software

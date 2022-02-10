@@ -1,0 +1,58 @@
+
+
+>> ISO/IEC 14598 - Avaliação do Produto de Software <<
+
+- Seu objetivo é padronizar a avaliação da qualidade do produto de software. É um complemento da norma ISO/IEC 9126 e deve ser utilizada em conjunto com esta.
+Possui atividades para medir as características de um produto de software, relatórios e documentos de avaliação (1999)
+*IMAGEM ANEXA
+
+>> ISO/IEC 14598 - Definição do processo de avaliação <<
+
+- Descreve o processo de avaliação, do produto de software sob três perspectivas:
+    - Desenvolvedor, Adquirente e Avaliador
+
+- Cada perspectiva possui quatro fases deistintas no processo de avaliação: análise, especificação, projeto e execução
+*IMAGEM ANEXA 4.2
+
+>> ISO/IEC 14598-1 – Fases <<
+
+- Para melhor descrever o conteúdo da norma ISO/IEC 14598, a seguir pe descrito em detalhes o processo de avaliação de produtos de software sob a abordagem da série 14598-1, pois esse ciclo se repete nas demais séries, incluindo as taregas específicas de cada uma delas.
+*IMAGEM ANEXA 4.3
+
+>> ISO/IEC 25000 – SQuaRe (Software Product Quality Requirements and Evaluation) <<
+
+- É a nova versão das normas ISO/IEC 9126 e ISO/IEC 14598
+- Especifica e avalia a qualidade do produto de software
+- Unifica o processo de medição da qualidade do software
+- Atualiza as informações de requisitos de qualidade
+- Obtém-se um documento único e consistente para todo o processo de qualidade
+- A ISO/IEC 25000 contém cinco séries deistintas
+*IMAGEM ANEXA 4.4
+
+>> ISO/IEC 25000 – SQuaRe – Conteúdo básico da série <<
+
+- ISSO/IEC 25000
+    - Guia do SQuaRE
+    - Planejamento e Gestão
+
+- ISSO/IEC 25001
+    - Modelo de qualidade
+    - Planejamento e Gestão
+
+- ISSO/IEC 25002
+    - Modelo de referência para medição
+    - Elemento de medida de qualidade
+    - Medição da qualidade interna
+    - Medição da qualidae externa
+    - Medição da qualidade em uso
+
+- ISSO/IEC 25003
+    - Requisitos de qualidade
+
+- ISSO/IEC 25004
+    - Guia de referência de avaliação
+    - Módulo de avaliação
+    - Processos de avaliação para desenvolvedores
+    - Processos de avaliação para adquirentes
+    - Processos de avaliação para avaliadores
+

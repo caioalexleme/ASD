@@ -5,3 +5,8 @@ Quais os tipos de auditoria existentes?
 
 Qual é a proposta da NBR 9000 para as organizações que desejam implantá-la?
 - Gestão e garantia da qualidade
+
+Qual é a finalidade da implantação da ISO 12207 para uma empresa de software
+- Padronizar e aferir qualidade em quaisquer ciclos de vida de softwares utilizados
+
+Qual é a finalidade da ISO/IEC 25000?

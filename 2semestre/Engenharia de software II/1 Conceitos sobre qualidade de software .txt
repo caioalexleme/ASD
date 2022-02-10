@@ -8,7 +8,7 @@
 
 - Conforme ilustrado na figura 1, para Crosby (1990) existem cinco princípios básicos da qualidade que, se seguidos, produzirão melhores resultados:
 
-    1- Fazer cento na primeira vez
+    1- Fazer certo na primeira vez
     2- Processo preventivo
     3- Atenção às necessidades dos usuários
     4- responsabilidade de todos
