@@ -1,0 +1,70 @@
+
+>> Aspectos cognitivos <<
+*IMAGEM ANEXA 4.1
+
+- Existem vários tipos de cognição, como:
+    - Pensar, lembrar, aprender, sonhar acordado, tomar decisão, ver, ler, escrever e falar;
+
+- Cognição também pode ser descrita em termos de diferentes processos:
+    - Atenção, percepção, memória, aprendizado, leitura, fala, audição, resolução de problemas, planejamento, raciocínio e tomada de decisões
+
+>> Atenção <<
+
+- A atenção consiste no processo de selecionais coisas em que se concentrar. ela envolve nossos sentidos auditivos e/ou visuais.
+
+- O processo de manter a atenção pode ser mais fácil ou difícil dependendo de:
+    - Nossos objetivos => se soubermos exatamente o que queremos descobrir, tentaremos combinar isso com a informação disponível. Também podemos folhear um jornal ou revista em busca de alguma matéria que chame a nossa atenção;
+    - apresentação da informação - a maneita como a informação é apresentada pode influeciar muito o nível de dificuldade para chegar às partes apropriadas da informação
+
+>> Apresentação da informação <<
+*IMAGEM ANEXA 4.2
+*IMAGEM ANEXA 4.3
+
+>> Multitarefa e atenção <<
+
+- Durante uma palestra, observei um aluno à minha frente que:
+    - Mantinha quatro conversas distintas por dois aplivativos (WhatsApp e Facebook Messenger)
+    - lia e respondia sua correspondência eletrônica em dois emails diferentes.
+    - Fazia anotações sobre a palestra;
+    - consultou o perfil do paletrante no Linkedine pesquisou algumas publicações
+    - consultava um grande números de blogs e feeds de notícias
+    - quando teve uma tempo livre, abriu um jogo
+
+- Fiquei exausto só de olhar, Mas quanto da palestra realmente o aluno assimilou?
+
+>> Multitarefa e atenção <<
+
+- Há muita pesquisa sobre multitarefa e atenção e a principal conclusão é de que seus efeitos dependem do tipo das tarefas;
+
+    - Multitarefas leves: ouvit música leve durante o trabalho ajuda a isolar ruído de fundo, como tráfego e burburinho
+
+    - Multitarefas pesadas: tarefas que exigem esforço cognitivo para serem realizadas, como o exemplo anterior
+
+- Estudos indicam que pessoas que realizan muititarefas pesadas tem mais facilidade em perder a atenção do que pessoas que fazem pouca ou nenhuma multitarefa
+
+>> Memória <<
+
+- Nossa memória é limitada a utilizar um mecanismo de filtragem para selecionar o que será lembrado e o que será esquecido
+- Este mecanismo não depende da nossa vontade. Podemos nos esquecer da datas importantes, nomes de colegas de trabalho, mas nos lembramos de coisas triviais e melodias simples que ficam em nossa cabeça
+
+- É muito mais fácil reconhecer do que se lembrar
+*IMAGEM ANEXA 4.4
+
+>> Aprendizado <<
+
+- O aprendizado pode se considerado com a relação a:
+
+    - Aprender a usar uma aplicação baseada em computador.
+    - aprender algo com o auxílio de uma aplicação baseada em computador
+
+- Cada vez mais, as pessoas estão menos dispostas a aprender seguindo instruções e manuais. Elas preferem aprender fazendo".
+
+- Desta forma, uma interface simples, familiar, pode servir de ferramenta para ensinar o usuário como o sistema realmente funciona e quais são suas capacidades.
+
+>> Modelos mentais <<
+
+- Como já foi mencionado, os usuários constroem um MODELO MENTAL sobre o funcionamento do sistema que estejam utilizando. Este modelo mental costuma ser incompleto, inconsistente ou simplesmente erra. Isso se dá porque o usuário não conhece o mecanismo interno do sistema
+
+- Como no elevador, a ansiedade do usuário pode ser diminuída se for aumentada a transparência do sistema, ou seja, se forem oferecidas mais informações sobre o seu funcionamento.
+
+- Mas quanta transparência oferecer? Informações demais também é ruim, pois acaba sobrecarregando o usuário. A informação considerada em excesso acaba sendo simplesmente ignorada.

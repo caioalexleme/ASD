@@ -1,0 +1,55 @@
+
+>> Acessibilidade <<
+
+- O usuário emprega diversas habilidades ao interagir com a interface
+    - Habilidade motora
+    - Visão
+    - Audição
+    - Tato
+    - capacidade de percepção
+
+O design de interfaces deve estar preparado para atender às necessiddades dos usuários com umaou mais dessas habilidades
+
+>> Déficit visual <<
+
+- Lupas digitais
+- Design com alto contraste
+- Leitores de tela
+- etc
+
+    Facilidade de acesso
+        - Narrador
+        - Lupa
+        - Alto contraste
+        - Teclado
+        - Mouse
+        - Outras opções
+
+>> Déficit motor <<
+*IMAGEM ANEXA
+
+>> Déficit de capacidade de percepção <<
+
+- Há uma grande variedade de níveis de défiicts de capacidade de percepção, desde pessoas com pouca instrução, passando por pessoas portadoras de síndromes ou doenças reconhecidas, (Síndrome de Down, de Asperger, Alzheimer, Paralisia cerebral etc.) até pessoas que sofreram danos cerebrais que podem acarretar variadas perdas, com diversos níveis de seriedade.
+
+- Não é possível criar uma interface que atenda a todas as necessidades especiais de qualquer possível usuário, mas algumas medidas podem melhorar a interação de pessoas com déficits comuns, como a baixa instrução:
+    - utilizar URLs curtas e fáceis;
+    - usar palavras simples e sentenças curtas no conteúdo;
+    - simploficar questoes relacionadas à segurança;
+    - fornecer texto totalmente em português
+    - utilizar imagens simples e tradicionais (para que um usuário idoso não se sinta desatualizado);
+    - disponibilizar explicações sobre os elementos sempre nos mesmos lugares;
+    - não exigir o uso de dados entre páginas
+
+>> Retorno Sobre o Investimento (ROI)
+
+- O desenvolvimento de um mecanismo de interação bem feito pode ser um processo longo e apresentas um custo elevadi, como será visto mais adiante, Entretanto, a alta administração das empresas coostumam encaras este custo como um mal necessário, não como um investimento.
+
+- Assim é importante escarecer que um bom mecanismo de interaçõa traz vantagens para muitas outras áreas da empresa, como:
+    - Aumento da produtividade do usuário;
+    - Aumento de vendas;
+    - Redução de erros do usuário;
+    - Redução dos custos de treinamento;
+    - Economia obtida em fazer alterações no ciclo de vida do projeto;
+    - redução de suporte ao usuário
+    - aumento da fidelidade do usuário
