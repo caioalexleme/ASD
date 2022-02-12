@@ -43,7 +43,7 @@ O design de interfaces deve estar preparado para atender às necessiddades dos u
 
 >> Retorno Sobre o Investimento (ROI)
 
-- O desenvolvimento de um mecanismo de interação bem feito pode ser um processo longo e apresentas um custo elevadi, como será visto mais adiante, Entretanto, a alta administração das empresas coostumam encaras este custo como um mal necessário, não como um investimento.
+- O desenvolvimento de um mecanismo de interação bem feito pode ser um processo longo e apresenta um custo elevado, como será visto mais adiante, Entretanto, a alta administração das empresas coostumam encarar este custo como um mal necessário, não como um investimento.
 
 - Assim é importante escarecer que um bom mecanismo de interaçõa traz vantagens para muitas outras áreas da empresa, como:
     - Aumento da produtividade do usuário;

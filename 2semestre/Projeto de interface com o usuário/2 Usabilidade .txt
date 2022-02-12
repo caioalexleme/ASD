@@ -44,6 +44,6 @@
 
 - Do ponto de vista do usuário, "a interface do sistema é o sistema". O usuário não tem como saber como é o mecanismo interno do sistema. Ao invés disso, ele faz um MODELO MENTAL do sistema, ou seja, ele imagina como o sistema funciona internamente e passa a interagir com a interface, supondo que seu modelo mentão é real
 
-- Assim, uma coa cominicabilidade é uma propriedade da interface, que faz com que o modelo mental do usuário sobre o sistema se aproxime do modelo mental do projetista sobre o sistema
+- Assim, uma boa comunicabilidade é uma propriedade da interface, que faz com que o modelo mental do usuário sobre o sistema se aproxime do modelo mental do projetista sobre o sistema
 
 - Desta forma, o usuário conseguirá utilizar a interface para manipular o sistema da maneira como ele foi projetado
