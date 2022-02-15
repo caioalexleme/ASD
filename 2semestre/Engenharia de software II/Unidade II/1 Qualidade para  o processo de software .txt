@@ -6,3 +6,64 @@
 
 - Orienta a repeito de como podem evoluir e atingir graus de maturidade cada vez mais elevados.
 *IMAGEM ANEXA 1.1
+
+>> ISO/IEC 15504 – SPICE – melhoria do processo de software <<
+
+- Características:
+    - É o resultado da combinação do CMM, da norma ISO/IEC 12207, da qual trouxe os processos de ciclo de vida, da ISO 9001, da ISO 9000-3, dentre outros.
+    - SPICE: Software Process Improvement and Capability Determination (Melhoria do Processo de Software e Determinação da Capacidade), que está relacionado à maturidade das empresas na construção do software.
+    - Seis níveis de maturidade que permitem a avaliação do grau de qualidade em que as organizações se encontram.
+    - Dividido em duas partes: processo de desenvolvimento e processo de capacidade.
+
+        - Processo de desenvolvimento: os requisitos são descritos e classificados de acordo com a norma ISO/IEC 12207, que contém: os processos de engenharia de software, o processo de aquisição, os processos de gerência e os organizacionais
+
+        - Processo de capacidade: na segunda parte são descritos os requisitos de maturidade das empresas de software de acordo com o modelo CMM.
+
+- A norma ISO/IEC 15504 possui nove séries que descrevem o processo.
+*IMAGEM ANEXA
+
+- 1. Partes normativas
+    - ISO/IEC 15504-2 - modelo de referência para processo e capacidade: descreve o processo para realização da avaliação da capacidade da organização
+    - ISO/IEC 15504-3 - requisitos para a realização de uma avaliação: é um procedimento para a realização da avaliação de maturidade
+
+    *Obs.: maturidade: GRAUS DE CONHECIMENTO E DE EXECUÇÃO DAS MELHORES PRÁTICAS de Engenharia de Software que levam a as empresas a produzirem software com qualidade
+
+- 2. Partes informativas
+    - ISO/IEC 15504-1 - VISÃO GERAL DA NORMA: apresenta uma séria de conceitos e guia introdutório da descrição dos procedimentos da norma
+    - ISO/IEC 15504-4 - RESULTADOS DE UMA AVALIAÇÃO: guia para a UTILIZAÇÃO dos resultados da avaliação.
+    - ISO/IEC 15504-5 - MODELO DE UTILIZAÇÃO: apresenta UM EXEMPLO PARA A UTILIZAÇÃO DA NORMA.
+    - ISO/IEC 15504-6 - guia para a QUALIFICAÇÃO DE AVALIADORES: descreve os PROCEDIMENTOS PARA TREINAMENTO E CERTIFICAÇÃO DOS AVALIADORES DO PROCESSO.
+    - ISO/IEC 15504-7 - GUIA PARA MELHORIA DO PROCESSO.
+    - ISO/IEC 15504-8 - DESCRIÇÃO PARA A DETERMINAÇÃO DA MATURIDADE.
+    - ISO/IEC 15504-9 - VOCABULÁRIO DE TERMOS
+
+- 3. ISO/IEC 15504-2 - o processo de desenvolvimento;
+- A norma incorpora os requisitos da ISO/IEC 12207, detalhando como deve ser realizado o processo de desenvolvimento, abordando:
+    - Aspectos primários (cliente-fornecedor):
+    - Qualidade.
+    - Gestão.
+    - Processos Organizacionais.
+
+- 4. ISO/IEC 15504-2 - determinação da maturidade
+- A norma incorpora os requisitos do CMM e estabelece um roteiro de 6 níveis de maturidade e cada nível representa o estágio de conhecimentos e qualidade em que a organização se encontra
+
+- A ISO/IEC 15504-2 é a principaldo modelo da norma ISO/IEC 15504, segue lista dos processos de desenvolvimento e a determização dos níveis de maturidade que as organizações podem alcançar:
+*IMAGEM ANEXA
+
+>> ISO/IEC 15504 - SPICE - descrição dos níveis de maturidade <<
+
+- Determina o quannto uma organização tem DOMÍNIO DE TODO O CICLO DE PRODUÇÃO DE SOFTWARE, bem como de todos OS PROCESSOS que podem garantia a produção de um software de qualidade e a  CAPACITAÇ~]AO CONTÍNUA DAS PESSOAS ENVOLVIDAS.
+*IMAGEM ANEXA
+
+>> ISO/IEC 15504 - melhoria do processo de software - níveis de maturidade <<
+
+- Nível 0 - incompleto: nenhum processo é utilizado e não gera os resultados esperados.
+
+- Nível 1 - executado: o processo ALCANÇA ALGUNS DE SEUS OBJETIVOS E GERA PRODUTOS esperados
+
+- Nível 2 - Gerenciando: o processo, além de se executado, é feito de maneira GERENCIADA, PLANEJADA, CONTROLADA, ACOMPANHADA VERIFICADA E CORRIGIDA de acordo com as condições estabelecidas.
+
+- Nível 4 - previsível: o processo agora, além de ser executado, gerenciado e definido, também PASSA A SER MEDIDO QUANTITATIVAMENTE em relação aos resultados produzidos.
+
+- Nível 5 - otimizado: o processo agora, além de executado, gerenciado, definido e medido dentro de limites quantitativos, PODE SER MUDADO E EVOLUÍDO DE MANEIRA DINÂMICA E CONTROLADA.
+
