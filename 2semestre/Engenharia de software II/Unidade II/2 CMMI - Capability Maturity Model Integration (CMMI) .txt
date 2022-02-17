@@ -1,0 +1,41 @@
+
+
+>> CMMI - Capability Maturity Model Integration (CMMI) <<
+
+- Objetivo: avaliar a maturidade das empresas que fornecem software
+
+- Descreve orientações de quais processos devem ser implementados para atingir a maturidade no desenvolvimento de software, mas não descreve o "como fazer"
+
+- Vanagens em implementar o CMMI:
+    - Fornecer software em diversos países;
+    - Redução de cusotos;
+    - Processo de desenvolvimento padronizado; melhoria nas estimativas de prazos e custos; aumento de produtividade por repetição dos processos; satisfação do cliente e da equipe;
+    - Alta qualidade dos produtos de software
+
+>> CMMI - Capability Maturity Model Integration (CMMI) - níveis de maturidade <<
+
+- São cinco os níveis de maturidade para representar em que ponto a organização se encontra no processo de melhoria contínua
+    1 - Inicial
+    2 - Gerenciado
+    3 - Definido
+    4 - Quantitativo
+    5 - Otimizado
+
+- Descrição dos níveis:
+
+    - 5 níveis de maturidade;
+    - Melhoria gradativa do nível de qualidade do software;
+    - Representação estagiada, gradativa;
+    - Foco na melhoria da organização;
+    - Atribui um nível de maturidade que a organização se encontra, permitindo, assim, comparar organizações de forma direta
+
+- Característivas
+    - Nível 1: o processo é imprevisível, pouco controlado e muito reativo.
+    - Nível 2: o processo ocorre por projetos e a qualidade é alcançada por repetição
+    - Nível 3: o processo ocorre por projetos e a qualidade é alcançada por repetição
+    - Nível 4: o processo é medido e controlado
+    - Nível 5: o processo é constantemente melhorado
+
+- Observação:
+    - O CMMI não diz qual a melhor representação a ser utilizada.
+    - A escolha é exclusiva da emrpesa que aplica o modelo, de acordo com o nível de qualidade em que a organização se encontra, a sua maturidade organizacional e a disponibilidade financeira que possui para investir
