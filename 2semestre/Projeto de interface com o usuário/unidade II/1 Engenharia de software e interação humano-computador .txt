@@ -1,0 +1,23 @@
+
+
+>> Engenharia de software e interação humano-computador <<
+
+- Como desenvolver software?
+    - Cálculo de média
+    - Cálculo de juros
+    - Cálculo de fatorial
+    - Cálculo de série de Fibonacci
+    etc
+
+    ||
+    \/
+
+    - Sistema operacional
+    - pacote de escritório
+    - simulador de voo
+    - Aplicativo de previsão do tempo
+    - jogo de vídeo game
+
+- Fases de um ciclo de vida de desenvolvimento de software:
+    - levantamento de requisitos;
+    - 
