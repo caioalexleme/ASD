@@ -1,0 +1,51 @@
+
+>> CMMI - áreas de processos <<
+
+- Representam todas as boas práticas de Engenharia de Software
+
+- Em cada área de processo existem tarefas que precisam ser praticadas para verificação de evidência de sua execução
+*IMAGEM ANEXA 2.1
+
+- Área de Gerenciamento de Processos:
+    - Áreas relacionadas às ações organizacionais que permitem a definição, a implantação, o monitoramento, a avaliação e a medição dos processos.
+    - São ela:
+    - Foco no processo organizacional
+    - Treinamento organizacional
+    - Desempenho do processo organizacional
+    - Inovação e desenvolvimento organizacional
+
+>> CMMI - áreas de gerenciamento de projetos <<
+
+- Descrevem e definem as booas práticas para o planejamento, a execução, o controle e o encerramento dos projetos de software.
+- São elas:
+    - Planejamento de projetos.
+    - Monitoramento e controle de projetos
+    - Gerência de acordos com fornecedores
+    - Gerência integrada de projetos
+    - Gerência de riscos
+    - Integração de equipes
+    - Gerência de fornecedores integrada
+    - Gerência quantitativa de projetos
+
+>> CMMI - áreas de engenharia <<
+
+- Envolvem as áres de processo voltadas para a construção e a manutenção do software.
+- São elas:
+    - Gerência de requisitos
+    - Desenvolvimento de requisitos
+    - Solução técnica
+    - Integração de produtos
+    - verificação
+    - validação
+
+>> CMMI - áreas de suporte <<
+
+- Relacionam as áreas de processo que servem de apoio ao desenvolvimento e à manutenção do software
+- São elas:
+    - Gerência de configuração
+    - Garantia da qualidade do processo e do produtos
+    - Medição e análise
+    - Ambiente organizacional para Integração
+    - Análise de decisões e resoluções
+    - Análise de causas e resoluções
+
