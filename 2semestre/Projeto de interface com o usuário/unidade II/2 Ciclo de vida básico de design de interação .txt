@@ -1,0 +1,51 @@
+
+>> Ciclo de vida básico de design de operação <<
+*IMAGEM ANEXA 2.1
+
+>> Especificação de requisitor <<
+
+- Entrevistas
+- Grupos de foco
+- Questionários
+- Observação direta
+- Observação indireta
+- Estudo de documentação
+- Pesquisa de produtos similares
+
+>> Desenvolvimento de designs alternativos <<
+
+- É necessário entender:
+    - O espaço do problema
+    - O usuário
+    - O que o usuário está fazendo ao utilizar o sistema
+    - quais mecanismos de interação serão usados (winp, touchscreen, reconhecimento de voz, manipulação direta etc.)
+
+>> Modelo Estrela <<
+*IMAGEM ANEXA 2.2
+
+>> Modelo da engenharia de usabilidade <<
+
+- Pré-projeto
+    - Conhecer o usuário
+        - Características individuais
+        - Tarefa atual
+    - Análise competitiva
+    - Metas de usabilidade
+
+- Projeto
+    - Métodos participativos
+    - Guidelines
+    - Projeto coordenado
+    - Padrôes - Identidade do produtos
+
+- Desenvolvimento iterativo
+    - Prototipação
+    - Teste
+    - Design rationale
+
+- Pós-projeto
+    - Feedback de estudo de campo
+
+>> Desenvolvimento do design e o desenvolvimento ágil <<
+*IMAGEM ANEXA 2.3
+

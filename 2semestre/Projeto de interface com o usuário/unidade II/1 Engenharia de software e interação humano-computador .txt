@@ -20,4 +20,22 @@
 
 - Fases de um ciclo de vida de desenvolvimento de software:
     - levantamento de requisitos;
-    - 
+    - Análise;
+    - Projeto
+    - implementação
+    - testes
+    - implantação
+    - Manutenção
+
+>> Modelo de ciclo de vida em cascata <<
+
+- Requisitos > Análise > Projeto > Implementação > Testes > Implantação > Manutenção
+
+>> Modelo de ciclo de vida incremental <<
+*IMAGEM ANEXA (1.1 , 1.2)
+
+>> Prototipagem evolucionária <<
+*IMAGEM ANEXA 1.3
+
+>> Prototipagem descartável <<
+*IMAGEM ANEXA 1.4
