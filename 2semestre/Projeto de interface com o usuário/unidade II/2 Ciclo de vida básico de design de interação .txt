@@ -2,7 +2,7 @@
 >> Ciclo de vida básico de design de operação <<
 *IMAGEM ANEXA 2.1
 
->> Especificação de requisitor <<
+>> Especificação de requisitos <<
 
 - Entrevistas
 - Grupos de foco

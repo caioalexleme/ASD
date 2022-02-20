@@ -1,0 +1,26 @@
+
+>> Projeto centrado no usuário <<
+*IMAGEM ANEXA 3.1
+
+>> Coleta de dados <<
+
+- A principal contribuição dos usuários nas fases relacionadas ao desenvolvimento do design de interação se dá na coleta de dados. Nessa atividade, devemos prestar atenção aos seguintes aspectos:
+    - Estabelecer objetivos
+    - Identificar os participantes
+    - definir o relacionamento com os participantes
+
+- Pode se usar uma combinação das seguintes técnicas para coletar dados dos usuários:
+    - Entrevistas
+    - grupos de foco
+    - questionários
+    - observação direta em campo
+    - observação direta em ambientes controlados
+    - observação indireta
+
+>> Avaliação do design <<
+
+- Um dos momentos em que a participação do usuário é mais importante é na avaliação da interface
+
+>> Projeto de interface para dispositiveis móveis <<
+*IMAGEM ANEXA 3.2
+

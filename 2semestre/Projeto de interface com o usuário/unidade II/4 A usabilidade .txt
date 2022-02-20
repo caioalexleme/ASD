@@ -1,0 +1,33 @@
+
+>> Ausabilidade e a NBR ISO 9241-11 <<
+
+- A Norma NBR ISO 9241-11 - Requisitos ergonômicos para Trabalho de Escritórios com Computadores aborda diversos aspectos que afetam como os usuários alcançam seus objetivos e satisfaçam suas necessidades em um contexto particular de uso.
+Essa norma define usabilidade como:
+    - Eficácia: acurácia e completude com as quais usuários alcançam  objetivos específicos
+    - Eficiência: os recursos gastos em relação à acurácia e à abrangência com as quais os usuários atingem os objetivos.
+    - Satisfação: a ausência do desconforto e as atitudes para com ouso de um produto.
+    - Contexto de uso: usuários, tarefas, equipamentos e ambientes físico e social nos quais o produto é usado.
+    *IMAGEM ANEXA 4.1
+
+>> A usabilidade e a NBR ISO/IEC 9126-1 <<
+
+- A norma NBR ISO/IEC 9126-1 - Engenharia de software:
+Qualidade de Produto é uma norma que descreve um modelo de qualidade do produto de software.
+
+- Para essa norma, usabilidade é um atributo de qualidade de software e é subdividida em:
+    - Inteligibilidade
+    - apreensibilidade
+    - operacionalidade
+    - atratividade
+    - conformidade relacionada à usabilidade
+
+- Essa norma traz ainda o conceito de qualidade em uso, que pode ser categorizada em quatro atributos:
+    - Eficácia: capacidade do produto de software de permitir que usuários atinjam metas especificadas com acurácia e completude em um contexto de uso
+    - Produtividade: capacidade do produto de software de permitir que seus usuários empreguem quantidade apropriada de recursos em relação à eficácia obtida em um contexto de uso
+    - Segurança: capacidade de um produto de software de apresentar níveis aceitáveis de riscos de dados a pessoas, negócios, software, propriedade ou ao ambiente de um contexto de uso
+    - Satisfação: capacidade de um produto de software de satisfazer usuários em um contexto de uso.
+
+>> A norma ISO 13407 <<
+
+- A norma ISO 13407 - Processo  de Projeto Centrado no Usuário para Sistemas Interativos fonece orientações sobre as atividades de projeto centrado no usuário que acontecem ao longo do ciclo de vida de sistemas interativos computacionais.
+*IMAGEM ANEXA 4.2
