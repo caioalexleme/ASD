@@ -48,4 +48,3 @@
     - Ambiente organizacional para Integração
     - Análise de decisões e resoluções
     - Análise de causas e resoluções
-

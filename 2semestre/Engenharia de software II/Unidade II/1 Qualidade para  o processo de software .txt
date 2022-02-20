@@ -66,4 +66,3 @@
 - Nível 4 - previsível: o processo agora, além de ser executado, gerenciado e definido, também PASSA A SER MEDIDO QUANTITATIVAMENTE em relação aos resultados produzidos.
 
 - Nível 5 - otimizado: o processo agora, além de executado, gerenciado, definido e medido dentro de limites quantitativos, PODE SER MUDADO E EVOLUÍDO DE MANEIRA DINÂMICA E CONTROLADA.
-

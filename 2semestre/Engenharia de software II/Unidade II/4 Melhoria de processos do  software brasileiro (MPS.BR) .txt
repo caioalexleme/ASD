@@ -1,0 +1,42 @@
+
+>> Melhoria de processos do software brasileiro(MPS.BR)
+
+- Objetivo:
+    - Implantar um modelo de qualidade de melhoria de processo com custos mais acessíveis à realidade brasileira;
+    - Alinhado aos padrões e às normas internacionais, como CMMI, ISO/IEC 12207, ISO/IEC 15504 e ISO/IEC 25000;
+    - Reconhecimento como selo de qualidade de software está limitado ao território brasileiro;
+    - É requisito básico que as organizações possuam a avaliação MPS.BR para fornecer software para o Governo Federal.
+
+- Auxilia as organizações a compreender todos os componentes envolvidos no desenvolvimento e na aquiaição do software, bem como a executarem projetos de forma mais eficiente.
+*IMAGEM ANEXA 4.1
+
+- O modelo está dividido em 4 componentes, 7 níveis de maturidade e 19 processos distribuídos nos níveis definidos
+- Componentes: são modelos de referência para desenvolvimento, aquisição e avaliação do processo de software, os níveis de maturidade. São eles:
+- Modelos de referência para software: contém as definições dos níveis de maturidade, processos e atributos do processo para aquisição e implementação.
+- Modelo de referência para serviços: contém as definições dos níveis de maturidade, processos e atributos do processo para a prestação de serviços de informática.
+- Método de avaliação: contém os requisitos pas os avaliadores-líderes, os avaliadores adjuntos e as instituições avaliadoras.
+- Modelo de negócio: descreve as regras de negócio para implementação dos momdelos de referência de software e de serviços pelas intituições implementadoras e para o método de avaliação pelas instituições avaliadoras (IA)
+
+>> MPS.BR - níveis de maturidade <<
+
+- Características
+    - Estabelecem um indicador de evolução da qualidade;
+    - Representando estágios de melhoria da implementação; auxilia na definição de quão maduro está seu modelo de qualidade;
+    - São sete níveis de maturidade sequenciais e dependentes entre si.
+        - A - Otimizado
+        - B - Gerenciamento quantitativamente
+        - C - definido
+        - C - Largamente definido
+        - E - Parcialemente definido
+        - F - Gerenciado
+        - G - Parcialmente gerenciado
+
+>> MPS.BR - níveis de maturidade - estrutura <<
+*IMAGEM ANEXA 4.2
+
+>> Comparativo do nível de maturidade entre o MPS.BR e o CMMI <<
+
+- Como o modelo MPS.BR é baseado no CMMI, existem muita semelhança entre ambos
+- A diferença mais relevante está no número de níveis de maturidade - que no CMMI são 5, e no MPS.BR são sete -, porém sem equivalência ao nível 1 inicial do CMMI.
+*IMAGEM ANEXA 4.3
+

@@ -6,9 +6,9 @@
 
 - Descreve orientações de quais processos devem ser implementados para atingir a maturidade no desenvolvimento de software, mas não descreve o "como fazer"
 
-- Vanagens em implementar o CMMI:
+- Vantagens em implementar o CMMI:
     - Fornecer software em diversos países;
-    - Redução de cusotos;
+    - Redução de custos;
     - Processo de desenvolvimento padronizado; melhoria nas estimativas de prazos e custos; aumento de produtividade por repetição dos processos; satisfação do cliente e da equipe;
     - Alta qualidade dos produtos de software
 
