@@ -1,0 +1,119 @@
+
+>> Verificação e validação do software <<
+
+- Garante que o produto seja construído corretamente, para que os esforços de problemas causem menos impacto possível
+
+- As técnicas de V&V abrangem os cenários:
+    - Aplicação de ferramentas que podem automatizar a revisão de determinados produtos;
+    - Utilização do processo de revisão de artefatos, como revisão por pares;
+    - Adoção de normas padrões;
+    - Manutenção de registros de todas alterações realizadas nos artefatos
+    - Processo de medição para avaliar se a qualidade está se mantendo, melhorando ou piorando
+
+>> Verificação e validação de software (V&V) <<
+
+- Aspectos para levar em conta na utilização do V&V:
+    - Permite encontrar erros mais cedo;
+    - Aumenta a integração da equipe
+    - Permite o acompanhamento contínuo da qualidade
+    - Facilita o gerenciamento
+    - Melhora a qualidade
+    - Aumenta a interação das equipes
+    - Deve ser aplicado durante todo o ciclo de desenvolvimento e do planejamentos das demais atividades
+    - A ausência do planejamentos limita a qualidade
+    - Gera custos mais elevados para encontra falhas introduzidas no início do desenvolvimento
+
+>> Verificação <<
+
+- Consiste nas ações realizadas ao final de cada fase;
+- Objetivo é atestar que o produto está sendo desenvolvido corretamente
+*IMAGEM ANEXA 1.1
+
+>> Validação <<
+
+- Consiste nas ações realizadas ao final ou no decorrer do processo de desenvolvimento
+- Objetivo de avaliar se o produto está de acordo com as especificações de requisitos iniciais fornecidas pelo cliente e 
+- Garantir que o produto tenha sido desenvolvido corretamente
+
+>> Revisões técnicas <<
+
+- Avaliação crítica de todos os artefatos produzidos durante o desenvolvimento de um software, em pontos predefinidos do ciclo de vida
+- Objetivo: Encontrar e corrigir erros inseridos durante o processo
+- Quanto mais cedo encontrarmos esses erros, teremos redução de custos no processo de desenvolvimento
+
+- Benefícios
+    - Verificação se o produto de trabalho está em conformidade com os padrões, as especificações e os requisitos definidos; identificação de melhorias necessárias;
+    - Documentação e geração de histórico de erros
+    - Consenso entre cliente e equipe sobre os produtos de trabalho
+
+>> Revisão técnica formal (RTF) <<
+
+- Deve ser estruturada,
+- Conduzida em uma reunião e será tão bem-sucedida quanto for planejada e controlada. Deve ser realizada sobre artefatos para permitir melhor avaliação e aumentar as probabilidades de sucesso;
+*IMAGEM ANEXA 1.2
+
+>> Revisão técnica formal (RTF) - Boas práticas <<
+
+- Boas práticas para a condução de uma RTF:
+    - A equipe de revisão deve ter de três a cinco pessoas;
+    - Equipe com um objetivo alvo para revisão
+    - Artefato a ser revisado deve ser enviado com antecedência
+    - Os papéris dos stakeholders devem estar clarament definidos: moderador, autor e revisores;
+    - Iniciar pela leitura do documento pelo autor;
+    - A cada parte do documento, a equipe de revisores faz os comentários;
+    - O lícer faz a mediação em eventuais conflitos e discordâncias
+    - Registrar todos os comentários da revião para histórico
+    - Duração de, no máximo, 2 horas
+
+>> Diretrizes básicas de una RTF <<
+
+- Fixe e mantenha uma agenda com os participantes.
+- Revise o produto, não o autor do Artefato
+- Faça anotações por escrito
+- Enuncie os problemas, mas não tente resolver cada um deles
+- Realize um treinamento sobre revisões para todos os revisores
+- Analise suas antigas revisões
+
+>> Passeio (walkthrough) <<
+
+- São revisões técnicas informais, também chamados de revisão por pares. mas podem ter até três participantes, autor, revisor e moderador
+- O revisor pode ser um técnico, um cliente ou uma pessoa externa ao projeto que domine o assunto em revisão
+- O moderador não deve ser do mesmo nível hierárquico do autor e do revisor
+- Prática recomendada pelos métodos ágeis de desenvolvimento
+- Apoia a recomendação da qualidade a qual determina que tudo deve ser revisado antes de ser entregue ao cliente:
+
+    Autor + Revisor = Artefato revisado
+
+>> O processo: Passeio (walkthrough) <<
+
+- Reuniões informais para avaliação do produto
+- Extremamente simples
+- Não envolve agendamento, preparação ou planejamento prévio
+
+- Características:
+    - Pouca preparação requerida
+    - Obejtivo de comunicar ou receber aprovação do artefatos
+    - Papéis específicos não são estabelecidos
+    - Autor guia os presentes pelo Artefato
+    - O revisor lê o documento e fas suas considerações 
+    - O autor nunca pode ser o leitor
+
+>> Diretrizes básicas de um  Walkthrough <<
+
+- Algumas recomendações importantes que devem ser observadas:
+    - O autor seleciona os revisores e convida-os para a reunião
+    - O autor entrega o artefato aos revisores na reunião
+    - O foco deve ser o artefato, e não o autor
+    - O autor deve apresentar o artefato durante a reunião
+    - Os revisores apresentam possíveis falhas, comentários e sugestões de melhoria
+    - Com base nas informações apresentadas, o autor faz as devidas correções
+
+>> Revisões progressivas por pares <<
+
+- Constituem características de walkthrough e da RTF
+    - Artefato é dividido em partes e distribuído aos revisores
+    - O artefato deve ser separado e distribuído aos revisores
+    - Na revisão, cada revisor faz a leitura do artefato
+    - Há o registro das revisões
+    - Ao término de cada trecho revisado, o revisor passa a vez para o próximo, e assim sucessivamente, até que todo material seja revisado
+    - O autor já faz as alterações sugeridas para verificar a eficácia destas
