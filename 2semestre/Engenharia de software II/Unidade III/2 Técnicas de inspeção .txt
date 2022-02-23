@@ -1,0 +1,70 @@
+
+
+>> Técnicas de inspeção <<
+
+- Técnica formal, em que os envolvidos examinam os artefatos produzidos contra uma especificação inicial com o objetivo de encontrar incoerência e erros;
+- Realizada a qualquer momento dentro do ciclo de vida de um produtode software;
+- Envolve pessoas com domínio do assunto que está sendo inspecionado e possui um checklist dos pontos que devem ser verificados no artefatos
+
+- Qualquer produto do resultado do trabalho de desenvolvimento, inclusive:
+    - Documento de requisitos.
+    - especificação de casos de uso
+    - Diagrama de classe
+    - Protótipo de telas;
+    - Especificação de telas;
+    - Diagrama de arquitetura do sistema
+    - Modelo de dados
+    - Especificação de projeto etc
+
+>> Processo de inspeção <<
+
+- Processo de inspeção é composto de seis etapas, detalhado a seguir:
+    - Planejamento
+    - Apresentação
+    - Preparação
+    - Reunião de inspeção
+    - Correção
+    - Revisão
+
+- Planejamento: Previsão da inspeção dos artefatos do cronograma do processo de desenvolvimento de software, sem o qual a formalidade prevista não será atendida
+- Apresentação: Etapa opcional diretamento ligada ao tamanho e à complexidade do artefato a ser inspecionado. No caso de ocorrer, há uma explicação sobre seus pontos principais
+- Preparação: Leitura prévia de toda a documentação dentro do tempo planejado
+- Inspeção: Apresentação do artefato por partes, para que os inspetores façam os questionamentos e apontamentos de correção, que são registrados pelo escritor;
+
+- O processo de repete até que todo o artefato seja inspecionado. Ao final, a equipe faz as considerações de melhoria e decide se o artefato será aceito, aceito com ressalvas ou se necessita de uma nova inspeção
+- Correção: As correções e melhorias são realizadas com registro das respectivas soluções
+- Revisão: Situação final da inspeção. O coordenador de inspeções recebe o documento final da inspeção
+
+>> Papéis de responsabilidade no Processo de inspeção <<
+
+- coordenador
+    - Moderador
+        - Autor
+        - inspetor
+        - leitor
+        - escritor
+
+>> Checklist de uma inspeção para artefatos de software <<
+
+- São listas de verificação elaboradas em informações históricas de outras inspeções, lições aprendidas, dados forncecidos por especialistas e itens retirados de padrões preexistentes contra os quais o artefato será avaliado
+*IMAGEM ANEXA 2.1
+
+>> Sala limpa (Cleanroom) <<
+
+- Baseada em especificações formais matemáticas e destinada ao desenvolvimento de software de alta confiabilidade como os utilizados no controle de usinas nucleares, na navegação de aviões, trens, metròs e navios, dentre outros.
+
+- O foco da sala limpa é a realização de ações preventivas, e não a correção de erros.
+
+- A verificação se dá por meio de inspeções rigorosas, provas matemáticas de testes estatísticos para determinar a confiabilidade do sistema, tornando-a diferente de outras técnicas (SOMMERVILLE, 2013)
+
+- Crenças limitantes:
+    - Metodologia muito teórica, matemática e radical para o desenvolvimento de software
+    - Subustituição de testes unitários por verificação de correção e controle estatístico de qualidade é muito diferento do método empregado pelos desenvolvedores de software
+    - As empresas de software ainda não possuem nível de maturidade suficiente para aplicar o processo sala limpa
+
+>> Sala limpa (Cleanroom) - Estrutura <<
+
+- Processo de gerenciamento: define as atividades relacionadas à gestão do projeto
+- Processo de especificação: Decreve as atividades de coleta de requisitos, a especificação forma dos requisistos, a especificação formal do projeto etc
+- Processo de desenvolvimento: define as atividades de engenharia relativas a codificação e à inspeção forma do código produzido
+- Processo de certificação: define o uso dos modelos de referência, os testes estatísticos formais, a execução da aplicação e a certificação da confiabilidade do software em desenvolvimento
