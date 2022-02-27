@@ -1,0 +1,36 @@
+
+>> Reengenharia das práticas de trabalho <<
+
+- Com a implantação do sistema de automação, as tarefas dos usuários precisam ser reformuladas. Neste ponto, verificam-se quais as vantagens da aplicação do sistema. Novos procedimentos de trabalhos podem ser necessários, assim como novas habilidades dos usuários podem ser requeridas. Os cenários de trabalho também podem ser modificados.
+
+- A implantaçao de um sistema automatizado visa sempre a melhoria de diversos aspectos do fluxo de trabalho e, quase sempre, permite a criação de novos fluxos de trabalho que seriam difíceis ou impossíveis de serem feitos com o processo manual.
+
+>> Metas de usabilidade <<
+
+- Nesse momento, a equipe de desenvolvimento deve se preocupar com as metas de usabilidade que precisam ser atingidas pelo mecanismo de interação. Um bom conceito é encontrado nas normas NBR 9241-11 e NBR ISO/IEC 9136-1, que definem usabilidade pelas seguintes grandezas:
+    - Eficácia
+    - Eficiência
+    - Satisfação / atratividade
+    - Inteligibilidade
+    - Conformidade
+
+>> Eficácia <<
+
+- indica se o usuário, em condiçõe ideais, consegue realizar todas as tarefas disponíveis pelo sistema. Em outra palavras, um usuário experiente deve ser capaz de utilizar todas as funcionalidade do sistema e elas devem ser capazes de resolver todas as tarefas a que o sistema propõe, com uma quantidade de erros tendendo a zero.
+
+>> Eficiência <<
+
+- Indica quão bem uma tarefa é realizada pelo sistema. Pode ser medida pelo tempo necessário para realizar uma tarefa. Pode ser medida também pela quantidade de passos que o usuário deve realizar para terminar a tafefa. Um bom critério de comparação é o tempo e número de passos necessários para se realizar a mesma tarefa pelo processo manual
+
+>> Satisfação / atratividade <<
+
+- A satisfação do usuário é o critério de usabilidade mais difícil de ser mensurado, pois é bastante subjetivo. Em geral, o usuário consegue manifestar se ficou satisfeito ao usar o sistema por sua aparência estética, se encontrou na interface todas as informações necessárias no momento em que eram necessárias, se precisou de poucos passos para realizar a tarefa, se encontrou mais de uma maneira para realizar a tarefa etc. Em geral, esee critério pode ser avaliado com uma escala do tipo: "muito ruim, ruim, regular, boa, muito boa". 
+
+>> Inteligibilidade <<
+
+- O usuário deve ser capaz de, a partir da interface, entender se o sistema consegue realizar a tarefa que precisa e como deve fazê-la. Também deve ser fácil para o usuário voltar a usar a interface  mesmo depos de algum tempo sem utilizá-la.
+
+>> Conformidade <<
+
+- Muitos ambientes de interação já possuem padrões de interação. Por exemplo, as janelas de um aplicativo em um sistema operacional gráfico possuem um esquema gráfico bem definido. Esse padrão deve ser respeitado porque o usuário já está habituado a ele. O mesmo ocorre para aplicativos em sistemas operacionais móveis.
+
