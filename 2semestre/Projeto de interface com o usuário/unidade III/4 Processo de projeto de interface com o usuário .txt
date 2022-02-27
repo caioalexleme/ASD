@@ -1,4 +1,68 @@
 
 >> O processo de projeto de interfacecomm o usuário <<
 
-- Com os requisitos de interface definidos
+- Com os requisitos de interface definidos, assim como as metas de usabilidade, podemos nos sentir tentados a projetar uma interface usando as ferramentas de sempre (botões, menus, abas, caixas de texto etc.) Mas ao fazermos isso, podemos deixar de inovar e acabar criando apenas mais uma interface como todas as outras, com as mesmas funcionalidades e, pricipalmente, com os mesmos erros.
+
+>>  Modelo conceitual <<
+
+- Vamos definir como será a interface, não pensando em seus elementos gráficos finais, mas num conceito mais amplo, o modelo conceitual, que é um conjunto de idéias que define a interface em seus diversos aspectos. Os seguintes conceitos ajudam a definir um modelo conceitual de interface:
+    - Metáfora de interação.
+    - Modo de interação
+    - paradigma de interação
+
+>> Metáfora de interação <<
+
+- Uma metáfora de interação é o uso de uma representação de algum elemento real (ou muito bem reconhecido) na interface. Esse elemento, por ser familiar, torna seu uso bastante natural para o usuário
+*IMAGEM ANEXA 4.1
+
+>> Modo de interação <<
+
+- O modo de interação expressa como será feita a comunicação entre o usuário e a interface.
+
+- Existem quatro modos de interação:
+    - Instrução;
+    - conversação
+    - manipulação e navegação
+    - exploração e pesquisa
+
+>> Instrução <<
+
+- O usuário fornece comandos para o sistema. Esses comandos devem ser feitos por botões, alavancas, teclas etc
+*IMAGEM ANEXA 4.2
+
+>> Conversação <<
+
+- O usuário comunica ao sistema o que deseja fazer usando liguagem natural. A comunicação pode ocorrer usando-se a voz ou um teclado, mas as mensagens emitidas pelo usuário não precisam ser comandos aprendidos. O usuário conversa com o sistema como se estivesse conversando com uma pessoa real
+
+>> Manipulação e navegação <<
+
+- Com a manipulação e a navegação, o usuário move o mecanismo de interação como se estivesse movendo um objeto real
+*IMAGEM ANEXA 4.3
+
+>> Exploração e pesquisa <<
+
+- Com a exploração e a pesquisa, o usuário pode "passear" pelas possibilidades de interação do dispositivo até encontrar o que procura
+*IMAGEM ANEXA 4.4
+
+>> Paradigma de interação <<
+
+- Tradicionalmente, os mecanismos de interação usam o paradigma TECLADO-MOUSE-MONITOR, também conhecido como WINP (Windows, Icons, Menus, Pointers)
+
+- Hoje identificamos o paradigma de TELA DE TOQUE, presente nos tablets, smartphones e em alguns computadores.
+
+- Há uma tendência para o desenvolvimento de paradigmais de computação ubíqua, cujo objetivo é fazer com que os mecanismos de interação desapareçam por completo.
+
+>> Computação ubíqua <<
+
+- Computação pervasiva: permite que o usuário realize sua tarefa em diversos mecanismos
+
+- Computação vestível: os dispositivos interativos estão incorporados a peças de vestuário ou são as próprias peças de vestuário
+
+- Realidade aumentada e bits tangíveis: permitem sobrepor imagens virtuais sobre as imagens reais observadas pelo usuário, ou capturar movimentos reais e traduzi-los para movimentos virtuais.
+
+- Computação transparente: o mecanismo de interação oferece a funcionalidade no momento em que o usuário precisa, sem que ele solicite a funcionalidade
+
+>> Construção de protótipos <<
+
+- A interface deve ser construída de alguma forma interativa para que possa ser avaliada. Isso é chamadi de protótipo. Os protótipos geralmente iniciam em formato de baixa fidelidade e vão evoluindo para formas de alta fidelidade, conforme o processo de criação evolui
+*IMAGEM ANEXA
