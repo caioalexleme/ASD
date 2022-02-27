@@ -1,2 +1,84 @@
 
 >> Teste de Software <<
+
+- Definições:
+    - Segundo Myers (2004), testar um software é um processo de executar um programa ou sistemacom a intenção de encontrar defeitos.
+    
+    - Para Dijkstra (1970), os  testes podem mostrar a presença de falhas em um software, mas nunca a sua ausência
+
+    - Para Hetzel (1988), testes são uma atividade que, a partir da avaliação de um tributo ou capacidade de um  programa, torna possível determinar se ele alcança os resultados esperados.
+
+>> Conceituação de Defeito, Erro e Falha <<
+*IMAGEM ANEXA 3.1
+
+>> Principais tipos de Defeitos <<
+*IMAGEM ANEXA 3.2
+
+>> Ciclo de Vida e Testes <<
+
+- Segundo Rios e Moreira(2013), para que o processo de testes seja eficiente, é necessário:
+    - Entender o sistema em todos os seus detalhes;
+    - Dominar as técnicas de testes;
+    - Ter habilidade para aplicar essas técnicas;
+
+>> Modelo V <<
+
+- Foi desenvolvido a partir do Cascata,
+
+- Incluir o processo de testes desde o início do ciclo de desenvolvimento de software.
+
+- Foco: Permitir a identificação de defeitos o mais corretamente possível, por meio de atividades de verificação e validação e da criação de casos de testes e roteiro de testes
+
+>> Roteiro de Testes <<
+
+- O roteiro de testes descreve em detalhes o passo a passo para a realização dos testes, especificando o que deve serfeito e qual o resultado esperado.
+
+- O nível de detalhe deve ser suficientemente claro para ser executado por pessoa externa ao processo.
+
+- Esse roteiro deve ser submetido à inspeção e à aprovação do usuário antes de ser utilizado e deve cobrir todas as situações que os usuários utilizam na fase de aceite do sistema.
+*IMAGEM ANEXA 3.4
+
+>> Testes de unidade ou testes unitários <<
+
+- São testes realizadospelos desenvolvedores de software;
+
+- Objetivo: garantir o funcionamento adequado do programa, do módulo, da função ou da classe que foi construída
+
+- Podem ser automatizados ou realizados por meio de ferramentas.
+
+>> Testes de integração <<
+
+- Realizados após o teste unitário para garantir que os elementos que compõem a aplicação fucionem de forma integrada com sucesso.
+
+- Realizados pelos analistas de sistemas, envolvem testes de subsistemas ou incrementos de software
+
+>> Testes de Sostemas, Aceitação e Regressão <<
+
+- Testes de Sistemas:
+    - Verificam se a aplicação desenvolvida está de acordo com a especificação inicial do sistema
+    - O ambiente deve ser semelhante ao ambiente de produção.
+
+- Testes de Aceitação:
+    - Realizados pelos usuários finais e analistas de testes
+    - Garantem que todos os requisitos solicitados foram incluídos e funcionem corretamente no produto entregue
+    - São feitos utilizando os critérios estabelecidos pelos usuários comom se estivesse utilizando o software no seu dia a dia.
+
+- Teste de Regressão: Quando há manutenção do sistema, toda a aplicação deve ser testada para garantir que nenhuma rotina tenha sido afetada pela mudança contenha erros
+
+>> Testes funcionais (Caixa-preta) e Testes Estruturais (Caixa-branca) <<
+
+- Teste de Funcionais (Caixa-preta):
+    - Envolvem o correto funcionamento do software, sua integração com outros sistemas, suas interfaces e a garantia de que qualquer alteração feita não afete a aplicação.
+
+- Teste Estrutural (Caixa-branca)
+    - Avalia a qualidade do código produzido pelos desenvolvedores, garantido que toda linha de código escrita seja executada pelo menos uma vez e não contenha erros
+
+>> Testes: Caminho independente e Complexidade ciclomátiva - V(G) <<
+
+- Complexidade ciclomátiva V(G): Determina a quantidade de testes necessários para garantir que todas as linhas de código sejam executadas pelo menos uma vez.
+
+    Formas para se calcular V(G) = (E-N)+2, em que: E é o número de arestas. 
+    N é o número de nós no grafo. V(G) = P + 1, em que: P é o número de nós predicados do grafo.
+
+- Testes de caminho independente: Contém pelo menos uma nova aresta no grafo de controle e garante que todo comando será executado pelo menos uma vez
+*IMAGEM ANEXA 3.5

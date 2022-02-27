@@ -8,3 +8,6 @@ Qual etapa do processo de inspeção é opcional?
 - Apresentação(X)
 - Inspeção
 - Planejamento
+
+Qual é o tipo de teste que preocupa-se com os requisitos funcionais sem a necessidade de debugar o código fonte?
+- Caixa-preta.
