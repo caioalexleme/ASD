@@ -1,0 +1,41 @@
+
+>> Contexto de uso <<
+
+- Para se projetar um mecanismo de interação, é necessário conhecer em detalhes:
+    - O usuário
+    - as tarefas a serem executadas pelo sistema
+    - O ambiente de trabalho
+
+>> Análise do usuário <<
+
+- A principal finalidade da interface é permitir que o usário utilize o sistema. Por isso, é fundamental conhecer muito bem que é o usuário do sistema:
+    - Que tipo de usuário utiliza o sistema? Qual sua idade, experiência profissional, nível de instrução etc.;
+    - Quão bom é o modelo mental que o usuário consegue criar sobre o sistema?
+    - Qual é o nível de experiência do usuário com tecnologias interativas?
+
+>> Análise da tarefa <<
+
+- As tarefas que serão realizadas pelo sistema, assim como as aquelas que o usuário irá realizar ao mesmo tempo em que utiliza o sistema devem ser levadas em conta.
+    - Qual trabalho será realizado pelo usuário e em quais circunstâncias 
+    - Quais tarefas será realizadas enquanto o usuário realiza seu trabalho?
+    - Qual a sequência de tarefas?
+    - Qual a hierarquia de tarefas?
+
+>> Análise hierárquica de tarefas - AHT <<
+*IMAGEM ANEXA 2.1
+
+>> Histórias sobre práticas correntes <<
+
+- Um sistema automatizado (quase) sempre automatiza alguma atividade que já existe e é feita de maneira manual. Assim, é necessário conhecer como esse trabalho é feito para garantir que, após a implantação do sistema automatizado, a atividade continue sendo efetuada com, no mínimo, o mesmo desempenho que era feito antes.
+
+- O estudo das práticas correntes também fornece importantes informações sobre os requisitos da interface - e do sistema também!
+
+>> Análise do ambiente de trabalho <<
+
+- Outro aspecto que inflencia a usabilidade de um sistema é o ambiente de trabalho onde ele é utilizado. Questões ambienntes afetam o processo de iteração, como:
+    - Iluminação: o local é iluminado de maneira natural, artificial, a iluminação é constante, é suficiente, é excessiva?
+    - Ruído ambiente: qual é o nível e a qualidade do ruído ambiente? É baixo, alto, tolerável, imperceptível? É ruído de trânsito, de conversas, música ambiente?
+    - Há fontes de distração presentes? Telefones, celulares, aparelhos de TV ligados, interação com clientes, há internet disponível?
+    - Há aspectos que atrapalham o trabalho? Interrupções, problemas de disponibilidade de rede, de servidor, de banco de dados?
+
+    

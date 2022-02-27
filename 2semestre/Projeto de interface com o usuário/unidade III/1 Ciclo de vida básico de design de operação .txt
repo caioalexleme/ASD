@@ -1,0 +1,34 @@
+
+>> Ciclo de vida básico de design de operação <<
+*IMAGEM ANEXA 1.1
+
+>> Definição do escopo do projeto <<
+
+- É necessária uma boa descrição do problema, da solução proposta e dos recursos de alto nível do produto.
+
+- No livro texto há como um exemplo de Visão do sistema e-Cultural
+
+>>  Documento de visão do e-Cultural <<
+
+- Introdução e escopo: é feitea uma apresentação sucinta do sistema, quais seus objetivos e a organização do documento. O escopo define quais são os aspectos abordados pelo documento e quais não fazem parte dete.
+
+- Oportunidades: quais são as pessoas que podem se beneficiar da implantação e do uso do e-Cultural?
+    - Usuários (turistas).
+    - Patrocinadores (anunciantes privados e públicos)
+
+- Descrição do problema: quais as necessidades, os problemas enfrentados pelas pessoas que podem ser solucionados pelo sistema?
+
+- Caracterização da solução proposta: como um turista realiza as tarefas sem o sistema e como ele passará a realizar suas tarefas?
+
+- Caracterização dos interessados e usuários: são definidos os perfis por partes que podem se beneficiar da implantação e uso do sistema.
+
+- Ambiente de trabalho e considerações técnicas: são definidas as características do ambiente onde o sistema será colocado em uso. Essas características podem afetas as considerações técnicas do sistema, como acontece com o e-Cultural.
+
+>> Técnicas de coleta de dados <<
+
+- As informações para a definição do contexto de uso podem ser obtidas de diversas maneiras:
+    - Questionários
+    - entrevistas
+    - Grupos de estudo (grupos de foco);
+    - estudo de documentação
+    - observação natural
