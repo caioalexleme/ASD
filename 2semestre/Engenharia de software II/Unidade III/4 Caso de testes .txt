@@ -1,0 +1,77 @@
+
+>> Caso de testes <<
+
+- Objetivo: Situação que o sistema apresenta para a qual, dada a informação de entrada, será gerada uma saída esperada pelo usuário
+
+- Exemplo: Testar software para uma calculadora simples com quatro operações. Todas as operações precisam ser testadas, e um conjunto de valores precisa ser verificado:
+- Nessa situação, os casos de testes para operação de soma seriam:
+    - 2+2=4 - Soma de dois números inteiros positivos.
+    -2 + 2 = 0 – soma de número inteiro positivo e negativo.
+     -2 – 2 =–4 – soma de dois números.
+     2 + 0,5 = 2,5 – soma de um número inteiro com
+    decimal positivo.
+     2 +–0,5 = 1,5 – soma de número inteiro com
+    decimal negativo.
+     -2 +–0,5 =–2,5 – soma de número negativo com
+    decimal positivo.
+
+>> Roteiro de Testes <<
+
+- Objetivo: Descrição detalhada do passo a passo para a execução do sistema, a fim de verificar cada caso de teste identificado na fase anterior
+
+- Para cada caso de teste deve haver um roteiro contendo as seguintes informações
+    - Nome do caso de testes
+    - Procedimento inicial para determinar onde começa o teste
+    - Descrição detalhada contendo:
+        - Passos para a execução.
+        - dados de entrada
+        - resultado esperado
+        - Situação (sucesso ou não)
+        - Data da realização
+        - Usuário que realizou o teste
+        - Evidência de realização do teste
+
+>> Roteiro de teste - Exemplo <<
+*IMAGEM ANEXA 4.1
+
+>> Testes Funcionais em Interfaces <<
+
+- Casos de testes relativos ao comportamento técnico das telas ou Interfaces
+- Esses casos de testes são importantes para garantir que a interface faça as verificações necessárias para tornar o software mais robusto e confiável com os dados de entrada
+*IMAGEM ANEXA 4.2
+
+>> Testes em processos ágeis <<
+
+- Objetivo: Colaborar com as soluçõesdos defeitos e não apenas montá-los, por meio da identificação das causas desses defeitos, para que não voltem a acontecer.
+
+- Características:
+    - Neste teste, há um compromisso e uma responsabilidade de toda a equipe
+    - Todos devem possuir habilidade para testar e todos trabalham em conjunto, com interação constante durante todo o ciclo de desenvolvimentodo software
+    - Não há uma fase de testes específica
+    - Os testes são realizados à medida que a codificação termina, e o feedback é imediato
+
+>> Processos em testes ágeis <<
+
+- Está baseado nos quadrantes
+- Agrupam os testes em visões
+- Auxiliam na definição do que deve ser feito em cada nível de testes
+*IMAGEM ANEXA 4.3
+
+>> Test Driven Development (TDD) <<
+
+- Técnica utilizada para a realização de testes unitários e de integração
+- inicia pela identificação dos casos de teste
+- Em seguida, faz-se a escrita do código necessário para atender os casos de testes
+- É um método para contruior software direcionado ao programador
+- Objetivo: Melhora a qualidade do código produzido
+- Vem do conceito ágil da Extreme Programming de "testar primeiro de programar"
+*IMAGEM ANEXA 4.4
+
+>> Quando concluir os testes? <<
+
+- Verificar tempo X custo
+- Se o númeor de defeitos está dentro de uma margem aceitável
+- A frequência em que os defeitos são encontrados é pequena
+- Se houver a garantia de que os testes-caixa foram realizados
+- Todos os casos de testes tiverem sido realizados com sucesso
+

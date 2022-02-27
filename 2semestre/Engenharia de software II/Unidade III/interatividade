@@ -11,3 +11,6 @@ Qual etapa do processo de inspeção é opcional?
 
 Qual é o tipo de teste que preocupa-se com os requisitos funcionais sem a necessidade de debugar o código fonte?
 - Caixa-preta.
+
+Como funciona uma equipe ágil com relação aos testes?
+- Todos devem possuir habilidade para testar e todos trabalham em conjunto, com interação constante durante todo o ciclo de desenvolvimento do software
