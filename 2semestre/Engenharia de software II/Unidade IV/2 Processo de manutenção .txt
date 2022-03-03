@@ -1,0 +1,68 @@
+
+>> Processo de manutenção <<
+
+- Define o conjunto de atividades necessárias para a realização de uma modificação em um produto de software para que este atenda às necessidades dos usuários
+
+- A norma ISO/IEC 14764 (2006) define um processo de manutenção para modificar um produto de software, mantendo sua integridade.
+
+- As atividades que compõem o processo de desenvolvimento são:
+    - Definição do processo de manutenção
+    - Análise das mudanças
+    - Aceitação/revisão da mudanças
+    - Migração
+    - Retirada de produção
+
+>> Fluxo de processo de mudanças <<
+*IMAGEM ANEXA 2.1
+
+>> Aceitação e revisão da mudança <<
+
+- Envolvem a garantia de que a mudança esteja corretamente implementada e atenda aos requisitos solicitados
+
+- E também:
+    - revisões
+    - inspeções
+    - Testes
+    - Testes de regressão
+    - Processo de Aceitação
+    - A documentação deve ser atualizada
+    - E a aplicação deve ser gerada com as atualizações
+
+>> Migração <<
+
+- A migração exige a elaboração de um plano de transferência para a garantia da integridade das informações de SI para outro.
+
+- Esse plano de migração deve conter
+    - Análise dos requisitos
+    - Criação do processo de migração
+    - Definição de conversões de dados necessárias
+    - Identificação dos riscos da migração
+    - Execução do processo de migração
+    - Definição do processo de validação dos usuários
+    - Criação de um processo de retorno, em caso de insucesso da migração
+    - Atualização da documentação
+
+>> Retirada de Produção <<
+
+- Análise técnica ou econômica para determinar se o software deve permanecer em produção ou ser descontinuado
+
+- Decisão deve ser conjunta, entre a equipe de desenvolvimento e os usuários, para garantir o investimento necessário para a manutenção do software existente ou para a aquisição ou o desenvolvimento de um novo produto
+
+- Após a decisão pela descontinuidade, é elaborado o plano de retirada de produção envolvendo o tempo em que a manutenção deve permanecer em operação até a desativação do sistema
+
+>> Impactos da manutenção <<
+*IMAGEM ANEXA 2.2
+
+>> Desenvolvimento Orientado a Objetos <<
+
+- Baseia-se em objetos do mundo real que interagem entre si e são acionados por pessoas do mundo real chamadas de atores
+
+- É composto de classes que são a representação de um objeto de negócio do mundo real com seus próprios (atributos) e seus próprios comportamentos (métodos) que executam as ações necessárias para o negócio
+
+- Sua implementação garante códigos reduzidos
+
+- A codificação se dá pela interação desses objetos, permitindo a separação clara das responsabilidades e ações de cada classe
+
+>> Impacto da manutenção baseada em Desenvolvimento Orientado a Objetos <<
+*IMAGEM ANEXA
+
