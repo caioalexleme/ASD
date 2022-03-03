@@ -1,0 +1,118 @@
+
+>> Manutenção de software <<
+
+- Definição:
+    - As manutenções de Software são correções;
+    - Evoluções
+    - Adaptações técnicas que são realizadas no sotware já construído e em produção;
+    - Adequação às mudanças de requisitos dos usuários
+    - Novas funcionalidades solicitadas
+    - Atualização de regras de negócio
+    - O software precisa sofrer alterações e evoluções para continuar a ser utilizado de maneira adequada pelos usuários
+
+- Razões para realizar a manutenção:
+    - Nova ordem estratégica na organização
+    - Demandas para acompanhar os concorrentes
+    - Adequação para atender a novas leis e regras
+    - Novas características sugeridas por clientes
+    - Evoluções da tecnologia
+
+>> Conceitualção sobre manutenção de software <<
+
+- A norma ISO/IEC 14764 (2006) unifica a terminologia para manutenção de software:
+    - Manutenção: modeficação de produto, corrigir defeitos, melhorar o desempenho, adaptar o produto a um ambiente de mudança, incluir novas funcionalidades ou recursos não previstos anteriormente
+    - Evolução: Gerar uma nova versão do produto com rotinas relevantes
+    - Alteração: mudanças realizadas no código do software (defeitos ou novas rotinas)
+    - Melhoramento: Melhorar o desempenho, a segurança ou adaptá-lo a novos ambientes
+    - Linha de base: uma versão aprovada formalmente pelo clientes
+    - Pedido de mudança: Solitação de uma mudança, após a correção, pode ser classificado como uma correção ou melhoria
+    - Plano de manutenção: Descreve as práticas específicas, os recursos e as atividades relevantes para manutenção
+    - Processo de manutenção: Tarefas para a realização da manutenção
+    
+>> Tipos de manutenção <<
+*IMAGEM ANEXA 1.1
+
+>> Técnicas e padrões de manutenção de software <<
+
+- Manutenibilidade indica quão fácil é fazer uma alteração, uma correção ou uma melhoria em um determinado software
+
+- Preocupa-se  com a clareza e as boas práticas da codificação e documentação.
+
+- Algumas métricas podem avaliar a facilidade de manutenção, tais como:
+    - Em quanto tempo um defeito é encontrado?
+    - Quanto tempo leva pra corrigir o defeito?
+    - Quanto tempo é necessário para validar a correção do defeito?
+    - Quanto tempo decorre entre a identificação do defeito e a implantação da correção?
+
+>> As atividades de manutenção <<
+
+- A atividade de manutenção é iniciada por uma solicitação de mudança de um usuário do sistema.
+
+- Submetida a avaliação de um grupo responsável por aprovar a mudança
+
+- Uma vez aprovada a mudança, esta é encaminhada à gerência da manutenção, que irá classificar e priorizar o seu desenvolvimento
+
+- Mudança será construída 
+
+    Análise do pedido de mudança => Classificação e priorização => Realização da manutenção
+
+>> Papéis e resposabilidades na manutenção <<
+
+- A determinação de papéis e resposabilidades clara permite a execução de um fluxo de trabalho estruturado
+- Reduz os conflitos no time
+- Melhora o processo de comunicação
+
+- Os principais papéis em uma manutenção estão expostos a seguir:
+*IMAGEM ANEXA 1.2
+
+>> Manutenção de sistema legados <<
+
+- Software legado é uma aplicação desenvolvida no passado e qua ainda está em uso numa organização
+- Trata-se de aplicações que sofretam muitas mudanças e adaptações
+- tecnologia obsoleta
+- Documentação é praticamente inexistente
+- Não há mais pessoas que participaram do desenvolvimento original
+
+- Em razão dessas características, tais softwares são bastante sensíveis a novas mudanças e se gasta mais tempo e dinheiro para executar as alterações
+
+- Qualquer mudança deve ser cuidadosamente analisada, e testes rigorosos devem ser realizados para evitar surpresas desagradáveis durante o desenvolvimento ou na fase de aceite pelos usuários
+
+>> Engenharia reversa <<
+
+- É um processo de análise e entendimento do software.
+
+- Objetivo: Recapturar e decifrar os seus requisitos a partir da sua codificação
+
+- Propósito: Para mehorar a qualidade do produto, reduzir custos e atualizá-lo
+
+- É uma forma de manutenção utilizada para criar novos produtos
+
+- Substitui sistema legados, em razão das dificuldades que as organizações têm para manter essses sistemas legados funcionando adequadamente
+
+>> Técnicas de manutenção <<
+
+- Manutenção estruturada: É executada em software que tem uma estrutura documentada e seguindo os padrões de Engennharia de Software
+
+- Nesse tipo de manutenção, a análise e a correção de defeito são mais rápidas e menos custosas, tornando os resultados melhores e com maios qualidade
+
+- Manutenção não estruturada: A análise de um pedido de manutenção é feita por uma verificação no código formalmente
+
+- não há outra documentação disponível
+
+- Trata-se de uma atividade demorada, delicada e não é possível verificar os requisitos não funcionais da aplicação
+
+- Cada correção de defeito é um desafio
+
+- é executada por pessoal com pouca experiência e com pouco conhecimento de software, o que gera desmotivação e insatisfação da equipe e dos usuários
+
+>> Custos em manutenção <<
+
+- Os seguintes fatores são relevantes e afetam diretamente os custos de manutenção de um produto de software durante o processo de manutenção
+
+    - Estabilidade da equipe: equipe de manutenção por fixa e tiver baixa rotatividade, os custos coma a manutenção serão menores a produtividade será maior
+
+    - Responsabilidade contratual: Software novo e desenvolvido por uma equipe em que não há garantia, que a manutenção será de sua responsabilidade, portanto não há motivação para criar um software de fácil manutenção
+
+    - Hábilidade da equipe: A atividade de manutenção não é considerada "nobre" pelos desenvolvedores
+
+    - A equipe, com frequência, tem menos experiência e pouco conhecimento do negócio
