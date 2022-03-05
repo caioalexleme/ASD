@@ -1,0 +1,85 @@
+
+>> Avaliação sem usuários <<
+
+- Existem algumas modalidades de avaliação de interfaces. Uma delas é a avaliação sem a participação de usuários. Também conhecida como Avaliação de Especialistas, é uma avaliação feita por profissionais especializados em usabilidade. É uma modalidade rápida e barata de ser aplicada.
+
+- Deve ser aplicada por vários avaliadores. Os avaliadores verificam se a interface se adequa a diversas regras de usabilidade, chamadas heurísticas.
+
+>> Testes de usabilidade <<
+
+- Os especialistas em usabilidade não conseguem antecipar todas as dificuldades encontradas pelos usuários que irão utilizar o sistema. Assim, devem ser feitas avaliações com a participação deles.
+
+- Uma boa modalidade de avaliação com usuários são testes em laboratório de usabilidade. Um laboratório de usabilidade é um ambiente controlado onde o usuário utiliza o sistema, isolado de distrações externas,onde suas atividades podem ser monitoradas e, até mesmo, gravadas.
+
+>> Testes de usabilidade - o que avaliar? <<
+
+- Para se planejar um processo de avaliação em usabilidade em laboratório, alguns passos devem ser tomados:
+
+    - O primeiro é especificar qual a finalidade da avaliação. Como é muito difícil avaliar uma interface de maneira absoluta, devemos definir muito bem quais são os objetivos da avaliação. Por exemplo:
+
+        - Verificar se a interface atende os requisitos do sistema
+        - Verficar se uma metáfora de interface é útil para o sistema
+        - Descobrir se os usuários conseguem utilizar a interface para realizar suas tarefas etc.
+
+>> Testes de usabilidade - aspectos técnicos <<
+
+- A seguir, devem ser difinidos os aspectos técnicos relacionados à avaliação, como:
+
+    - Tipo e capacidade do laboratório
+    - quais equipamentos são necessários
+    - qual a situação inicial do sistema
+    
+>> Testes de usabilidade - escolha dos usuários <<
+
+- A escolha correta dos usuários que participam do teste é fundamental para seu sucesso. Eles devem representar a população dos usuários que irão utilizar o sistema finalizado. Alguns aspectos que definem os usuários são:
+
+    - Idade;
+    - Escolaridade
+    - experiência com computadores, tablets e smartphones
+    - experiência com as tarefas que o sistema automatiza etc
+    - É preciso considera apenas os aspectos que são realmente relevantes para o sistema
+
+>> Testes de usabilidade - objetivos <<
+
+- Os objetivos da avaliação devem ser definidos, já que não é possível avaliar todos os aspectos da interface. Por exemplo:
+
+    - uma funcionalidade específica da interface
+    - se uma metáfora da interface é apropriada
+    - se os usuários conseguem realiza uma tarefa com poucos ou nenhum erro
+    - se os usuários conseguem se recuperar de um erro e completar a tarefa
+    - se uma mudança estética no sistema aumenta a satisfação dos usuários etc
+
+>> Testes de usabilidade - quando avaliar <<
+
+- Se uma interface é inovadora, é desejável iniciar a avaliação ainda nas primeiras fazes do desenvolvimento do sistema. Caso a interface já exista e tenha passado por algumas modificações, a avaliação pode ocorrer em etapas mais adiantadas do desenvolvimento. Assim, é necessário decidir quando iniciar e por quanto tempo avaliar a interface: no início do desenvolvimento, quando ainda não há sistema pronto, quando algumas funcionalidades do sistema já estão disponíveis ou quando o sistema já está praticamente pronto.
+
+>> Teste de usabilidade - tarefas <<
+
+- As tarefas que serão desempenhadas pelo usuário devem ser definidas tendo como orientação os objetivos definidos para o teste. Em geral, permite-se que o usuários explore o sistema livremente por algum tempo. A seguir, o avaliador orienta o usuário a realizar tarefas pré-definidas
+
+>> Testes de usabilidade - definição de métricas <<
+
+- Para que as atividades dos usuários possam ser registradas e interpretadas, devem ser definidas métricas que ajudem a definir se os objetivos da interface foram atingidos, por exemplo:
+
+    - O tempo necessário para realizar a tarefa
+    - quantidade de erros cometidos ao realizar a tarefa
+    - quantas vezes o usuários consultou ajuda ou a documentação
+    - se o usuário conseguiu terminar a tarefa
+
+>> Testes de usabilidade - aspectos éticos <<
+
+- Estudos feitos com voluntários exigem que se atente à questões éticas, como:
+
+    - Proteger a identidade dos participantes
+    - registros pessoais devem ser confidenciais
+    - os voluntários não devem ser expostos a riscos físicos ou psicológicos
+
+>> Testes de usabilidade - aspectos éticos <<
+
+- Toda empresa e instituição de ensino que realiza testes com voluntários deve contar com uma COMISSÃO DE ÉTICA, órgão responsável por garantir todos os direitos dos voluntários. Uma das tarefas da Comissão de Ética é validar o TERMO DE CONSENTIMENTO, normalmente oferecido aos voluntários para que seja assinado. Nele, costuma haver as seguintes informações:
+
+    - natureza do teste
+    - benefícios para a empresa e para o voluntário
+    - recompensas pelo teste (se houver)
+    - o voluntário deve ser informado que pode deixar o teste a qualquer momento etc
+    

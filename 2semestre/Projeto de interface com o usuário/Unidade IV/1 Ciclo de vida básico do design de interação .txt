@@ -1,0 +1,29 @@
+
+>> Ciclo de vida básico do design de interação <<
+* IMAGEM ANEXA 1.1
+
+>> A importância da avaliação <<
+
+- Padrões e guias de estilo para a criação de interfaces já existem há muito tempo, mas isso não impede que ainda surjam interfaces difíceis de usar
+
+- Não é raro que uma solução de design para algum sistema seja apropriado para outro sistema, cujos usuários, tarefas ou ambiente de operação sejam diferentes
+
+>> Por que avaliar? <<
+
+- Os usuários já não se contentam em simplesmente ter um sistema usável. Ele precisa oferecer uma experiência agradável e envolvente
+
+- O que avaliar varia de protótipos de baixa tecnologia a sistemas completos, de uma função na tela ao fluxo de trabalho inteiro, e desde a concepção estratégica até características de segurança
+
+>> Onde avaliar? <<
+
+- O local onde a avaliação é feita depende do que se está avaliando. Avaliações podem ser feitas, por exemplo, em:
+    - laboratório
+    - na "natureza"
+    - pela internet
+
+>> Quando avaliar? <<
+
+- Se o produto é novo, o tempo de desenvolvimento do design é longo
+
+- Caso o produto já esteja pronto e a interface esteja apenas sendo atualizada, o tempo de desenvolvimento tende a diminuir
+
