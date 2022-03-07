@@ -1,0 +1,67 @@
+
+>> Operações importantes no controle de versão <<
+
+- Check-out: ação para retirar o artefato do repositório e copiar para o seu ambiente para fazer alterações
+
+- Check-in: Ação de devolver o artefato retirado para alteração para o repositórios central com as modificações realizadas
+
+- Diff: Ação que compara a versão que está no repositório com a versão que você está alterando, ou compara duas versões que estão no repositório
+
+- Tag ou label: são rótulos atribuídos a um artefato para identificar o projeto e as versões aos quais ele pertence
+
+- Branch: são usado branches quando é preciso trabalhar em duas versões distintas de um projeto ao mesmo tempo
+
+- Build: uma versão de software produzida para ser utilizada em testes, aceitação ou em produção. Pode ser manual ou automaticamente gerada por uma ferramenta específica
+
+>> Controle de mudanças <<
+
+- identificar e analizar a mudança -> aprovar e controlar a mudança -> garantir sua correta construção -> publicar a mudança para outros stakeholders
+
+>> Mudanças de Gerência de Configuração e Suporte <<
+*IMAGEM ANEXA 4.1
+
+>> Auditoria de configuração <<
+
+- Itens questionados:
+
+    - Os itens de configuração estão nomeados de acordo com o padrão definido?
+    - A estrutura de diretórios está de acordo com o padrão?
+    - Os itens de configuração estão colocados corretamente em suas pastas de armazenamento?
+    - O controle de acesso aos artefatos está implementado?
+    - Existe um registro de revisão da mudança?
+    - Histórico e comentários da mudança, autor e data estão registrados?
+
+>> Padrões de Gestão e Configuração <<
+
+- CMMI
+- ISO/IEC 12207
+- ISO/IEC 9000/3
+- ISO/IEC 15504
+
+>> Padrão de gestão de configuração - CMMI <<
+
+- Estabelecer baselines -> Ratrear e controlar mudanças -> Estabelecer integridade -> Auditar as configurações
+
+>> Padrão de gestão de configuração - ISO/IEC 12207 <<
+
+- Implementação do processo => identificação dos itens de configuração -> Controle da configuração -> Relato da situação -> Avaliação da configuração -> Gerência da liberação
+
+>> Padrão de gestão de configuração - ISO/IEC 15504 (Spice) <<
+
+- Estabelecer sistema biblioteca -> identificar itens de configuração -> manter descrição dos itens -> Administrar e controlar mudanças -> MAnter e relatar Histórico
+
+>> Application Lifecycle Management (ALM) - Gerência do ciclo de vida das aplicações <<
+
+- ALM é a gestão integrada entre as necessidades de atender ao negócio e aos processos de Engenharia de Software, por meio da criação de procedimentos e do suporte de ferramentas que fazem a automação dos processos
+
+- Permite o gerenciamento contínuo do processo de desenvolvimento de software, deixando clara a interligação de requisitos, manutenção, mudança, configuração e distribuição
+
+- Para isso compõe-se de cinco processos:
+
+    - Gerenciamento de requisitos
+    - Gerenciamento de configuração
+    - Gestão de mudança
+    - Versionamento e integração;
+    - Distribuição de software
+
+    

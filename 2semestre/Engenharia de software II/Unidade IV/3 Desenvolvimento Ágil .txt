@@ -1,0 +1,57 @@
+
+>> Desenvolvimento ágil <<
+
+- O desenvolvimento ágil é um processo de desenvolvimento de software
+
+- Suas características estão relacionadas à rapidez, à integração cliente-equipe e à alta qualidade durante o ciclo de construção, podendo utilizar uma estrutura orientada a objetos ou baseada em componentes.
+
+>> Impacto na manutenção de software baseado em métodos ágeis <<
+*IMAGEM ANEXA 3.1
+
+>> Gestão da configuração <<
+
+- Objetivo: Estabelecer as condições para a organização dos artefatos de software, controlar suas versões e suas alterações, manter a integridade de tudo o que foi produzido durante o ciclo de vida de um projeto de software e garantir seu armazenamento adequado
+*IMAGEM ANEXA 3.2
+
+>> Problemas <<
+
+- Problema 1 - Relacionado a desenvolver com os artefatos isolados:
+
+    - Um desenvolvedor trabalha na sua própria máquina, mantendo os arquivos sob seu domínio e, eventualmente, coloca-os no servidor, mas continua alterando a versão na sua própria máquina
+
+- Problema 2 - Relacionado a artefatos compartilhados:
+
+    - Dois ou mais desenvolvedores estão fazendo alteração no mesmo artefato. Nessa situação, o desenvolvedor A modifica o artefato, e, mais tarde, o desenvolvedor B também faz alterações no mesmo artefato, sem saber que ele já foi alterado pelo desenvolvedor A.
+
+- Problema 3 - Relacionado à manutenção simultânea:
+
+    - Ocorre quando cada desenvolvedor trabalha com uma cópia local do artefato, gerando dificuldades para identificar o que já foi realizado e para saber que defeitos foram corrigidos
+
+- Problema 4 - A corrige um problema em sua versão de artefato e armazena-o num repositório central. O desenvolvedor B corrige outro problema no mesmo artefato e também o armazena no repositório central
+
+>> Conceitos de gestão da configuração <<
+
+- Manutenção: mudanças e/ou alterações que são realizadas no software após sua conclusão e entrada em produção
+
+- Configuração: atividades de gerenciamento de todo o fluxo dos artefatos produzidos em um software, desde seu início até sua descontinuidade
+
+- Controle de versões: Envolve o uso de uma ferramenta que controla o armazenamento dos artefatos e gerencia todas as alterações que esse artefato possa sofrer durante seu ciclo de vida
+
+- Itens de configuração: artefatos criados como parte do processo de desenvolvimento de um software
+
+- Baseline: Trata-se de um ponto de controle no desenvolvimento de software, caracterizado pela entrega de um item de configuração para aprovação formal, por meio de uma RTF, por exemplo
+
+>> Identificação dos itens de configuração <<
+
+- É a menor unidade produzida em um projeto passível de controle
+*IMAGEM ANEXA 3.3
+
+>> Controle de versão <<
+
+- Combina procedimentos e ferramentas para gerenciar diferentes versões de itens de configuração criadas durante o processo de desenvolvimento de software
+
+- Permite conhecer e controlar a evolução dos artefatos por meio desses procedimentos
+
+- Alumaas ferramentas mais utilizadas e conhecidas para o controle de versões são Visual Source Safe, PVCS, CVS, SubVersion, dentre outras
+*IMAGEM ANEXA 3.4
+
