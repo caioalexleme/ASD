@@ -1,0 +1,18 @@
+
+>> Escala de usabilidade do sistema <<
+
+- Uma maneira rápida e barata de se fazer uma avaliação com usuários é o uso da Escala de Usabilidades do Sistema - System Usability Scale (SUS). Esta escala é um questionário de dez questões aplicado aos usuários depois que eles utilizam o sistema por algum tempo, com ou sem tarefas predefinidas.
+
+- Esse questionário apresenta questões cujas respostas estão na forma de "discordo completamente", "neutro", "concordo" e "concordo plenamente"
+
+- As questões são organizadas de forma que as questões cuja resposta "concordo plenamente" é a desejável intercalam-se com as questões cuja resposta "discordo completamente" é a desejável
+
+>> Estudo de campo <<
+
+-  Outra modalidade de avaliação de interface com o usuário é o ESTUDO DE CAMPO. Nessa modalidade, o sistema é avaliado no local e sob as condições em que ele irá ser utilizado quando o sistema estiver pronto.
+
+- Há situações em que pode não ser possível fazer um teste de usabilidade em um ambiente controlado. Por exemplo, se estiver sendo um testado um aplicativo de dispositivo móvel para ser usado na casa do usuário; um sistema de navegaçao GPS; um sistema para auxiliar esportistas na prática de atividades ao ar livre entre outras. São condições muito difíceis de se reproduzir em laboratório.
+
+- No estudo de campo, costuma ser difícil manter um avaliador observando as atividades do usuário e também não se pode contar com os recursos de observação e gravação de um laboratório
+
+- Para se colher as informações, depende principalmente das informações obtidas diretamente dos voluntários. Estas informações podem ser registradas ao longo do teste em forma de diário. Os voluntários também costumam ser entrevistados ao final do teste ou respondem a um questionário.
