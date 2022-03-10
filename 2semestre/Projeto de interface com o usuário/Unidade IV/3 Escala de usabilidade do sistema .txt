@@ -16,3 +16,4 @@
 - No estudo de campo, costuma ser difícil manter um avaliador observando as atividades do usuário e também não se pode contar com os recursos de observação e gravação de um laboratório
 
 - Para se colher as informações, depende principalmente das informações obtidas diretamente dos voluntários. Estas informações podem ser registradas ao longo do teste em forma de diário. Os voluntários também costumam ser entrevistados ao final do teste ou respondem a um questionário.
+

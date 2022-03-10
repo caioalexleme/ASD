@@ -1,0 +1,81 @@
+
+>> Estrutura do trabalho <<
+
+- O trabalho deve seguir as normas da ABNT, que podem ser obtidas no site da Universidade (http://www2.unip.br/servicos/biblioteca/download/manual_de_normalizacao.pdf)
+
+O trabalho deve conter, obrigatoriamente:
+- Capa
+- Resumo
+- Resumo em língua estrangeira
+- Sumário
+- Introdução
+- Desenvolvimento
+- Conclusão
+- Referências bibliográficas
+
+Elementos opcionais:
+- Dedicatória
+- Agradecimentos
+- Glossário
+- Apêndices
+- Anexos
+
+>> Conteúdo do trabalho <<
+
+- Principais disciplinas envolvidas:
+    - Engenharia de software II
+    - Economia e mercado
+    - Projeto de interface com o usuário
+    - Programação orientada a objetos
+
+- Objetivos desse PIM:
+    - Desenvolver um projeto de um sistema de reserva de equipamentos audiovisuais, que agilize e controle empréstimos de equipamentos e recursos de apoio aos professores de colégios de Ensino Fundamental e Médio
+
+>> Contexto do trabalho <<
+
+- O colégio Vencer Sempre disponibiliza equipamentos de informática e vídeo (tais como DATA-SHOWS, TV, com vcr, TV com DVD, Projetor de Slides, Sistema de Áudio-Microfone, Caixa Amplificada, Notebooks, Kits Multimídia etc), como ferramentas de apoio para aulas e palestras, aos professores e coordenadores da instituição, alocando-os em salas de aula e auditórios, a pedido antecipado dos colaboradores.
+
+- Atualmente o sistema de reserva é manual e muitos professores não conseguem utilizar os recursos que precisam, pois o agendamento é ineficiente, vendo isto, o colégio contratou sua "Empresa de software" para desenvolver esse sistema
+
+I. Apresentar paca cada disciplina:
+
+- Economia e Mercado:
+
+    - Mapear que serão os agentes econômicos que atuam diretamente com a sua empresa de software que fornecerá o sistema
+
+    - Apresentar a viabilidade ecocômica para a implementação do projeto de software, indicando, além de outras informações relevantes, o prazo para a conclusão do projeto e o investimento financeiro necessário
+
+- Engenharia de software II:
+
+    - Definir e documentar os Requisitos Funcionais, Requisitos Não Funcionais e de Negócios, será necessário para a confecção deste sistema.
+
+    - Especificar as Interfaces, das regras de negócio e as mensagens a serem exibidas.
+
+    - Definir qual é a melhor metodologia frente às normas de qualidade: ISO, CMMI, MPS.br que seria mais adequada à sua empresa de software. Explique como a metodologia funciona no detalhe e justifique sua opção técnicamente.
+
+    - Elaborar uma planejamento de teste para os Requisitos Funcionais e que Negócios
+
+    - Descrever Roteiro de Testes para os requisitos mencionados
+
+- Projeto de interface com o usuário:
+
+    - Desenvolver protótipos com alta fidelidade (em qualquer ferramentas)
+
+    - Detalhar para cada Interface apresentada, explicar em detalhes o funcionamento de cada tipo de Entrada de Dados, Processamento ou Saída de Informação
+
+- Programação orientada a Objetos I:
+    
+    - Descreva tecnicamente os fundamentos acadêmicos sobre:
+
+        - Objetos, Classes, Heranca e Poliformismo
+
+        - Identifique estes elementos técnicos em seu sistema
+
+>> Dicas para a elaboração <<
+
+    - Para cada caso de teste, deve ser elaborado um roteiro de testes que descreva qual o passo a passo do que deve ser testado, exibindo, no mínimo, a condição inicial do teste, o passo a ser executado, qual dado de entrada necessário para o teste e o resultado esperado, conforme modelo constante no livro-texto
+
+    - Após a elaboração do roteiro, executá-lo e gerar as evidências necessárias (capturas de tela) que provem que os teste foram aplicados
+
+    - Elaborar um relatório final com a análise dos resultados e p parecer final sobre os testes
+
