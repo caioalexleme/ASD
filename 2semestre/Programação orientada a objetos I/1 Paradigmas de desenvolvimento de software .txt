@@ -1,0 +1,45 @@
+
+>> Paradigmas de desenvolvimento de software <<
+
+- Os paradigmas de desenvolvimento de software envolvem:
+    
+    - Análise de sistemas
+    - linguagens de programação
+
+- Os paradigmas de desenvolvimento são:
+
+    - paradigma não estruturado
+    - paradigma estruturado
+    - paradigma orientado a objetos
+
+>> Classes e objetos <<
+
+>> Unified Modeling Language (UML) - Linguagem de Modelagem Unificada <<
+
+- Diagramas comportamentais
+
+    - Diagrama de casos de uso
+    - Diagrama de atividades
+    - Diagrama de máquina de estados
+    - Etc
+
+- Diagramas estruturais
+
+    - Diagrama de Classes
+    - Diagrama de objetos
+    - Diagrama de pacotes
+    - Etc
+
+- Diagramas de interação
+
+    - Diagrama de sequência
+    - Diagrama de comunicação
+    - Diagrama de tempos
+    - Etc
+
+>> Diagrama de classes <<
+*IMAGEM ANEXA 1.1
+
+>> Abstraindo classes <<
+*IMAGEM ANEXA 1.2
+
