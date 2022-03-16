@@ -1,0 +1,99 @@
+
+>> O que caracteriza a demanda por bens e serviços <<
+
+- Maximização da satisfação dos consumidores para adquirir os bens e serviços mais úteis, de acordo com suas próprias preferências e gostos e/ou a sua própria renda pessoal.
+    Há uma série de fatores, além do próprio preço do bem ou serviço, que definem a quantidade que os consumidores pretendem adquirir de cada bem ou serviço num determinado período, como:
+
+    - O nível e a distribuição dos consumidores
+    - O preço dos produtos substitutos complementares
+    - Mudanças nos gostos e nas preferências dos consumidores
+    - O marketing (propaganda)
+    - Etc
+
+- Com Todas as demais coisas permanecendo iguais (coeteris paribus), a demanda do consumidor por um bem (x) revela as quantidades desse bem que se pretende adquirir quando varia o seu preço de mercado.
+*IMAGEM ANEXA 1.1
+
+- O gráfico da demanda, seja o consumidor (individualmente), seja para um conjunto, explicita a relação entre duas variáveis (no caso, preço e quantidade demandada para o bem X), mantidas todas as demais condições
+*IMAGEM ANEXA 1.2
+
+>> A Lei da Demanda <<
+
+- Lei da Demanda: as quantidades damandadas de um bem (X) variam inversamente com o seu preço, permanecendo constantes os preços dos demais bens, os gostos e a renda disponível do consumidor.
+
+- A demanda representa a disposição ou intenção de comprar enquanto comprar é o ato efetivo de aquisição do bem ou serviço
+
+>> Demanda individual X coletiva <<
+
+- A demanda total para um determinado grupo de consumidores, uma região, cidade, país etc. é obtida a partir da soma das quantidades demandadas individualmente (com os mesmos preços)
+
+- É difícil obtê-la por esse método. Outra possibilidade é multiplicar as quantidades demandadas individualmente por um consumidor considerado típico (médio) pelo número de consumidores existentes no mercado - aos mesmos preços.
+
+>> Movimentações internos e deslocamentos da curva de demanda <<
+
+- Mudam as quantidades demandadas sempre que se alteram os preços dos respectivos bens e serviços
+
+- Os deslocamentos da curva ocorrem sempre que outros fatores, que não o preço do bem (X), se alteram, por exemplo, além da renda mencionada anteriormente, os gostos e as preferências dos agentes econômicos e aspectos relacionados com a propaganda para o bem ou serviço
+
+>> Bens normais e inferiores <<
+
+- Esta relação varia dependendo do status e das expectativas de renda dos consumidores
+
+- BENS NORMAIS: sua demanda diminui no caso de aumento do preço do bem
+
+- Se o preço da carne, por exemplo, aumentar, o indivíduo devera consumir menos esse bem e vice-versa
+
+- BENS INFERIORES: sua demanda poderá diminuir mesmo no caso de diminuição do preço se, por exemplo, o consumidor contar com um maior poder aquisitivo
+
+- É o caso do consumo pretendido para a chamada carne de segunda (categoria)
+
+>> Movimento fundamental da demanda por bens e serviços <<
+*IMAGEM ANEXA 1.3
+
+>> A oferta de bens e serviços <<
+
+- Nosas análise agora é feita para o comportamento do produtor (ou vendedor) de um bem ou serviço
+
+- Para a grande maioria dos bens ditos normais existe uma relação direta entre os seus preços e as respectivas quantidades ofertadas, que aumentam junto com os acréscimos dos primeiros.
+*IMAGEM ANEXA 1.4
+
+- A oferta representa a disposição ou intenção de produzir e vender, enquanto produzir e vender indicam os atos efetivos de produção e venda dos respectivo bem ou serviço
+
+- Enquanto a demanda procura entender a lógia do comportamento do consumidor, é com a oferta que se estudam as motivações dos produtores e vendedores
+
+>> A curva de oferta de bens e serviços <<
+*IMAGEM ANEXA 1.5
+
+>> A lei da oferta de bens e serviços <<
+
+- A lei da oferta indica que as quantidades oferecidas de um bem (X) variam diretamente com o seu preço, permanecendo constantes os custos de produção.
+
+- Tal como ocorre no caso da demanda, essa relação é válida tanto para a oferta do produtor individual como para a do conjunto do mercado
+
+>> O que determina a oferta de bens e serviços <<
+
+- Há uma série de aspectos, além do preço do próprio bem ou serviço, que revelam a quantidade que os fornecedores pretendem produzir e vender de cada bem pi serviço num determinado período, por exemplo:
+
+- preços/custos dos fatores utilizados na fabricação do produtor
+
+- condições climáticas e ocorrências de externalidades
+
+- custos de comercialização e de vendas do bem ou serviço e de outros que lhe sejam substitutos ou complementares
+
+- tecnologia disponível para a empresa
+
+- tamanho e nível da concorrência do respectivo mercado
+
+>> As mudanças e os deslocamentos da oferta de bens e serviços <<
+
+- Na grande maioria dos casos, o preço é a variável mais significativa para explicar a o comportamento da quantodade ofertada (oferecida) de um bem ou serviços pelos vendedores/produtores
+
+- Toda mudança, aumento ou diminuição em outra variável que não seja a do próprio preço do bem ou serviço desloca toda a curva de oferta para a direita ou para a esquerda, conforme o caso
+
+>> A importância do equilíbrio do mercado <<
+
+- No mercado ocorre a interação entre compradores e vendedores
+
+- Naqueles que são totalmente competitivos, um único preço geralmente prevalece
+
+- Nos que não sejam completamente competitivos, diferentes vendedores podem cobrar variados preços
+
