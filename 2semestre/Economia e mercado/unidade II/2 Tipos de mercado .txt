@@ -1,0 +1,95 @@
+
+>> Tipos de mercado <<
+
+- Mercado é o "ponto de encontro" entre compradores e vendedores de bens e serviços
+
+- Alguns mercados, por exemplo, o imobiliário, são tipicamente locais, enquanto outros são mundiais, como é o caso do ouro;
+
+- Outro aspecto relevante diz respeito à questão da prevalência dos preços ao longo do tempo
+
+>> As diferentes visões dos preços dos bens e serviços <<
+
+- Para eliminar os efeitos da inflação, comparamos preços reais (ou preços em moeda constante), em vez de preços nominais (ou preços em moeda corrente)
+
+- Há, neste caso, distinções entre os preços reais e os nominais
+    
+    - PREÇOS NOMINAIS: os que se verificam nos mercados
+
+    - PREÇOS REAIS: os nominais, expurgadis dos efeitos das variações de preço via inflação (aumento) ou deflação (diminuição)
+
+    - Os valores são ajustados com base em índices de preços que medem os aumentos (ou diminuições) ao longo do tempo
+
+>> O equilíbrio de mercado <<
+
+- As transações reais de mercado pressupõem certas condições:
+
+    - todos os COMPRADORES podem comprar o que planejam, ao preço corrente e sob as contingências vigentes do mercado
+
+    - e todos os VENDEDORES podem vender o que planejam ao mesmo preço e sob as mesmas contingências
+
+>> Equilíbrio de mercado <<
+
+- O mercado estará em equilibrio quando, ao preço estabelecido e sob as condições existentes, todos os compradore e vendedores puderam realizar seus planos
+
+- Caso alguns compradores não consigam comprar tudo o que queriam, ou se alguns vendedores não puderam vender tudo o que desejavam, o mercado está em desequilíbrio
+
+- Nossa análise básica do mercado se baseia no pressuposto de que todas as transações realmente executadas constituem transações feitas em condições de equilíbrio, nas quais os planos em ambos os lados são realizados
+
+- Indagamos, em especial, se o preço e quantidade que os vendedores desejam vender se iguala exatamente ao que os compradores desejam comprar
+
+- Em uma economia de mercado, a oferta e a demanda de bens e serviços se ajustam, determinando preços e quantidades que são, por um lado, vendidas e, ao mesmo tempo, adquiridas.
+
+- Com isso, os recursos escassos são eficientemente alocados para a satisfação das necessidades ilimitas dos inúmeros agentes econômicos que atuam nesse mercado
+
+- É uma forma racional de se resolver o chamado Problema econômicos
+
+- O ato de venda e compra se estende a um sem número de operações que, na média, possibilitam a realização de lucro ou satisfação para todos os envolvidos.
+
+- Pode-se, assim, considerar que em mercados competitivos, o equilíbrio repousa na quantidade e preços definidos pela interação das forças da oferta e da demanda de bens e serviços
+*IMAGEM ANEXA 2.1
+
+>> Um exemplo de equilíbrio de mercado <<
+
+- O equilíbrio neste exemplo ocorre quando o preço praticado no mercado for R$ 6,00 e a quantidade transacional é 6 mil.
+
+- Isso é evidenciado pelo ponto E (equilíbrio), situado no cruzamento/intersecção das curvas de demanda (D) e oferta (O).
+
+- E quando se constata a concordância entre as intenções de compra (demanda) e de venda (oferta)
+
+- Apenas nesse preço ocorrerá uma transação de compra e venda no mercado, e a quantidade negociada (entendida como quantidade de equilíbrio) será de 6000 unidades
+
+- Em qualquer outra hipótese não haverá coincidência de desejos e inteções entre compradores e vendedores, não se configurando uma real transação de compra e venda para o bem
+
+- Se o preço praticado no mercado for superior ao de equilíbrio haverá um excesso de oferta (e escassez de demanda) em relação à demanda 
+
+- Quando o preço for inferior ao de equilíbrio, teremos um excesso de demanda (e escassez de oferta) em relação à oferta pra o bem ou serviços
+
+- Tentativas de fixação (congelamento) de preços irão distorcer as condições determinadas livremente pelo mercado
+
+>> As elasticidades da demanda e da oferta de bens e serviços <<
+
+- As decisões dos agentes (das próprias empresas ou de uma região do país) serão melhoradas quando se consegue determinas as respectivas demandas e ofertas para os diferentes bens ou serviços
+
+- Quanto mais detalher obtivermos sobre essas demandas, melhor será nosso poder decisório
+
+- Em adendo ao próprio conceito de demanda (ou de oferta), o de elasticidade permite a mensuração do impacto sobre as quantidades (demandadas ofertadas) em relação a outros fatores que afetam, destacando-se os preços dos bens e serviços
+
+- E essencial analisar qual é a sensibilidade da quantidade demandada (ou da ofertada)
+
+- Sandroni (1999, p. 206) conceitua elasticidade como "a relação entre as diferentes quantidades de oferta e procura de certas mercadorias, em função (razão) das alterações verificadas em seus respectivos preços"
+
+*IMAGEM ANEXA 2.2
+
+- É fácil distinguir dois diferente formatos nesses dois exemplos:
+
+    - uma relação inversa entre preço e quantidade demandada
+
+    - no caso de curvas de oferta, teríamos uma relação direta entre preço e quantidade ofertada
+
+    - A diferença concentra-se na inclinação das respectivas curvas (de demanda ou de oferta)
+
+    - As mudanças de preço, no caso da curva A deste exemplo, provocam variações em menor intensidade da quantidade demandada, conforme preço do mercado.
+
+    - No caso da B, elas provocariam variações de outra intensidade, isto é, mais no que proporcionais na quantidade demandada
+
+    
