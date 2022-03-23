@@ -28,8 +28,12 @@ namespace Primeiro_Programa
             Console.WriteLine();
 
             Console.WriteLine("{0}, Você tem {1} anos de idade.", nome, idade);
-            Console.ReadKey();
+       
 
+            Console.WriteLine("{0}", sobrenome.Length);
+            Console.WriteLine("Seus tres primeiros digitos são: {0}", sobrenome.Substring(0, 3));
+            Console.WriteLine("E os 4 ultimos são: {0}", sobrenome.Substring(sobrenome.Length -4, 4));
+            Console.ReadKey();
         }
     }
 }
