@@ -1,0 +1,116 @@
+
+>> As elasticidades da demanda e da oferta de bens e serviços <<
+
+- Pretende-se, então, medir a intensidade da variação da quantidade (demandada ou ofertada) para estimar os reais efeitos de uma decisão econômica, seja aquela que é feita pelo próprio agente, seja pelo governante.
+
+- A economia oferece alternativas de medição da elasticidade com relação aos fatores que afetam a demanda ou a oferta de bens e serviços.
+
+>> Elasticidade-preço da demanda <<
+
+- Com esta medida, podemos determinar a sensibilidade da quantidade demandada em relação às variações do preço do bem ou serviço..
+
+- As duas variáveis importantes, neste caso, são os preços e as quantidades que se pretende adquirir dos respectivos bens e serviços.
+
+- A maior (ou menor) magnitude dessa elasticidade-preço da demanda está vinculada, entre outros fatores, com:
+
+    - existência (disponibilidade) de bens substitutos próximos
+    - caracterização do bem como necessário (essencial) ou supérfluo;
+    - definição dos limites (tamanho) do mercado;
+    - horizonte de tempo para que se materialize a alteração de consumo
+
+- Para se calcular o índice que corresponde à elasticidade-preço  da demanda é precisso conhecer os preços e as quantidades, iniciais e finais.
+*IMAGEM ANEXA 3.1
+
+- Vamos admitir, como exemplo, que o preço unitário do bem X aumente de R$50 para R$100 e a quantidade demandada diminua de 30 para 20 unidades.
+
+- E, que, eventualmente, o preço diminua de R$200 para R$150, gerando um aumento da quantidade demandada de 10 para 15 unidades.
+
+- No primeiro exemplo, o preço teria dobrado (aumentou em 100%), enquanto a quantidade demandada diminuiria de 30 para 20 unidades (ou 33%)
+
+>> Interpretações da elasticidade-preço da demanda <<
+
+- Há diferentes medições de elasticidade em cada um dos pontos da curva de demanda;
+
+- A análise desse índice deve ser feita admitindo que:
+
+    - altas elasticidades significam alto grau de resposta à alteração do preço;
+
+    - baixas elasticidades indicam relativa insensibilidade às alterações de preços
+
+- O cálculo do índice de elasticidade-preço da demanda de determinado bem fará com que:
+
+    - Ed seja igual a |1| ou
+    - Ed seja menos do que |1| ou
+    - Ed seja maior do que |1|
+
+- A demanda será considerada elástica em relação ao preço quando o aumento percentual da quantidade demandada é mais proporcional à queda percentual dos preços;
+
+    - Ed será maior do que |1!
+
+- A demanda será inelástica em relção ao o aumento percentual da quantidade demandada pe menor do que a queda percentual dos preços. Visto de outra forma, ela será inelástica quando a diminuição percentual da quantidade demandada é menor do que o aumento percentual dos preços.
+
+    - Ed será menor do que |1|
+
+- A demanda teré elasticidade unitária em relação a preço quando o aumento percentual da quantidade demandada se dá na mesma proporção da variação dos preços
+    
+    - Ed será igual a |1|
+
+- Não haverá elasticidade sempre que Ed for igual a 0 (zero). E, finalmente, a demanda será considerada como completamente ou perfeitamente elástica quando a quantidade demandada muda infinitamente com relação às mudanças de preços:
+
+    - Ed será igual a (infinito)
+
+*IMAGEM ANEXA 3.2
+
+- A demanda tende a ser mais elástica se:
+
+    - o bem não for essencial
+    - maior for o horizonte de tempo para a adequação da demanda
+    - maior for a quantidade de bens substitutos próximos
+    - mais restritos forem os limites do mercado em questão
+
+- E, ao contrário, ela tende a ser menos elástica, se:
+
+    - o bem for necessário, essencial
+    - menor for o tempo da adequação para a adaptação da demanda
+    - menor for a quantidade de bens substitutos próximos
+    - Menos restritos forem os limites do mercado em questão
+
+>> Os efeitos na venda de produtos e serviços <<
+
+- Para verificar melhor os efeitos dos íncides de elasticidades de bens ou serviços, destacamos o exemplo a seguir:
+
+- Nele, procurarmos o efeito na receita total (RT) de uma empresa, dependendo da sensibilidade (elasticidade) da demanda de seu(s) produto(s)
+
+- A RT é dada pela multiplicação do preço unitário (p) pela quantidade vendida (Q do produto):
+
+    - RT = P x Q
+    A situação inicial (instante 0) será:
+    - RT0 = P0 x Q0
+    Posteriormente (instante 1), teremos:
+    = RT1 = P1 x Q1
+
+- Se a demanda é elastica, uma diminuição no preço ocasiona o aumento mais do que proporcional da quantidade vendida e uma elevação da receita total
+
+- Aumentos no preços de venda do produto poderão provocar uma contração da receita
+
+- Se, porém, a demanda é inelástica em relação ao preço e ocorrer uma dimiuição do preço do produto, o aumento da quantidade demandada será proporcionalmente inferior à redução percentual praticada no preço, e, consequentemente, diminuirá a receita total da firma.
+
+>> Elasticidade-preço cruzada da demanda <<
+
+- A elasticidade cruzada da demanda, que denominaremos Ex, mede as variações percentuais de quantidade procurada de um bem em relação às variações percentuais do preço de outro bem k:
+
+- Para bens complementares - automóvel e combustível -, Ex será negativo
+
+- Para bens substitutos - manteiga e margarina -, Ex será positivo
+
+>> Elasticidade-renda da demanda <<
+
+- Quando a quantidade demandada diminui por causa de uma aumento da renda do consumidor, o indicador dessa elasticidade que denominaremos Er será negativo.
+
+- OS bens normais ou bens superiores apresentam reação positiva a incrementos de renda do consumidor
+
+- O contrário ocorre no caso dos bens inferiores 
+
+- Oliveira (2006, p. 206) comenta:
+
+    - De forma geral, a elasticidade-renda da demanda é maior para os produtos manufaturados do que para os básicos, pois, em função (razão) da elevação da renda, é mais frequente a elevação da demanda por bens manufaturados - como eletrônicos, refrigerador, maquina de lavar, vídeo, computador - do que por alimentos como arroz, feijão, açucar etc. que ja vinham, ao menos em parte, tendo suas necessidades atendidas
