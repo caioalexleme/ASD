@@ -1,0 +1,94 @@
+
+>> Tipos de elasticidades da oferta de bens e serviços <<
+
+- Tal como a demanda, a oferta pode apresentar diferentes possibilidades de elasticidade (maior, menor, unitária, etc) em relação aos fatores que a impactam como os preços do respectivo bem ou serviço, os custos das matérias-primas etc.
+
+- Assim, a eslaticidade-preço da oferta mede o aumento ou a diminuição percentual da quantidade ofertada devido a uma alteração percentual do preço do respectivo bem ou serviço
+
+>> Medições da elaticidade-oferta de bens e serviços <<
+
+- De forma semelhante à demanda, a elasticidade da oferta tem como fatores determinantes:
+
+    - limites (tamanhos) do mercado de comercialização de bem ou serviço
+
+    - intervalo de tempo para a adequação da produção
+
+    - capacidade dos produtores de mudar a quantidade produzida de um determinado bem ou serviço
+* IMAGEM ANEXA 4.1
+
+- Se o preço de um bem for alterado de R$4 para R$5 (aumento de 25%), enquanto a quantidade ofertada se alterar de 100 para 200 unidades (100%), estaremos doamte de uma situação de oferta elástica 
+
+- Contudo, se houver essa mesma mudança de preço de 4 para 5. mas que ocasione um aumento da quantidade ofertada, por exemplo de 100 para 110 unidades (10%), haverá oferta inelástica;
+
+>> Outras aplicações do conceito de elasticidade <<
+
+- Além do que foi visot no que tange ao dimensionamento das mudanças da demanda e da oferta em relação a fatores que impacta, esse conceito pode ser adotado em outros tipos de estudo, por exemplo:
+
+    - efeitos das mudanças da taxa de câmbio sobre as exportações e importações do país;
+
+    - efeitos das mudanças de taca de juros sobre os níveis de poupança e de investimento da sociedade;
+
+>> As estruturas de mercado <<
+
+- Que papel os mercados desempenham na economia?
+
+- Encontramos várias estruturas de mercados, inclusive aquela em que um grande número de empresas oferece produtos idênticos (e a concorrência entre os ofertantes é considerada perfeita)
+
+>> Tipos de mercados <<
+
+- DE BENS E SERVIÇOS:  as famílias demandam e as empresas oferecem os bens e serviços necessários à satisfação das necessidades humanas;
+
+- DE FATORES DE PRODUÇÃO: as famílias oferecem e as empresas demandam os recursos (fatores de produção, como capital, terra e trabalho) necessários à produção dos bens e serviçoes que serão transacionados na economia.
+
+>> Mercados financeiros <<
+
+- MERCADOS MONETÁRIOS: trocas de curto e curtíssimo prazo, visando oferecer liquidez aos agentes econômicos. O grande indicador para esses mercados é a taxa de juros
+
+- MERCADOS DE CRÉDITO: fornecem recursos para o consumo ou o investimento dos agentes econômicos
+
+- MERCADOS DE CAPITAIS: permitem as trocas entre dinheiro e títulos financeiros
+
+- MERCADOS DE CÂMBIO: possibilitam, através das variações da taxa de câmbio, as trocas entre a moeda nacional e externas (como o dólar norte-americano)
+
+>> Mercados em concorrência perfeita <<
+
+- O modelo denominado concorrência perfeita é caracterizado por uma grande quantidade de participantes - tanto ofertantes quanto demandantes de bens e serviços
+
+- Nessa estrutura, que é considerada a ideal para o funcionamento de uma economia, nenhum dos agentes é capaz isoladamente, de influenciar o preço e a quantidade de produtos que serão transacionados no mercado
+
+- Usualmente, o mercado consumidor é constituído por agentes de menor porte
+
+>> Mercado monopolistas <<
+
+- Constitui o extremo oposto da concorrência perfeita
+
+- O bem ou o serviço oferecido não conta com um substituto próximo, ou seja, inexiste concorrente no mercado em questão
+
+- Entre outros aspectos é importante considerar que o monopolista:
+
+    - tem condições privilegiadas de acesso a determinada matéria-prima
+
+    - detém patente industrial sobre o produto e/ou processo de fabricação
+
+    - Possui direitos autorais, sem possibilidade de acesso imediato por um competidor
+
+>> Os monopólios naturais <<
+
+- Isso acontece em função do alto custo inicial necessário para o fornecimento dos produtos ou serviços, como ocorre, por exemplo, com as companhias ferroviárias, de energia elétrica ou telefonia.
+
+- Consumado o investimento, os custos para oferecimento dos serviços serão decrescrentes para o atendimento a uma extensa quantidade de consumidores e usuários.
+
+- O fato de serem monopolistas, porém, não propicia a esses agentes condições de cobrar o preço que desejarem para a comercialização desses produtos pelas seguintes razões: controle e regulamentações governamentais e limitações impostas pela demanda dos cosumidores
+
+- O governo procura controlar os agentes monopolistas de forma a aumentas a competição no mercado, como acontece com a atuação do Cade (Conselho Administrativo de Defesa Econômica) e das Agências Reguladoras (ANELL, ANP etc.) no Brasil.
+
+- São estabelecidos limites para a liberdade de atuação nos mercados, com a intervenção do Estados nos casos de concentração que determinem excesso de poder econômico
+
+>> Outras estruturas de mercados <<
+
+- O oligopólio
+
+- Cartéis: formados por empresas que se organizam (formal ou informalmente) e exploram um produto (como é o caso do petróleo), diminuindo e/ou eliminando a concorrência no mercado, fixando uma política para todo o setor em termos de cotas e quantidades.
+
+- *IMAGEM ANEXA 4.1
+
