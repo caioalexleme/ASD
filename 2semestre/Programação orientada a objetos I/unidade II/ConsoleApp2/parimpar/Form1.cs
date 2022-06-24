@@ -10,7 +10,6 @@ namespace Primeiro_Programa
 		static void Main(string[] args)
 		{
 
-
 			double numero = 0;
 			Console.Write("Digite um número: ");
 			numero = Convert.ToDouble(Console.ReadLine());
