@@ -1,0 +1,81 @@
+
+>> Discussão inicual <<
+
+- Estudar e discutir
+
+    - O correto entendimento do termo qualidade e gestão de qualidade
+    - O que é e como se faz uma boa gestão da qualidade.
+    - Quais são os conceitos, os modelos e as ferramentas.
+    - A importância do conceito qualidade nas organizações atuais.
+
+- Relevância para os negócios = competitividade
+
+- Forma de abordas as questões da qualidade dentro do universo corporativo
+
+
+>> Programação <<
+
+- Unidade 1
+
+    - O que é qualidade?
+    - Algumas ferramentas
+
+- Unidade 2
+
+    - Metodologias para gerenciamento da metodologias para gerenciamento da qualidade
+    - Deming e Juran, entre outros pesquisadores
+
+- Unidade 3
+
+    - Seis sigma e 5s seis sigma e 5s
+    - Qualidade em serviços
+
+- Unidade 4
+    - A qualidade em TI e o profissional de TI
+    - Normas e ISO
+
+
+>> Qualidade - noções gerais <<
+
+- Não é uma definição única aceita
+- É um conceito difícil
+- Gostos
+- Tradições e háitos culturais
+- Especificações técnicas
+- Manias
+- Moda
+- Nível de aceitação de inovação
+-Etc
+
+
+>> Períodos de qualidade <<
+
+- Quatro estágios que marcaram a evolução da qualidade
+
+    - A inspeção da qualidade
+    - O controle estatístico da qualidade
+    - A garantia da qualidade como uma estratégica de administrar, em que a meta é otimizar a produção e reduzir custos
+    - A gestão da qualidade total
+
+
+>> Definição da qualidade <<
+
+- Juran (1992, p.9): "Qualidade é a ausência de deficiências", ou seja, quanto menos defeitor, melhor a qualidade
+
+- Feigenbaum (1994, p.8): "Qualidade é a correção dos problemas de suas causas ao longo de toda a série de fatores relacionados com marketing, projetos, engenharia, produção e manutenção, que exercem influência sobre a satisfação do usuário".
+
+- Ishikawa (1993, p.43): "Qualidade é desenvolver, projetar, produzir e comercializar um produto de qualidade que é mais econômico, mais útil, e sempre satisfatório para o consumidor" (ROSSATO 1996)
+
+- Crosby (1986, p.31): "Qualidade é a conformidade do produto às suas áreas específicas". As necessidades devem ser especificadas e a qualidade é possível quando essas especificações são obedecidas sem ocorrência de defeitor
+
+- Deming (1993, p.56): "Qualidade é tudo aquilo que melhora o produto de vista do cliente". Deming associa qualidade à impressão do cliente, portanto, não é estática. A dificuldade em definir qualidade está na renovação das necessidades futuras do usuário em características mensuráveis, de forma que o produto possa ser projetado e modificado para dar satisfação por um preço que o usuário possa pagar.
+
+>> Interatividade <<
+
+Como é considerado um pneu de qualidade?
+
+a) Um pneu largo
+b) Um pneu feito com borracha reutilizável
+c) Um pneu durável
+d) Um pneu barato
+e) Não há uma resposta específica
