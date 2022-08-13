@@ -1,0 +1,110 @@
+
+>> Ferramentas de qualidade <<
+
+- Consideramos ferramentas para medição da qualidade todos os recursos que melhoram problemas e identificam defeitos
+
+- Essas ferramentas não servem apenas para solucionas problemas: devem ser usadas como diferencial estratégicos pela empresa, fazendo a qualidade ser um diferencial competitivo para a organização.
+
+- Objetivos das ferramentas da qualidade segundo Oliveira (1995)
+
+    - Facilitar a visualização e o entendimentos dos problemas.
+    - Sintetizar o conhecimento e as conclusões
+    - Desenvolver a criatividade.
+    - Permitir o conhecimento do processo
+    - Fornecer elementos para o monitoramento dos processos
+
+- Gráfico de Pareto:
+
+    - A ferramenta conhecida como Diagrama de Pareto ou Gráfico de Pareto mostra quais são os itens e qual a classe que possuem na ordem no número de ocorrências, apresentando a soma acumulada. O diagrama de Pareto permite a visualização de vários elementos que compõem um problema, mostrando a prioridade e a urgência de cada item
+
+    - O diagrama de Pareto é considerado por muitos especialistas como uma das melhores ferramentas para o diagnósticos de problemas.
+
+
+>> Pareto <<
+
+- Usabilidade do Diagrama de Pareto
+
+    - É usada para identificar problemas
+    - É utilizada como ferramenta para encontras as causas que atuam em um determinado defeitos
+    - Identifica problemas e suas possíveis causas
+    - Pode melhorar a visualização de uma ação ou atividade
+    - Pode priorizar ações mais necessárias
+    - Mostra os resultados obtidos por meio da melhoria aplicada a processos
+    - Detalha as maiores causas do problema, mas em partes específica, causando a eliminação destas
+    - Estratifica uma ação
+    - Identifica os fatores-chave pelos maiores impactos em uma empresa
+    - Mostra as melhorias de um projeto
+
+IMAGEM ANEXA 4.1
+
+
+>> Diagrama de Ishikawa <<
+
+- O diagrama de Ishikawa ou diagrama de causa e efeito, apelidade de "espinha de peixe", mostra as causas fundamentais de uma ação, bem como a forma como é dirigida, como se formam a subcausas, levando ao resultado final.
+
+- Quando usar o diagrama de Ishikawa?
+
+    - Quando temos a necessidade de identificação, quais são as possíveis causas de um determinado problema?
+
+    - Na obtenção de uma visualização mais completa e ampla e as causas e os efeitos que delas decorrem
+
+IMAGEM ANEXA 4.2
+
+    - Para classificarmos  todas as possíveis causas, decompondo-as em subcausas. Assim podemos verificas quais são os efeitos ou resultados consequentes
+
+    - Para saber quais são as causas que estão originando determinados problemas na organização
+
+    - É muito útil para identificar com precisão e mostrar a relação entre causas e efeitos de uma situação, bem como suas prioridades.
+
+    - Pode ser usado como ferramenta para analisar as causas dos defeitos com o objetivo de melhorar o desempenho dos produtos, bem como possíveis falhas e poder melhorá-lo
+
+
+>> Histograma <<
+
+- Histograma: " A maneira como esses dados se distribuem de uma forma decisiva na identificação dos dado. Eles descrevem a frequência com que variam os processos e a forma de distribuição dos dados como um todo" (PALADINI, 1994).
+
+IMAGEM ANEXA 4.3
+
+
+>> Fluxograma <<
+
+- O fluxograma é essencialmente composto pelos módulos:
+
+    - Início ou entrada: É a pauta, o escopo, ou seja, o assunto que vamos considerar no processo de planejamento
+    - Processo: trata-se da maneira de determinar e também de fazer a interligação dos módulos que compõem esse processo; todas as operações que fazer parte dessa etapa são consideraddas processos.
+    - Fim: trata-se do final do processo; nessa etapa, consideramos que não existem mais ações que devam ser levadas em conta, pois não impactarão o produto final.
+
+IMAGEM ANEXA 4.4
+
+
+>> Brainstorming <<
+
+- O brainstorming é uma técnida que reúne profissionais em grupos para discutir determinada ideia ou certo tema
+
+- A ideia básica que caracteriza um brainstorming é a de deixar que os profissionais falem sobre suas ideias criativamente, deixando-as fluírem de forma organizada e produtiva
+
+
+>> 5W 2H <<
+
+- Documento feito de maneira bastante organizada, em que conseguimos ver quais são as pessoas responsáveis por todas as tarefas, ou seja, quem faz o que, quais são as responsabilidades de cada um e quem será o executor do projeto. Esse executor deverá ser capaz de orientar as várias ações que precisam sem implementadas
+
+- Segundo Oliveira (1995): "5W1H deve ser estruturado para permitir uma rápidade identificação dos elementos necessários à implantação do projeto". Os elementos podem ser descritos como:
+
+    - What: o que será feito (etapas)
+    - How: como deverá ser realizada cada tarefa/etapa (método)
+    - Why: Por que deve ser executada a tarefa (justificativa)
+    - Where: onde cada etapa será executada (local)
+    - When: quando cada uma das tarefas deverá ser executada (tempo)
+    - Who: quem realizará as tarefas (responsabilidade)
+
+IMAGEM ANEXA 4.5
+
+
+>> Interatividade <<
+
+Deming propôs alguma ferramenta de qualidade?
+a) Não, mas usava o diagrama de Zurich
+b) Sim, ele é o criador do brainstorming.
+c) Não, Deming não propôs nenhuma nova ferramenta de qualidade
+d) Sim, ele sugeriu o PDCA
+e)Não, mas participou da comissão internacional que criou o fluxograma
