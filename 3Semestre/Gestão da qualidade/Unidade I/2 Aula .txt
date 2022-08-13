@@ -1,0 +1,51 @@
+
+>> Conceito de qualidade <<
+
+- Não é necessário ter uma definição exata de qualidade, porém é vital que tenhamos o completo entendimento doo que é a qualidade
+
+- Evidência a partir do século XX
+
+- Globalização
+
+- Aumento do consumo
+
+- Admistração científica
+
+
+>> Categorização de Garvin <<
+
+- Davida Garvin (1992) categorizou os conceitos de qualidade em cinco abordagens
+
+1 - Abordagem transcedental: estamos fazendo o melhor possível em termos da especificação do produto ao serviço para obtermos a qualidade máxima
+
+2 - Abordagem baseada em manufatura: criar ou fazer produtos ou ainda proporcionar serviços perfeitos e impecáveis, que estão livres de todos os erros e correspondam fielmente às suas especificações de projeto
+
+3 - Abordagem baseada no usuário: Adequação das especificações ao cliente
+
+4 - Abordagem baseada em produto: manter a qualidade como um conjunto mensurável preciso de características. Precisamos dessas características para satisfazer o nosso cliente.
+
+5 - Abordagem baseada em valor: Uma visão que defende que a qualidade seja destacada em relação ao preço
+
+
+>> Campos (1992) <<
+
+- "Qualidade pode ser caracterizada como um conceito como aquela que atende perfeitamente, de forma confiável, de forma acessível, de forma totalmente segura e no tempo ideal às necessidade do consumidor."
+
+- Qualidade:
+
+    - "Que atende perfeitamente = projeto perfeito"
+    - "De forma confiável = sem defeitos"
+    - "De forma acessível = baixo custo"
+    - "De forma segura = segurança do cliente"
+    - "No tempo certo = Entrega no prazo certo, no local certo e na quantidade certa"
+
+
+>> Interatividade <<
+
+O papel é sempre vendido em formatos padronizados como o A4. O tamanho do papel indica que se trata de uma abordagem:
+
+a) transcedental
+b) Baseada em manufatura
+c) Baseada no usuário
+d) Baseada em produto
+e) baseada em valor (x)
