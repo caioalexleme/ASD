@@ -1,0 +1,64 @@
+
+>> Eras da qualidade, de David Garvin <<
+
+1 - Era da inspeção:
+
+    - De uma inspeção manual em ambientes artesanais a um rigoroso processo de inspeção de empresas
+
+
+2 - Era do controle estatístico de qualidade:
+
+    - Utilização de conceitos estatísticos, como práticas de detecção de falhas e também da análise dos processos de qualidade.
+
+
+3 - Era da garantia da qualidade:
+
+    - Possui conceitos específicos em relação à prevenção de problemas de qualidade, com criação de instrumentos de medição que iam além da estatística, pois levavam em consideração quatro elementos específicos:
+        - A quantificação dos custos da qualidade
+        - O controle total da qualidade
+        - A engenharia da confiabilidade
+        - O zero defeito
+
+
+4 - Era da gestão estratégica da qualidade:
+
+    - União dos principais conceitos relatados nas eras anteriores, com o objetivo de criar uma visão de mercado e sustentação dos negócios empresariais
+
+
+>> Qualidade total <<
+
+- Gestão da Qualidade Total, em inglês representado pela sigla TQM (Total Quality Management).
+
+1 - Identificar o que os clientes necessitam
+2 - Projetar um produto que atenderá ao que o cliente necessita e quer
+3 - Desenvolver um processo de produção que ajude os colaboradores a fazerem certo desde a primeira vez em que esse processo foi executado.
+4 - Melhoria dos processos.
+5 - "Empoderamento" do funcionário, criando uma notável motivação
+6 - Espírito de equipe, criando um envolvimento das pessoas e promovendo a atitude de cooperação [...]
+7 - Decisões baseadas em fatos verificáveis
+8 - Conhecimento de várias ferramentas da gestão de qualidade
+9 - Qualidade do fornecedor (HASSAN et al., 2000, p. 243-257)
+
+
+>> Aspectos da qualidade total <<
+
+- Evitar o "se o meu concorrente implantou, eu também devo implantar".
+
+- Atuação de alta direção
+
+- Inovação contínua
+
+- Conseguir a obtenção de novos resultados, ainda que pequenos, em todas as etapas do processo produtivo, e que essas melhorias, ao serem unidas na soma do todo representam um novo soma do todo, representam um novo modelo de qualidade
+
+- Não se importar apenas com os resultados imediatos, de curto prazo, mas com os de longo prazo
+
+
+>> Interatividade <<
+
+- Dentro do conceito de TQM (Gestão da Qualidade Total), é possível desenvolver novos e inovadores produtos?
+
+a) De forma alguma, como o foco é o cliente, a tendência é o tradicionalismo
+b) Não, porque, normalmente, os clientes preferem produtos mais baratos
+c) Sim, porque há uma elevação imediata de preços
+d) Sim, porque ao ouvir o cliente incetivando a criatividade dos funcionários, podem surgir produtos inovadores. (X)
+e) Sim, porque as vendas ficam mais rentáveis
