@@ -1,0 +1,85 @@
+
+>> Introdução <<
+
+- O software se estabeleceu como uma ferramenta importante na estratégia competitiva das grandes empresas e corporações. As necessidades de software são cada vez maiores no mercado.
+
+- O software não está mais restrito ao simples fato de se desenvolver uma série de linhas de código para compor um sistema. O software é visto como um produto útil e necessário na estratégia empresarial. E como produto, o software deve atender a uma serie de exigências e determinados padrões de qualidade.
+
+- "Software bom é aquele que funciona". É um velho paradigma que está sendo quebrado pelso padrões de qualidade. O mínimo que se espera do software é que ele funcione.
+
+- Porque o mercado quer rapidez nos negócios, melhoria contínua de seus produtos, aumento de produtividade, informações instantâneas e agilidade nas transações.
+
+- Nesse contexto, a Unidade I trata dos aspectos introdutivos que motivam a dase de Projetos de Sistemas Orientado a Objetos
+
+
+>> Introdução a projetos de sistemas <<
+
+- O projetod e sistemas se ocupa de todos os aspectos necessários para produzir o sistema. Isso vai desde os estágios iniciais de conhecimento do negócio, da análise, da especificação e da modelagem do sistema, até a entrega e a manutenção dele.
+
+- Um bom projeto viabiliza o uso do sistema por um longo período de tempo, dispondo de recursos que permitam adaptá-lo a novas mudanças, correções e integração a novos ambientes operacionais.
+
+IMAGEM ANEXA 1.1
+
+
+>> Por que "projetar"? <<
+
+- Suponha que você tenha um terreno e queira construir uma casa nele!
+
+- Inicialmente se faz um mapa do que se deseja na casa, tais como: sala, quantidade de quartos, banheiros, área de serviço, área de lazer; enfim, tudo o que achar necessário.
+
+- Na engenharia de software para se fazer o projeto, o mapa da casa seria chamado de modelagem da casa e a lista de desejos é chamada de requisitos do software ou do sistema.
+
+
+>> Por que "projetar"? - Viabilidade do projeto <<
+
+- Os requisitos do projeto da casa devem ser viabilizados para poder iniciar a construção. Para viabilizar um projeto, algumas questões devem ser avaliadas:
+
+1 - A quantidade de cômodos está de acordo com a metragem e a distribuição do terreno?
+
+2 - O terreno tem estrutura para o tipo de obra desenjado?
+
+3 - Custo e prazo estão dentro do orçamento e do período de entrega da casa?
+
+- Para viabilizar um projeto de sistema, as mesmas questões devem ser feitas. Com foco na engenharia de software, tais questões são abordadas da seguinte forma:
+
+1 - Os requisitos do negócios atendem a organização?
+
+2 - A estrutura da Tecnologia da Informação (TI) atende aos requisitos do negócio.
+
+3 - Custo e prazo estão dentro do orçamento e do período de entrega do sistema?
+
+
+>> Por que "projetar"? - O papel do cliente <<
+
+- É comum em um projeto de sistemas ocorrerem problemas semelhantes aos citados no projeto de uma casa. Problemas que ocorrem mesmo antes que o projeto inicie.
+
+- Na Engenharia Civil, o paradigma de projeto já é mais difundido. No caso do seu projeto, após os seus requisitos, ou sua lista de desejos fechados, verificados e validados, a linha certa a ser adotada seria desenvolver o projeto da sua casa.
+
+- O projeto da casa provavelmente não seria desenvolvido por você. Você é que quer o produto casa e está disposto a financiar esse projeto e a construção. Você é quem expõe as necessidades para sua casa. Você é quem se interessa mais por esse negócio. Você é o cliente.
+
+
+>> Por que "projetar"? - O papel do desenvolvedor <<
+
+- Você não iria desenvolver o projeto, mas sim um profissional ou uma equipa capaz de traduzir os seus desejos em algo mais concreto. Traduzir seus desejos no produto final: a casa.
+
+- Essa equipe em projeto de sistema é chamada de desenvolvedores.
+
+- As plantas produzidas pela equipe de projeto serão utilizadas como guia para a equipe de construção, de tal forma que os riscos associados à má qualidade da casa sejam diminuídos, ou seja, começa a diminuir a probabilidade de problemas associados, por exemplo, à metragem dos cômodos, às paredes e a todos os demais problemas comentados anteriormente.
+
+-  As plantas produzidas são chamadas em projeto de sistemas de modelos e a atividade de se criar os modelos pela equipe desenvolvedora é chamada de modelagem.
+
+
+>> Por que "projetar"? - Estrutura organizacional <<
+
+- A figura mostra uma estrutura organizacional para o desenvolvimento de software
+
+- É uma estrutura genérica que apresenta as fases da organização, bem como suas formas de relacionamento.
+
+IMAGEM ANEXA 1.2
+
+
+>> Interatividade <<
+
+A Gerência de Projeto se empenha para monitorar a integração de diversos componentes para construir um produto e a Engenharia de Software projeta e constrói o produto software de computador. De que forma se inicia o projeto de software?
+
+- Pelos requisitos do negócio
