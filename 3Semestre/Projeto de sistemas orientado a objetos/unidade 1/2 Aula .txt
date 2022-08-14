@@ -1,0 +1,62 @@
+
+>> Por que "projetar"? - Modelagem <<
+
+- A modelagem é importante instrumento de transição entre os seus requisitor e o que será construído
+
+- Os modelos no projeto da sua casa são artefatos importantes para a comunicação entre os envolvidos no projeto, nesse caso, a comunicação entre você e o projetista, e entre o projetista e a equipe de construção
+
+- O projeto do software ou do sistema é um processo de engenharia de software. A modelagem é uma aticidade do projeto de software
+
+- Os modelos são específicos e dirigidos para um determinado público-alvo. São criados cenários de uso que orientam a criação de outros modelos. Cada tipo de modelo gerado atende a um determinado perfil de pessoa ou profissional envolvido no projeto.
+
+- Os modelos permitem criar uma linguagem visual das ideias a serem embutidas no projeto.
+
+
+>> Por que "projetar"? - Exemplo de modelagem do processo de negócio <<
+
+
+IMAGEM ANEXA 2.1
+
+- Modelagem do processo de negócio -> mostra a sequência de atividades para a tarefa de expedição de Ordem de Serviço (OS). Esse diagrama é bem similar ao diagrama de atividades da UML.
+
+
+>> Por que "projetar"? - Exemplo de modelagem de um sistema web <<
+
+- Diagrama de componentes e implantação - mostra o projeto de um sistema computacional para a atividade "Controle de Estoque" via web
+
+IMAGEM ANEXA 2.2
+
+
+>> Por que "projetar"? - Metodologias <<
+
+- Para alinhar as atividades de desenvolvimento do sistemas são adotadas algumas metodologias (ou métodos) e ferramentas para elicitar, especificar, modelar, construir e entregar o sistema
+
+- As metodologias aplicáveis da engenharia de software fornecem a técnica de como fazer para construir software. Incluem um amplo conjunto de tarefas que abrangem análises de requisitos, projeto, construção de programas, testes e manutenção. Os métodos formam um princípio básico que regem cada área da tecnologia e incluem atividades de modelagem e outras ténicas descritivas
+
+- As ferramentas fornecem apoio automatizado ou semiautomatizado para o processo e para os métodos. Esse assunto será abordado na Unidade II dessa disciplina
+
+IMAGEM ANEXA 2.3
+
+
+>> Por que "projetar"? - Verificação e Validação V&V <<
+
+- Após a viabilidade do projeto da casa, faz-se a Verificação e Validação (V&V) dos itens necessários para construir a casa de acordo com a lista de desejos.
+
+- Nessa fase alguns problemas a sere solucionados começam a surgir:
+
+    - A quantidade de quartos está de acordo com o desejado, porém a metragem dos quartos não está de acordo com as necessidades do cliente,
+
+    - A arquitetura, as medidas, o alinhamento das paredes e a segurança: telhados janelas e portas podem não estar de acordo com as especificações do cliente
+
+    - Materiais e equipamentos de instalações elétricas, hidráulicas e outros podem estar com defeitos, fora das medidas do projeto ou até quebrados.
+
+- A verificação garante que os recursos necessários esteja disponíveis
+
+- A Validação é o aceite do cliente de que o que foi verificado está correto ou de acordo com o que será projetado.
+
+
+>> Interatividade <<
+
+- Frequentemente as atividades de Validação e Verificação (V&V) trabalham simultâneamente e podem usar porções do mesmo ambiente. A atividade de validação é a última fase do processo de engenharia de requisitos, reponsável por autorizar o desenvolvimento do sistema/software. Qual é a tarefa desempenhada na validação?
+
+- Apresentar o documento de requisitos em reunião para aceite do cliente.
