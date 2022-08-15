@@ -1,0 +1,71 @@
+
+>> O projeto no ciclo de vida na engenharia de software <<
+
+- O ciclo de vida do projeto serve para definir o início do projeto e sua transição até a entrega do produto ao cliente, bem como o início e o fim de cada processo que o compõe. Está inclusa também no projeto a parte que se refere a pós-entrega, que é o treinamento do usuário, suporte e manutenção do sistema.
+
+- Por exemplo: uma fase padrão no ciclo de vida do projeto de sistemas, pela engenharia de software é a elicitação, que é o processo de levantamento de requisitos. Para os desenvolvedores entenderem o negócio uma equipe de analistas de negócios apresenta suas necessidades, restrições e prioridades do negócio.
+
+IMAGEM ANEXA 3.1
+
+
+>> A fase de projetos <<
+
+- O Modelo Cascata (ou Waterfall) foi o primeiro modelo publicado do processo de desenvolvimento de software, originário de outros processos da engenharia de sistemas, é considerado o modelo clássico do ciclo de vida de desenvolvimento de softwarem, dá-se de forma sequencial encadeada e reflete as atividades fundamentais do desenvolvimento. (PRESSMAN, 2011)
+
+IMAGEM ANEXA 3.2
+
+
+>> A fase de projetos - elicitação de requisitos <<
+
+- A fase de projeto não se inicia até que todos os requisitos sejam elicitados, documentados e aprovados pelo usuário.
+
+- É comum que requisitos novos surjam e sejam alterados no curso do projeto, pelas mais diversas razões, dentre elas a falta de habilidade do analista em extrair e captar as necessidades do processo de negócio.
+
+- A mundança nos requisitos pode ocorrer durante a fase de projetom codificação ou até mesmo na fase de testes, assim como problemas na arquitetura podem ser identificados na construção ou na implantação
+
+- Uma boa elicitação reduz o custo do projeto. Um problema, uma regra de negócio ou alguma mudança identificada na fase de codificação ou, pior ainda, se for identificada na fase de operação, o custo é bem alto.
+
+
+>> Por que modelar? <<
+
+- Suponha que o projetista do sistema, por alguma razão, não conseguir captar alguma das necessidades do negócio, ou até mesmo se houve alguma mudança por parte dos analistas de negócio.
+
+- Diante dessa situação, basta alterar o modelo e validá-lo novamente. Os esforços seriam muito maiores se tiver que alterar a construção em vez do modelo.
+
+- Os modelos de projeto têm como objetivo apresentar as diversas visões da solução de um sistema ou do software.
+
+
+>> Conceitos do projeto - abstração <<
+
+- O projeto deve, por finalidadem possuir vários níveis de abstração. Nos níveis mais altos de abstração do software nos aproximamos do nível de análise, enquanto nos níveis mais baixos nos aproximamos da solução técnica do software
+
+- O conceito de abstração está ligado à nossa capacidade como analistas de resolver problemas, de selecionar determinados aspectos do problema e de isolar o que é importante do que não é, para um determinado propósito. Abstração é dar ênfase àquilo que é essencial.
+
+- A abstração no projeto no nível de análise do sistema consiste em fazer o levantamento dos requisitos e analisá-los. Na análise, as ideias e os objetivos do cliente e dos usuários são agrupados. O objetivo desse agrupamento de ideias é criar módulos para depois especificar e modelar.
+
+
+>> Conceitos do projeto - modularidade <<
+
+- A modularidade consiste em dividir o sistema ou software em componentes, ou módulos, que trabalham em conjunto para desempenhar uma determinada atividade e atingir um determinado objetivo.
+
+- Tanto o módulo como o componente do software são blocos isolados, que independem de outras partes do sistema, que possuem endereçamento próprio e que permitem ser dadas manutenções isoladas sem que estas afetem outras partes do sistema
+
+- A diferença básica entre um componente e um módulo está basicamente associada ao seu tamanho e complexidade. Veja bem: você pode ter um componente de software que faça um cálulo de folha de pagamento e outro que gere relatórios. Com tudo os dois componentes podem ser integrados a um único módulo que faça essas duas operações
+
+
+>> Conceitos do projeto - modularidade: acoplamento e coesão <<
+
+- O que se deseja atingir com a modularidade é baixo acoplamento e alta coesão
+
+- Observe que neste modelo os módulos B, C, D e E possuem uma alta dependência do módulo A, ou seja, possuem um índice alto de acoplamento. O que não é bom porque se o módulo A falhar, todos os outros módulos ficam comprometidos
+
+- O modelo a seguir apresenta um baixo acoplamento e uma alta coesão. Mesmo que um dos módulos apresente falha, os dois outros estarão coesos.
+
+IMAGEM ANEXA 3.3
+
+
+>> Interatividade <<
+
+- O módulo de um sistema de um setor financeiro de ERP é composto pelos componentes: aplicação do Financeiro (app_Financeiro), gerador de relatórios (ger_Rel) e SGBD da empresa (sgbd_Empresa). Em relação ao acoplamento e à coesão desses componentes, qual das alternativas abaixo apresenta maior segurança e eficácia na operação do software.
+
+b) App_Financeiro liga a ger_Rel e a sgbd_Empresa; e ger_Rel liga a sgbd_Empresa
