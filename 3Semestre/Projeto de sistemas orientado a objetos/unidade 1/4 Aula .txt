@@ -1,0 +1,79 @@
+
+>> Fases de projeto <<
+
+- As fases, ou subdivisão das atividades, do projeto estão associadas ao que efetivamente deve ser produzido como artefato na fase de projeto. Pressman (2006) divide o modelo de projetos em quatro fases:
+
+    - Projeto de componentes
+    - Projeto de interfaces
+    - Projeto arquitetural.
+    - Projeto de dados/classe
+
+IMAGEM ANEXA 4.1
+
+
+>> Fases do modelo de projeto <<
+
+- Sequência de atividades e o fluxo das informações da fase de projeto:
+
+    - Projeto de dados/classe: essa fase tem como insumo os requisitos do software. O objetivo é fazer a modelagem dos dados e criar classes e objetos do projeto.
+
+    - Projeto arquitetural: organiza as classes e os objetos em componentes do software e define seus relacionamentos
+
+    - Projeto de interfaces: descreve todas as possíveis interfaces de um sistema, que podem ser: interfaces internas (ligação entre os componentes), interfaces externas (ligação do sistema com outros sistemas) e interface do usuário
+
+    - Projeto de componentes: a partir do modelo desenhado no projeto de arquitetura, fazem-se a especificação e a modelagem dos componentes
+
+    
+>> Aspectos humanos da fase de projetos <<
+
+- Os modelos de processos do ciclo de vida do sistema apresentam uma série de atividades que produzem artefatos do sistema. Contudo essas atividades são executadas por pessoas.
+
+    - As funções das pessoas que trabalham no projeto são chamadas de papéis
+    - E as tarefas que essas pessoas desempenham nas atividades do projeto são chamadas de responsabilidades
+
+- Um papel pode ser desempenhado por mais de uma pessoa, assim como uma pessoa pode desempenhar diferentes papéis ao longo do ciclo de vida do projeto
+
+- Na tela a seguir são apresentadas as atividades e as habilidades do arquiteto, do analista e do gerente de projeto com base no processo unificado do OpenUP
+
+
+>> Atividades e habilidades no OpenUP <<
+
+- O arquiteto tem como atividades, conduzir o projeto e tomar decisões técnicas, identificar e documentar o projeto, alinhar objetivos do negócio com soluções técnicas e organizar a equipe com base na aquitetura. E habilidade para análise crítica, domínio da engenharia de software, liderança e comunicação
+
+- O analista tem como atividades especificar os requisitos, descrever casos de uso e auxiliar a equipe de desenvolvimento. E habilidades para identificar problemas e propor soluções, promover soluções colaborativas, comunicação e domínio do negócio e da tecnologia.
+
+- O gerente de projeto tem como atividades liderança, responsabilidaes pelos resultados do projeto, pela aceitação e riscos do desenvolvimento do produto; e domínio da gestão, das ferramentas e das técnicas aplicadas. E habilidades para liderança e formação de equipes, domínio do ciclo de vida do desenvolvimento, resolução de conflitos e problemas; e boas práticas de comunicação.
+
+
+>> O que buscamos atingir no projeto <<
+
+- A norma ISO 25010 (ISO, 2011a), como mostra a figura, trata da classificação e da definição de requisitos não funcionais, que definem um modelo de qualidade utilizado como referência para a avaliação de qualidade de software. Esse modelo define seis características, chamadas de atributos de qualidade do software
+
+IMAGEM ANEXA 4.2
+
+- O projeto orientado a objetos é baseado na produção de modelos, fundamentado nos aspectos humanos e objetivos a serem atingidos
+
+- O paradigma da orientação a objetos é uma forma de se desenvolver um sistema de software que o enxerga como um conjunto de componentes que interagem para resolver um determinado problema. A cada componente, dá se o nome de um objeto
+
+IMAGEM ANEXA 4.3
+
+
+>> O que buscamos atingir no projeto? - Princípios <<
+
+- Classes -> grupo de objetos com iguais propriedades (atributos), comportamento (operações), relacionamento e semântica
+
+- Objeto -> O objeto possui uma identidade representada por um conjunto de informações conferidas aos seus atributos, e ainda que todo objeto possui um estado, definido também pelo conjunto dessas informações em um determinado espaço de tempo
+
+- Encapsulamento -> significa deixar visível, ou deixar acessível a outros objetos, apenas o que é necessário
+
+- Abstração -> capacidade de selecionar determinados aspectos do problema e isolar o que é importante para algum propósito do que não for para um determinado propósito, ou seja, é dar ênfase àquilo que é necessário.
+
+- Unified Modeling Language (UML) é a ferramenta para modelagem do sistema de software.
+
+
+>> Interatividade <<
+
+Analise a definição abaixo e responda à alternativa correspondente a fase do projeto:
+- "Esta fase do projeto tem como insumo o modelo de requisitos, tem como objetivo estruturar a informação e um modelo de dados aplicáveis no projeto"
+
+-> Projeto de dados/classe
