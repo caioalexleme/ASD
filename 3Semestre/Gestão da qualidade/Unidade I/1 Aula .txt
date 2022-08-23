@@ -1,5 +1,5 @@
 
->> Discussão inicual <<
+>> Discussão inicial <<
 
 - Estudar e discutir
 
@@ -10,7 +10,7 @@
 
 - Relevância para os negócios = competitividade
 
-- Forma de abordas as questões da qualidade dentro do universo corporativo
+- Forma de abordar as questões da qualidade dentro do universo corporativo
 
 
 >> Programação <<
@@ -45,7 +45,7 @@
 - Manias
 - Moda
 - Nível de aceitação de inovação
--Etc
+- Etc
 
 
 >> Períodos de qualidade <<
@@ -60,13 +60,13 @@
 
 >> Definição da qualidade <<
 
-- Juran (1992, p.9): "Qualidade é a ausência de deficiências", ou seja, quanto menos defeitor, melhor a qualidade
+- Juran (1992, p.9): "Qualidade é a ausência de deficiências", ou seja, quanto menos defeitos, melhor a qualidade
 
 - Feigenbaum (1994, p.8): "Qualidade é a correção dos problemas de suas causas ao longo de toda a série de fatores relacionados com marketing, projetos, engenharia, produção e manutenção, que exercem influência sobre a satisfação do usuário".
 
 - Ishikawa (1993, p.43): "Qualidade é desenvolver, projetar, produzir e comercializar um produto de qualidade que é mais econômico, mais útil, e sempre satisfatório para o consumidor" (ROSSATO 1996)
 
-- Crosby (1986, p.31): "Qualidade é a conformidade do produto às suas áreas específicas". As necessidades devem ser especificadas e a qualidade é possível quando essas especificações são obedecidas sem ocorrência de defeitor
+- Crosby (1986, p.31): "Qualidade é a conformidade do produto às suas áreas específicas". As necessidades devem ser especificadas e a qualidade é possível quando essas especificações são obedecidas sem ocorrência de defeitos
 
 - Deming (1993, p.56): "Qualidade é tudo aquilo que melhora o produto de vista do cliente". Deming associa qualidade à impressão do cliente, portanto, não é estática. A dificuldade em definir qualidade está na renovação das necessidades futuras do usuário em características mensuráveis, de forma que o produto possa ser projetado e modificado para dar satisfação por um preço que o usuário possa pagar.
 

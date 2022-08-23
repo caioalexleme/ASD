@@ -3,7 +3,7 @@
 
 - Consideramos ferramentas para medição da qualidade todos os recursos que melhoram problemas e identificam defeitos
 
-- Essas ferramentas não servem apenas para solucionas problemas: devem ser usadas como diferencial estratégicos pela empresa, fazendo a qualidade ser um diferencial competitivo para a organização.
+- Essas ferramentas não servem apenas para solucionar problemas: devem ser usadas como diferencial estratégicos pela empresa, fazendo a qualidade ser um diferencial competitivo para a organização.
 
 - Objetivos das ferramentas da qualidade segundo Oliveira (1995)
 
@@ -25,7 +25,7 @@
 - Usabilidade do Diagrama de Pareto
 
     - É usada para identificar problemas
-    - É utilizada como ferramenta para encontras as causas que atuam em um determinado defeitos
+    - É utilizada como ferramenta para encontrar as causas que atuam em um determinado defeito
     - Identifica problemas e suas possíveis causas
     - Pode melhorar a visualização de uma ação ou atividade
     - Pode priorizar ações mais necessárias
@@ -61,7 +61,7 @@ IMAGEM ANEXA 4.2
 
 >> Histograma <<
 
-- Histograma: " A maneira como esses dados se distribuem de uma forma decisiva na identificação dos dado. Eles descrevem a frequência com que variam os processos e a forma de distribuição dos dados como um todo" (PALADINI, 1994).
+- Histograma: " A maneira como esses dados se distribuem de uma forma decisiva na identificação dos dados. Eles descrevem a frequência com que variam os processos e a forma de distribuição dos dados como um todo" (PALADINI, 1994).
 
 IMAGEM ANEXA 4.3
 
@@ -107,4 +107,4 @@ a) Não, mas usava o diagrama de Zurich
 b) Sim, ele é o criador do brainstorming.
 c) Não, Deming não propôs nenhuma nova ferramenta de qualidade
 d) Sim, ele sugeriu o PDCA
-e)Não, mas participou da comissão internacional que criou o fluxograma
+e) Não, mas participou da comissão internacional que criou o fluxograma
