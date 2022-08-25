@@ -1,0 +1,75 @@
+
+>> Ferramentas de modelagem UML <<
+
+- As ferramentas agem como grande facilitadoras para o uso da UML. O grande desafio é escolher a ferramenta correta, que atenda aos padrões da UML.
+
+- Existema muitas ferramentas de modelagem UML, contudo, nem todas atendem aos padrões da UML, são limitadas em uso, limitadas em quantidade de diagramas, ausência de elementos de controle e falta algumas características.
+
+- Fazer um projeto de sistema orientado a objetos com UML não se trata apenas fazer desenhos de diagramas.
+
+- Na tela a seguir links de ferramentas mais usadas no projeto de sistemas orientado a objetos.
+
+
+>> Ferramentas CASE <<
+
+- CASE - Computer-Aided Software Engineering
+
+- Sommerville (2010) define CASE como "o processo de desenvolvimento de software com uso de suporte automatizado"
+
+- Pressman (2006) define CASE como um sistema de software que dá suporte a profissionais da engenharia de software em todas as atividades do processo de software
+
+
+>> Ferramentas CASE - As mais  usadas no desenvolvimento <<
+
+- Astah Community - Disponível em https://astah.net/products/astah-community/ (free)
+
+- Enterprise Architect, Sparxs systems - Disponível em https://sparxsystems.com/ (free)
+
+- ERwin Data Modeler, Computer Associates Technologies Erwin – Disponível em
+http://erwin.com
+
+- Genexus, ARTech. – Disponível em: http://www.genexus.com.br
+
+- Poseidon for UML – Model to business – Disponível em: http://www.gentleware.com (trial)
+
+-  Rational Rose Enterprise, IBM − Disponível em
+https://www.ibm.com/support/pages/node/306477?mhsrc=ibmsearch_a&mhq=Rational%20Rose
+
+
+>> Tecnologia back-end <<
+
+- A tecnologia back-end está relacionada ao gerenciamento e armazenamento dos dados e das informações, ou seja, a ligação da aplicação com o SGBD
+
+    - 1ª Geração: Arquivos sequenciais em fita magnética
+    - 2ª Geração: Bibliotecas específicas de acesso a dados/Primeiros BDs
+    - 3ª Geração: BD em rede/Surgimento do SGBD
+    - 4ª Geração: BD relacional
+    - 5ª Geração: Banco de dados orientado a objeto/IA aplicada
+
+- Observe que o ambiente de SGBD evolui para uma estrutura de Banco de Dados Orientado a objetos
+
+- SGBD - Sistemas de Gerenciamento de Banco de Dados (DBMS - Data Base Management System)
+
+
+>> Tecnologia back-end - BD orientado a objetos versus BD relacional <<
+
+- A tecnologia back-end utiliza dois modelos de SGBD: BD relacional ou de entidade-relacionamento (E-R) e o BD orientado a objetos (OO), similares da definição de atributos.
+
+- Diferença conceitual do modelo oritentado a objetos para o modelo E-R:
+
+    - No modelo orientado a objetos, além dos atributos, cada objeto possui um conjunto de códigos que operam sobre este objeto, chamado de método (ou operação). Na orientação a objetos, o modelo que representa os atributos e os métodos é chamado de classe.
+
+    - As identidades dos objetos são diferentes, mesmo que possuam os mesmos valores.
+
+    - Adoção de mecanismos e relacionamento: composição, agregação e herança.
+
+
+>> Tecnologia back-end - Desempenho no acesso ao BD <<
+
+- Observe o gráfico de desempenho comparativo entre o BD OO eo BD Relacional na pesquisa de Saxena e Pratap (2013).
+
+- Principais padrões de BD OO:
+
+    - CORBA (Commom object Request Broker Architecture)
+
+    - OMA (Object Management Architecture)
