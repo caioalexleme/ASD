@@ -1,0 +1,76 @@
+
+>> Introdução <<
+
+- Em um mundo onde a tecnologia de hardware evoluiu e segue em constante evolução, em que devemos nos preocupar em desenvolver sistemas de software que se adaptem às diversas tecnologias e plataformas de computadores pessoais, sistemas operacionais, dispositivos móveis, entre outros.
+
+- Não só fazer o sotware se adaptar as diversas tecnologias, como também oferecer uma experiência rica ao usuário final, fazer como que ele tenha segurança e conforto no uso, fazer com que ele possa realizar suas atividades de maneira produtiva.
+
+- Na unidade II de Projeto de Sistemas Orientado a Objetos será tratada a tecnologia de apoio ao projeto orientado a objetos e a transição da fase de análise para a fase de projeto. Boa parte desse suporte é baseado na UML
+
+- A UML é uma linguagem de modelagem unificada, utilizada para representar as diversas visões de um software durante o seu ciclo de vida de desenvolvimento.
+
+
+>> Tecnologia de apoop ao Projeto Orientado a Objetos <<
+
+- Cada visão do projeto orientado a objetos possui uma finalidade bem-definida, cada uma possui um conjunto de diagramas da UML - Unified Modeling Language (Linguagem de Modelagem Unificada) específico para cada objetivo do projeto.
+
+- Antes de utilizar a UML é preciso ter a noção de qual visão estamos querendo modelar. Basta ter uma boa especificação do requisito e é feita a escolha do diagrama correto a ser aplicado.
+
+- Para desenhar os diagramas da UML são utilizadas ferramentas de modelagem. A adoção e o uso consciente de uma ferramenta de mercado são fatores fundamentais para o sucesso nessa fase de projeto.
+
+- No desenvolvimento orientado a objetos, as principais ferramentas que auxiliam o desenvolvimento orientado a objetos e que serão discutidas nessa unidade são:
+
+    - Ferramentas de modelagem
+    - Ferramentas CASE
+    - Frameworks
+
+
+>> A UML <<
+
+- A UML não é:
+
+    - Uma linguagem de programação
+    - Uma plataforma de desenvolvimento
+    - Uma ferramenta de modelagem
+    - Um software
+
+- A UML é:
+
+    - A UML é apenas uma linguagem
+    - É independente do modelo de processo adotado
+    - É destinada a visualização, especificação e documentação de artefatos
+
+- A UML (Unified Modeling Language), na definição de seus criadores, Booch, Jacobson e Rumbaugh (2006) "é uma linguagem-padrão para elaboração da estrutura de projetos de software [...] adequada para a modelagem de sistemas".
+
+
+>> A UML - Paradigma <<
+
+- A UML não é uma linguagem de programação, embora seja possível a geração de códigos a partir de alguns diagramas, o diagrama de classes, por exemplo, assim como o inverso, ou seja,  a geração de diagramas a partir do código-fonte, como é o caso de alguns frameworks para o desenvolvimento de código
+
+- A geração de código não é algo propriamente da UML,mas sim de ferramentas de modelagem que tenham a UML como padrão e que tenham recursos de código ou engenharia reversa
+
+
+>> A UML - Ferramentas e técnicas <<
+
+- Principais ferramentas que auxiliam o desenvolvimento orientado a objetos:
+
+    - Ferramentas de modelagem - são ferramentas para o desenho da arquitetura procedural (não orientada a objetos) e orientada a objetos
+
+    - Ferramentas CASE - Computer Aided Software Enginnering (Engenharia de software Auxiliada a Computador) - dispõe de um conjunto completo de ferramentas (dependendo do fabricante do CASE), que vão desde o planejamento, modelagem, geração de códigos e testes de software e do sistema
+
+    - Framework - é um conjunto de ferramentas e conceitos automatizados que une códigos comuns entre vários projetos de software para resolver um problema de um conjunto específico
+
+
+>> A UML - Projeto do ponto de vista da UML <<
+
+- Caso de uso - o objetivo do caso de uso é capturar os requisitos, as funcionalidades e o comportamento sob a ótica do usuário. O caso de uso é centrado porque o projeto orientado a objeto começa pelo caso e serve de base para as outras atividades do desenvolvimento do sistema.
+
+- Lógica - representa as funcionalidades que serão implementadas no projeto. Se refere à lógica da estrutura da informação.
+
+- Processo - captura aspectos de paralelismo de execução de atividades sob o ponto de vista não funcional,ou seja, mão são funções requisitadas pelo cliente ou usuário, porém são práticas que estabelecem a qualidade do produto, tais como usabilidade, segurança, linguagem de programação que será usada e outras mais.
+
+- Implementação - interação dos componentes com o sistema.
+
+- Implantação - organização física do sistema para entrega
+
+- Apresentado por Booch, Jacobsom e Rumbaugh (2006). A figura ao lado mostra a estrutura dos diagramas da UML
