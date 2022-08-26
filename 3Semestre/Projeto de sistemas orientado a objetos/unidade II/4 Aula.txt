@@ -1,0 +1,80 @@
+
+>> Atividades clássicas para passagem da análise para o projeto <<
+
+- O Objetivo das atividades de análise necessárias para o projeto está no refinamento do processo de desenvolvimento, ou seja, o modelo de projeto deve ser detalhado para o modelo de implementação.
+
+- Enumeradas por Bezerra (2006) são três as atividades clássicas de passagem da análise para o projeto:
+
+    - Detalhamento dos aspectos dinâmicos do sistema;
+    - Refinamento dos aspectos estáticos estruturais do sistema
+    - Definição de outros aspectos da solução
+
+
+>> Atividade - Detalhamento dos aspectos dinâmicos do sistema <<
+
+- O objetivo dessa fase é a representação da interação dos objetos de forma dinâmica. Este dinamismo está relacionado:
+
+    - À representação que acompanha as mudanças do objeto da classe pelo Diagrama de Estados
+
+    - Ao comportamento do objeto em uma linha de tempo pelo Diagrama de Sequência, que mostra a troca de mensagens entre os objetos.
+
+
+>> Atividade - Dinâmica do sistema - Mensagens <<
+
+- As mensagens do diagrama de sequência devem obrigatoriamente refletir os métodos e a assinatura descritos no diagrama de classes.
+
+- A mensagem é diferente de uma informação. O termo mensagem é usado na comunicação dos objetos, que nem sempre é uma informação útil para o ser humano.
+
+- Veja bem: se um determinado software em um servidos está fora do ar, ele sinaliza, às vezes até por um bit. A estação que recebe esta situação identifica o código e o transforma em informação para o ser humano.
+
+- As mensagens devem obrigatoriamente refletir os métodos e as assinaturas descritas na classe:
+
+    - Envio explícito de mensagem: refere-se a uma sequência específica de mensagens contidas, por exemplo, em uma fila de mensagens.
+
+    - Evento: são mensagens enviadas ao objeto, originárias do ambiente externo ao sistema. Por exemplo: a comunicação do ator com o objeto.
+
+
+>> Atividade - Dinâmica do sistema - Tipos de mensagens <<
+
+- O tipo de mensagem que identifica os aspectos dinâmicos do sistema refere-se à forma como esta mensagem será apresentada, o que define o comportamento do sistema.
+
+- Segundo o padrão de comunicação de interação de objetos, que pode ser observado em Stadzisz (2002), existem dois tipos de mensagens entre objetos:
+
+    - Mensagens síncronas: este tipo de mensagem é utilizado quando o método do objeto chamado possui algum tipo de retorno no qual o objeto chamador espera.
+
+    - Mensagens assíncronas: o objeto chamador envia a mensagem e continua seu processamento.
+
+- Larman (2007) observa outros tipos de mensagens:
+
+    - Autodelegação de mensagens: é quando o objeto envia mensagem para ele mesmo.
+
+    - Criação e destruição de objetos: é quando um objeto é criado, por exemplo, no caso de abertura de um formulário ou destruído, que é quando um objeto é removido da memória.
+
+>> Atividade - Dinâmica do sistema - Análise de sequência de mensagens <<
+
+
+>> Refinamento dos aspectos estáticos e estruturais do sistema <<
+
+- O refinamento dos aspectos estáticos do sistema tem como objetivo promover a passagem do modelo de classes de domínio para o modelo de classes de projetos (BEZERRA, 2006).
+
+- No caso, a divisão de responsabilidades pode ser encarada como um padrão de projeto com o objetivo de aumentar o reúso e diminuir acoplamento entre objetos de um sistema. Esse conceito é a base para o padrão de projeto Model-View-Controller (MVC), que será visto com maiores detalhes.
+
+- A definição das responsabilidades dos objetos no sistema é dado pelos estereótipos de classes de análise mostrados na figura abaixo.
+
+
+>> Aspectos estáticos e estruturais - Estereótipos de classes de análise <<
+
+- Entidade (<<entity>>) é uma classe passiva que contém informações geradas ou recebidas pelo sistema. Seus objetivos não iniciam as interações. Este objeto participa em diferentes relizações de casos de utilização.
+
+- Fronteira (<<boundary>>) é uma classe que se encontra na fronteira de um sistema, contudo, ainda dentro dele. Estes objetos fazem a interface de comunicação entre atores externos e objetos internos do sistema.
+
+- Controle (<<control>>) indica que a classe está na camada de controle de aplicação, que envolve a interpretação a aplicação das regras de negócios. Esta classe tem um comportamento específico para um determinado caos de utilização.
+
+
+>> Definição de outros aspectos da solução <<
+
+- A definição de outros aspectos da solução passa para um nível arquitetural do processo de passagem da fase de análise para a fase de projetos. Com o modelo de classes de projeto pronto, começamos a pensar como organizar essas classes da melhor forma.
+
+- Inicialmente é fazer a decomposição do sistema em subsistemas (ou componentes); esse é o processo de componetização do sistema ou do software.
+
+- Um componente de sistema é similar a uma peça para construir o sistema, uma peça que, independente do sistema, possa ser dada manutenção, ser substituída e ser feitas melhorias. Pode ser um sistema operacional, uma aplicação, uma estrutura de dados, um computador, um hardwarem regras de acesso a rede de computadores.
