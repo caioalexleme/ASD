@@ -1,0 +1,28 @@
+>> Projeto de dados e classes e projeto arquitetural <<
+
+- A unidade III se refere à fase de projeto dos dados, que tem o objetivo de definir um dicionário de dados, uma estrutura de informação necessária para a implementação de um sistema ou software.
+
+- O projeto de banco segue os princípios do projeto de sistemas orientados a objeto, assunto abordado na Unidade I, ou seja, o projeto do banco de dados é dividido em três fases: projeto conceitual, projeto lógico e projeto físico.
+
+- O modelo de dados relacional é um dos modelos mais utilizados em projetos de banco de dados, e, por isso a ênfase é dada à produção do modelo entidade e relacionamente (MER). Na Unidade II foram abordados os aspectos da entidade-relacionamento (E-R)
+
+
+>> Projetos de dados e classes <<
+
+- A fase de projeto de dados e classe tem o foco nas tarefas técnicas do projeto, tendo como base o modelo de classes de projeto e dos aspectos dinâmicos do projeto de objetos mapeados até aqui.
+
+- Segundo Pressman (2006), a fase de projetos de dados tem como objetivo a geração do modelo de dados e a transformação de classes e objetos conceituais em classes e objetos equivalentes em projeto.
+
+
+>> Introdução ao projeto de dados <<
+
+- O projeto de dados, ou modelagem de dados, tem como objetivo definir uma estrutura de informações necessárias para implementar o sistema de software (PRESSMAN, 2006).
+
+- Como foi visto, boa parte dessas atividades é feita pelo SGBD, que é o responsável por prover os mecanismos de acesso, gerenciamento e processamento das informações em um repositório de dados.
+
+- Nesta fase a ênfase à organização das informações é em representar um dicionário de dados que dê suporte à resolução do problema pelo sistema de software
+
+
+>> Processo do projeto de banco de dados <<
+
+- O processo de projeto de banco de dados pode ser subdividido 
