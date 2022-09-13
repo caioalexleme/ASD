@@ -14,3 +14,133 @@
 
 >> Tipos de estruturas organizacionais <<
 
+- Funcional
+
+- Projetizada
+
+- Matricial
+
+
+>> Estrutura organizacional funcional <<
+
+- Esse é o tipo de estrutura mais comum e mais antigo nas corporações, conhecido também como método tradicional de organização
+
+- É centrado em especializações e agrupado por função
+
+- Tem uma configuração herárquica, com relação de subordinação, em que um funcionário responde a outro acima dele, que responde a outro e assim por diante, até que se chegue à última instância
+
+- Nessa estrutura, cada departamento é administrado de forma independente de outro e com controle limitado
+
+- Os recursos humanos alocados em cada um dos departamentos possuem elementos comuns e experiências semelhantes
+
+
+>> Vantagens da estrutura organizacional funcional <<
+
+- Quando existem projetos, eles são planejados e implementados dentro da própria área
+
+- Membros da equipe se reportam ao gerente funcional
+
+- Organização funcional duradoura com centralização de recursos similares.
+
+- A definição de carreiras por especialização é muito clara
+
+
+>> Desvantagens da estrutura organizacional funcional <<
+
+- O gerente de projeto tem pouca ou nenhuma autoridade, principalmente em projetos multifuncionais
+
+- Os funcionários dão maior ênfase ao trabalho técnico de sua área do que aos projetos da organização
+
+- Não existem carreiras de gerente de projetos
+
+
+>> Estrutura organizacional projetizada <<
+
+- Nestra estrutura, o gerente de projetos tem grande autoridade, quase que absoluta, sendo, na maioria das situações, subordinado diretamente à direção
+
+- Organizações caracterizadas pelo uso dessa estrutura têm foco no próprio projeto, em vez de foco em especialidades de cada àrea funcional
+
+- Os recursos organizacionais são dedicados aos projetos e aos seus objetivos, respondendo diretamente ao gerente de projetos.
+
+- Nessa estrutura, as outras funções (recursos humanos, financeiro, contabilidade, entre outras) são enxergadas como apoio e, algumas vezes, respondem direto aos gerentes de projeto.
+
+- A popularização desta estrutura se dá devido a quatro razões principais: velocidade de resposta e orientação ao mercado; desenvolvimento crescente de novos bens, produtos e serviços; rápida expansão de novidades tecnológicas e determinação da alta direção, que não se sente confortável nas estruturas mais antigas.
+
+
+>> Vantagens da estrutura organizacional projetizada <<
+
+- Gerente de projetos dotado de poder decisório e com recursos sob sua gerência
+
+- Maior eficiência nos projetos
+
+- Lealdade de recursos de projeto ao gerente de projetos
+
+- Comunicação mais eficaz entre a equipe de projeto
+
+
+>> Desvantagens da estrutura organizacional projetizada <<
+
+- Ociosidade indesejada, porque os recursos podem não ter outro trabalho (projeto) quando o projeto acaba
+
+- Problemas com alocação e manutenção de recursos nas etapas finais do projeto
+
+- instalações, estruturas e funções duplicadas, porque cada projeto vai naturalmente exigindo seus próprios recursos e estruturas
+
+
+>> Estrutura organizacional matricial <<
+
+- É considerada uma estrutura híbrida, porque combina características da estrutura organizacional funcional e da estrutura organizacional projetizada
+
+- A estrutura hierárquica da corporação é mantida, ao mesmo tempo em que se mantêm técnicas de gerenciamento de projetos eficientes
+
+- As personagens do gerente de projetos e do gerente funcional coexistem na corporaçãoo com suas responsabilidades.
+
+- O gerente funcional responsabiliza-se por questões administrativas, alocação de funcionários para projetos e pelas áreas de apoio em geral.
+
+- O gerente de projeto responsabiliza-se pelo planejamento e execução do projeto.
+
+- A análise do desempenho dos recursos do projeto é conjuntamente executada pelos dois gerentes com equilíbrio de poder entre eles
+
+
+>> Categorias na estrutura organizacional matricial <<
+
+- Matricial fraca: os gerentes funcionais têm um pouco mais de poder que os gerentes de projeto, que são reduzidos a coordenadores de projeto, sendo responsáveis apenas pela sua execução.
+
+- Matricial forte: os gerentes de projéto têm um pouco mais de poder que os gerentes funcionais, conseguindo convencê-los das necessidades corriqueiras de um projeto.
+
+- Matricial balanceada: é aquela que se encontra numa posição intermediária, com o equilíbrio de poder dos gerentes de projeto e funcional
+
+>> Vantagens e desvantagens da estrutura organizacional matricial <<
+
+- As principais vantagens são:
+
+    - Maior controle por parte do gerente de projetos sobre um projeto
+    - melhor utilização de recursos dentro de uma organização.
+    - melhora na comunicação entre os membros das equipes
+
+- As principais desvantagens são:
+
+    - A existência de dois chefes para os recursos
+    - problemas na alocação de recursos, devido ao constante conflito entre os gerentes funcional e de projeto.
+
+
+>> Escritório de projetos <<
+
+- O escritórios de projetos é o departamento da organização responsável por gerenciar os projetos sob sua competência
+
+- É também conhecido como escritório de gerenciamos de projetos ou pela sua sigla em inglês, PMO, que significa Project Management Office
+
+- Seu uso é mais comum nas estruturas organizacionais projetizadas e matriciais
+
+
+>> Principais papéis do escritório de projetos <<
+
+- Determinas quais padrões, políticas e procedimentos serão utilizados no gerenciamento de projetos
+
+- Desenvolver e fornecer os documentos inerentes à gestão do projeto.
+
+- Fornecer ferramentas, suporte e treinamento aos gerentes e equipes de projeto
+
+- Responsabilizar-se por auditorias nos projetos da corporação
+
+- Responsabilizar-se pela salvaguarda dos documentos e registros dos projetos
