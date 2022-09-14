@@ -1,4 +1,131 @@
 
 >> Gerenciamento de serviços de TI <<
 
-- Gerenciamento de serviços de TI é o conjunto de processos
+- Gerenciamento de serviços de TI é o conjunto de processos especializados que associados às habilidades organanizacionais proporcionam o controle e administração dos serviços de TI.
+
+- O objetivo principal do gerenciamento de serviços de TI é efetuar a transformação de recursos de TI em serviços que agregam valor aos negócios de uma corporação.
+
+- Portanto, temos habilidades unidas a recursos que atendem às necessidades do ambiente organizacional em vista do atingir de suas metas, dentro dos custos e considerando os riscos associados.
+
+
+>> Modelos Frameworks de Gerenciamento de Serviços de TI <<
+
+- Information technology Infraestructure Library - ITIL®
+
+- Microsoft Operations Framework (MOF)
+
+- Capability Maturity Model Integration for Services (CMMI SVC)
+
+- Família das normas ISO 20000
+
+
+>> Modelo ITIL® <<
+
+- É um framework para gerenciamento de serviços de TI apresentado por meio de práticas contidas em um modelo, desenvolvido em 1980 no Reino Unido, pela Agência Central de Computadores e Comunicações como um método que objetivava o governo da infraestrutura de Tecnologia da Informação em departamentos e órgãos públicos do Reino Unido.
+
+- 1ª versão: apresentava aspectos importantes da provisão de serviçoes de TI com foco muito forte em infraestrutura, mais especificamente em planejamento e contingência.
+
+- 2ª versão: Surgiu em 2000, tendo como principais características a forte aderência ao moodelo PDCA e às suas características a forte aderência ao modelo PDCA e às sua práticas de melhoria contínua em processos.
+
+- 3ª versão: surgiu em 2007, e foi aprimorado em 2011 abordando uma visão completa dos processos do gerenciamento de serviços de TI na forma de um ciclo denominado ciclo de vida do serviço.
+
+- 4ª versão: surgiu em 2019, apresentando uma nova versão do framework.
+
+
+>> Características do ITIL® <<
+
+- Modelo não proprietário, que independe da plataforma de infraestrutura tecnológica.
+
+- Altamente flexível, fácil adoção e prescrito para qualquer porte de empresa.
+
+- Fornecedor de boas e melhores práticas no gerenciamento de serviços de TI.
+
+- Utilizado em milhares de empresas do mundo.
+
+- Contribui com a aderência aos requisitos da família de normas ISO 20000.
+
+
+>> ITIL® 4 <<
+
+- O ITIL® é a versão mais atualizada e alinhada aos modelos Lean e Ágil
+
+- Criou-se a ideia das quatro dimensões do gerenciamento de serviços e o Sistema de Valor de Serviços (SVS).
+
+    1 - Organizações e pessoas
+    2 - Informação e Tecnologia
+    3 - Parceiros e fornecedores
+    4 - Fluxos de valor e processos
+
+
+>> Introdução ao Sistema de Valor e Serviços <<
+
+- Conhecido pelo seu acrônimo SVS, é a grande novidade do ITIL® 4.
+
+- Ele é considerado o lastro das fundamentações teóricas do framework nesta nova versão.
+
+- Ele substituiu o ciclo de vida do serviço.
+
+
+>> Entrada e Saída do SVS <<
+
+- Oportunidades: opções e possibilidades que podem ser utilizadas para criar valor para o negócio. Exemplo: a descoberta de um sistema que poderia alavancar as vendas em formato eletrônico (via internet)
+
+- Demandas: expressam as necessidades e desejos das partes interessadas relacionadas a produtos e serviços já existentes que também criam valor para o negócio. Exemplo: a melhoria da interface de usuário de um sistema de informação para atender a uma necessidade específica da área financeira pode ser considerada uma demanda.
+
+- Valor: é o resultado das relações de serviço, que pode ser cocriado para qualquer parte interessada (acionistas, empregados, sociedade, dentre outros)
+
+
+>> Princípios orientadores do SVS <<
+
+- O primeiro componente do SVS é o conjunto de princípios orientadores.
+
+- Eles funcionam como recomendações que guiam as organizações nos contextos do gerenciamento de serviços de TI.
+
+- São chamados também de princípios guia e expressam as mensagens da ITIL® para uma boa gestão de serviços.
+
+- Os princípios orientadores são:
+
+    - Foco no valor.
+    - Comece onde você está
+    - Progredir iterativamente com feedback
+    - Colaborar e prover visibilidade
+    - Pensar e trabalhar holisticamente
+    - Manter de forma simples e práticas
+    - Otimizar e automatizar
+
+
+>> Governança <<
+
+- O segundo componente do SVS é a governança, que tem o objetivo de avaliar, dirigir e monitorar todo o contexto de gestão de serviços de TI da organização.
+
+- Isto ocorre a partir dos princípios orientadores que funcionam comonorte para os orgãos de governança de TI da organização.
+
+- O componente governança apresenta a importância do alinhamento estratégico entre a TI e o negócio, de forma que haja uma parceria entre a gestão de recursos tecnológicos e a gestão empresarial de negócios.
+
+
+>> Práticas <<
+
+- O terceiro componente do SVS são as práticas, que substituem a ideia que tinhamos de processos nas versões anteriores da ITIL®
+
+- Por exemplo, antes mencionávamos processo de gerenciamento do risco, agora chamamos de prática de gerenciamento de riscos.
+
+- As práticas representam um conjunto de recursos organizacionais projetado para desempenhar o trabalho e atender a um objetivo
+
+- Elas podem ser classificadas em práticas de gerenciamento, práticas de gerenciamento de serviços e práticas de gerenciamento técnico.
+
+
+>> Melhora contínua <<
+
+- O próximo componente do SVS é a melhoria contínua, considerada item fundamental em praticamente todos os frameworks e modelos de gestão.
+
+- A ideia deste componente no SVS é fornecer um conjunto de recomendações de alto nível para melhorar a cadeia de valor do serviço.
+
+
+>> Cadeia de valor do serviço <<
+
+- O último componente do SVS e não menos importante é a Cadeia de Valor do Serviço, conhecido pelo seu acrônimo em inglês SVC, que significa Service Value Chain.
+
+- A cadeia de valor do serviço é o componente central do SVS, expresso como o conjunto de atividades que atendem às demandas para a criação de valor para o negócio.
+
+- A cadeia de valor é composta por seis atividades-chave: Planejar (Plan); Engajar (Engage); Desenho e Transição (Design and Transition); Entregar e Suportar (Deliver and Support); Adquirir/Construir (Obtain/Construir); Melhorar (Improve).
+
