@@ -1,0 +1,108 @@
+
+>> Governança de TI <<
+
+- É responsabilidade da alta direção da empresa na definição de papéis, responsabilidades e estruturas para a àrea de TI, de forma a sustentas e estender as estratégias organizacionais (ITGI, 2007).
+
+- É um sistema responsável pela direção e pelocontrole da área de TI na perspectiva presente e futura (ABNT, 2018).
+
+- É a especificação de direitos de decisão e de boas práticas que estimulem comportamentos desejáveis na utilização da TI
+
+>> COBIT® 2019 <<
+
+O COBIT® 2019 está situado em um contexto de governança corporativa de informação e tecnologia (Enterprise Governance of IT - EGIT) que habilita o alinhamento entre TI e negócio (Business/IT Alignament)
+
+- Por meio de uma mesma linguagem e objetivos interligados, o alinhamento criado entre TI e negócio coopera para a criação de valor (Value Creation) para as partes interessadas.
+
+
+>> Entradas do COBIT® 2019 <<
+
+- A primeira entrada é a versão anterior (COBIT® 5) que traz uma certa proximidade entre as duas versões.
+
+- A segunda entrada é formada por frameworks/padrões, além das regulamentações que influenciam na governança da informação e da tecnologia.
+
+- A última entrada é a contribuição da comunidade de profisionais da ISACA e do mercado de governança de TI em geral, que sempre ajuda a criar melhorias para o modelo.
+
+
+>> Componente internos do COBIT® 2019 <<
+
+- O COBIT Core é formado pelos 40 objetivos de governança e gestão (Governance Managment Objectives), divididos nos cinco domínios, sendo um de governança e quatro de gestão.
+
+- Ao lado do COBIT Core encontramos os fatores de desenho (Design Factors) e as Áreas de Foco (Focus Area), que em conjunto com os  objetivos de governança e gestão contribuem para a customização de um sistema de governança corporativa para informação e tecnologia.
+
+
+>> Publicações do COBIT® 2019 <<
+
+- Introduction And Methodology - apresenta uma introdução geral do modelo, contendo todos os detalhes sobre o COBIT® 2019 e as definições de governança.
+
+- Governance And Management Objectives - Descreve os 40 objetivos de governança e gestão, que substituíram os processos da versão anterior (COBIT® 5).
+
+- Design Guide - apresenta a forma de desenhar uma solução customizada de governança de TI baseada em COBIT® 2019
+
+- Imprementation Guide - apresenta um guia para implementar o COBIT® 2019 nas organizações
+
+
+>> Princípios do COBIT® 2019 <<
+
+- Princípios do sistema de governança
+
+    1- Prover valor para os Stakeholders
+    2- Abordagem holística
+    3- Sistema de governança dinâmico
+    4- Distinguir governança de gestão
+    5- Sistema de governança fim a fim
+
+- Princípios do framework de governança
+
+    1- Baseado em um modelo conceitual
+    2- Framework aberto e flexível
+    3- Alinha aos principais padrões de mercado
+
+
+>> Componentes do sistema de governança <<
+
+- O sistema de governança é formado por componentes que de forma individual ou coletiva cooperam para o bom funcionamento do governo da informação e da tecnologia em uma empresa e atendem aos objetivos de governança e gestão.
+
+- Os componentes do sistema de governança são: processos; estruturas organizacionais; princípios, políticas e procedimentos; informação, cultura petica e comportamentos; pessoas, habilidades e competências; serviços, infraestrutura e aplicações.
+
+
+>> Áreas de foco <<
+
+- No COBIT® 2019, segundo ISACA (2019a, p.22:)
+
+- Uma área de foco descreve um determinado tópico de governança, domínio ou problema que pode ser tratado por uma coleção e objetivos de governança e gestão e seus componentes. Exemplos de áreas de foco incluem: pequenas e médias empresas, cibersegurança, transformação digital, computação em nuvem, privacidade e DevOps (ISACA, 2019, p.22, tradução do autor).
+
+
+>> Fatores de desenho <<
+
+- O COBIT® 2019 estabelece os fatores de desenho (design factors) como uma ferramental que adequa o sistema de governança de forma customizada a qualquer empresa ou contexto.
+
+- Estas adequações e adaptações são fundamentais para a criação de valor a partir da informação e da tecnologia.
+
+
+>> Cascata de Objetivos do COBIT® 2019 <<
+
+- A ideia da cascata de objetivos é, a partir das necessidades e direcionamentos das partes interessadas (Stakeholder, Drivers and Needs), apresentar objetivos corporativos (Enterprise Goals) e desdobrá-los em objetivos alinhados (Alignment Goals).
+
+- A partir desses objetivos alinhados, estabelecer objetivos de governança e gestão (Governance and Management Objectives) do COBIT® 2019.
+
+
+>> Gerenciamento do Desempenho do COBIT® 2019 <<
+
+- O gerenciamento do desempenho do COBIT® 2019 é conhecido como COBIT® Performance Management (CPM).
+
+- Na sua versão de 2019 volta a ter o Capability Maturity Model Integration (CMMI) como inspiração, diferentemente da versão 5, que se baseava na norma ISO/IEC 15504 para avaliar a capacidade dos processos.
+
+- A ideia do CPM é aferir o desempenho de todos os componentes de um sistema de governança.
+
+
+>> Domínios de Governança e Gestão <<
+
+- Avaliar, Dirigir e Monitorar (Evaluate, Direct and Monitor - EDM) - é o único domínio de governança e cinco objetivos de governança que auxiliam na avaliação das estratégias, direção da TI e monitoramento das escolhas e ações estratégicas.
+
+- Alinhar, Planejar e Organizar (Align, Plan and Organize - APO) - apresenta 14 objetivos de gestão voltados para o planejamentom organização e alinhamento das atividades de apoio relacionadas à Informação e Tecnologia.
+
+- Contruir, Adquirir e Implementar (Build, Acquire and implement - BAI) - apresenta 11 objetivos de gestão voltados para a construção, aquisição e implementação de soluções relacionadas à TI.
+
+- Entrega, Serviço e Suporte (Deliver, Service and Support - DSS) - apresenta 6 objetivos de gestão voltados para entrega e suporte de serviços em TI.
+
+- Monitorar, Avaliar e Analisar (Monitor, Evaluate and Assess - MEA) - apresenta 4 objetivos de gestão voltados para o monitoramento de desempenho e da conformidade de TI.
