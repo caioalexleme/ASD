@@ -1,0 +1,59 @@
+
+>> Guia PMBOK® - Conceito e histórico <<
+
+- É uma referência para o gerenciamento de projetos nas organizações, elaborado pelo PMI, e por diversos profissionais e especialistas filiados:
+
+- 1ª edição (1996): fornecendo um conjunto de orientações para o gerenciamento de projetos;
+
+- 2ª edição (2000): redirecionando o modelo de boas práticas para a atenção às partes interessadas em um projeto;
+
+- 3ª edição: (2004): grande penetração no mercado, trazendo a ideia de atendimento aos requisitos e de estruturação de práticas aplicáveis;
+
+- 4ª edição (2009): o modelo começou a ser bastante utilizado de forma preditivam principalmente, na área de tecnologia da informação,  mas com forte oposição dos métodos ágeis;
+
+- 5ª edição (2013): oferecendo-se, ainda, como um contraponto aos métodos ágeis que começavam a ganhar mais força;
+
+- 6ª edição (2017): considerada a primeira versão a incorporar os conteúdos relacionados aos métodos ágeis, encerrando, de vez, o antagonismo observado durante anos entre os métodos ágeis e os métodos mais preditivos.
+
+>> PMBOK® - Sexta edição (introdução) <<
+
+- A sexta edição do Guia PMBOK® é, ainda, fortemente baseada em processos e deixa um legado bem preditivo na utilização das boas práticas para a entrega de valor.
+
+- Esta não é a versão atual do gui PMBOK®
+
+- Esta não é a versão atual do guia PMBOK®.
+
+- Todo o modelo desta edição está fundamentado nas etaoas do ciclo de vida do gerenciamento de projetos e nas áreas de conhecimento.
+
+- O ciclo de vida do gerenciamento de projeto é, aqui, apresentado como um conjunto de processos que necessitam ser seguidos para a boa administração de projetos.
+
+- O ciclo de vida de gerenciamento de projetos é diferente do ciclo de vida de um projeto.
+
+
+>> PMBOK® - Sexta edição (Grupos de Processos) <<
+
+- Grupo de processos de iniciação: processos de definição de um novo projeto ou a nova fase do projeto, incluindo as aprovações para o compromentimento dos recursos organizacionais necessários ao início de um projeto ou de uma fase específica.
+
+- Grupo de processos de planejamento: proceessos que estabelecem o escopo total do esforço, determinando um planejamento, bem como revisitando e refinando as metas e os objetivos.
+
+- Grupo de processos de execução: é composto de processos que concretizam e executam os planos de projeto.
+
+- Grupo de processos de monitoramento e controle: efetua as avaliações de desempenho e as analisa, visando regular, rever e controlar o progresso do desempenho do projeto.
+
+- Grupo de processos de encerramento: tem a responsabilidade de terminar formalmente e ordenadamente, as atividades de uma fase ou projeto propriamente dito.
+
+>> PMBOK® - Sexta edição (Área de conhecimento: gerenciamento da integração) << 
+
+- Responsável pela identificação, definição, combinação e coordenação das mais diversas atividades em gerenciamento de projetos:
+
+    - Processo de Iniciação: desenvolver o Termo de Abertura do projeto;
+
+    - Processo de Planejamento: criar o plano de gerenciamento do projeto;
+
+    - Processos de Execução: orientar e gerenciar o trabalho do projeto;
+
+    - Processo de Execução: orientar e gerenciar o trabalho do projeto
+
+    - Processo de Execução: gerenciar o conhecimento do projeto.
+
+    - Processos de Monitoria e Controle: monitorar e controlar 
