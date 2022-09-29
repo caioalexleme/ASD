@@ -56,4 +56,22 @@
 
     - Processo de Execução: gerenciar o conhecimento do projeto.
 
-    - Processos de Monitoria e Controle: monitorar e controlar 
+    - Processo de Monitoria e Controle: monitorar e controlar o trabalho do projeto;
+
+    - Processo de monitoria e controle: realizar o controle integrado de mudanças.
+
+    - Processo de Encerramento: encerrar o projeto ou uma fase
+
+
+>> PMBOK® Sexta edição (Área de conhecimento: gerenciamento do escopo) <<
+
+- Responsável pela definição do trabalho a ser executado em um projeto:
+
+    - Processo de Planejamento: planejar o gerenciamento do escopo, coletar os requisitos, definir o escopo, criar a EAP;
+
+    - Processo de Monitoria e Controle: validar o escopo, controlar o escopo
+
+
+>> PMBOK® - Sexta edição (Área de conhecimento: gerenciamento do cronograma) <<
+
+- Responsável pela entrega do projeto dentro do prazo, além de proporcionar uma visão das atividades do projeto
