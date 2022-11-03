@@ -1,0 +1,17 @@
+C:\Users\caioa\Documents\meupc\ASD\3Semestre\POOII\aulaTeste\bin\Debug\net6.0-windows\aulaTeste.exe
+C:\Users\caioa\Documents\meupc\ASD\3Semestre\POOII\aulaTeste\bin\Debug\net6.0-windows\aulaTeste.deps.json
+C:\Users\caioa\Documents\meupc\ASD\3Semestre\POOII\aulaTeste\bin\Debug\net6.0-windows\aulaTeste.runtimeconfig.json
+C:\Users\caioa\Documents\meupc\ASD\3Semestre\POOII\aulaTeste\bin\Debug\net6.0-windows\aulaTeste.dll
+C:\Users\caioa\Documents\meupc\ASD\3Semestre\POOII\aulaTeste\bin\Debug\net6.0-windows\aulaTeste.pdb
+C:\Users\caioa\Documents\meupc\ASD\3Semestre\POOII\aulaTeste\obj\Debug\net6.0-windows\aulaTeste.csproj.AssemblyReference.cache
+C:\Users\caioa\Documents\meupc\ASD\3Semestre\POOII\aulaTeste\obj\Debug\net6.0-windows\aulaTeste.frmAulaTeste.resources
+C:\Users\caioa\Documents\meupc\ASD\3Semestre\POOII\aulaTeste\obj\Debug\net6.0-windows\aulaTeste.csproj.GenerateResource.cache
+C:\Users\caioa\Documents\meupc\ASD\3Semestre\POOII\aulaTeste\obj\Debug\net6.0-windows\aulaTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caioa\Documents\meupc\ASD\3Semestre\POOII\aulaTeste\obj\Debug\net6.0-windows\aulaTeste.AssemblyInfoInputs.cache
+C:\Users\caioa\Documents\meupc\ASD\3Semestre\POOII\aulaTeste\obj\Debug\net6.0-windows\aulaTeste.AssemblyInfo.cs
+C:\Users\caioa\Documents\meupc\ASD\3Semestre\POOII\aulaTeste\obj\Debug\net6.0-windows\aulaTeste.csproj.CoreCompileInputs.cache
+C:\Users\caioa\Documents\meupc\ASD\3Semestre\POOII\aulaTeste\obj\Debug\net6.0-windows\aulaTeste.dll
+C:\Users\caioa\Documents\meupc\ASD\3Semestre\POOII\aulaTeste\obj\Debug\net6.0-windows\refint\aulaTeste.dll
+C:\Users\caioa\Documents\meupc\ASD\3Semestre\POOII\aulaTeste\obj\Debug\net6.0-windows\aulaTeste.pdb
+C:\Users\caioa\Documents\meupc\ASD\3Semestre\POOII\aulaTeste\obj\Debug\net6.0-windows\aulaTeste.genruntimeconfig.cache
+C:\Users\caioa\Documents\meupc\ASD\3Semestre\POOII\aulaTeste\obj\Debug\net6.0-windows\ref\aulaTeste.dll
