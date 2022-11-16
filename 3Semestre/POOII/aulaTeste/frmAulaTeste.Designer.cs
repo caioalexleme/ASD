@@ -71,6 +71,7 @@
             this.btnCalcular.TabIndex = 4;
             this.btnCalcular.Text = "Calcular";
             this.btnCalcular.UseVisualStyleBackColor = true;
+            this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
             // 
             // lblNP1
             // 
@@ -147,10 +148,12 @@
             // 
             // txtResultado
             // 
+            this.txtResultado.Enabled = false;
             this.txtResultado.Location = new System.Drawing.Point(123, 195);
             this.txtResultado.Name = "txtResultado";
             this.txtResultado.Size = new System.Drawing.Size(100, 23);
             this.txtResultado.TabIndex = 14;
+            this.txtResultado.TextChanged += new System.EventHandler(this.txtResultado_TextChanged);
             // 
             // frmAulaTeste
             // 
