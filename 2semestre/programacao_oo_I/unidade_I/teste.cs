@@ -4,7 +4,7 @@ namespace exemploConsoleApp
 {
     class Program{
         static void Main(string[] args){
-            Console.WriteLine("Hello Word!");
+            Console.WriteLine("Meu primeiro código em C Sharp");
         }
     }
 }
