@@ -1,0 +1,64 @@
+
+>> Nivelamento << 
+
+- Sistema Operacional
+
+- O sistema operacional é a parte lógica que controla todo o hardware, ou seja, mesmo que estejamos usando um programa de computador com propósito de navegação na internet, de envio e recebimentos de e-mails, editores de texto e imagem ou qualquer outra aplicação (software) na realidade estes estão se comunicando com o sistema operacional e cabe ao sistema operacional executar as tarefas necessárias para uso dos componentes físicos do computador, como memória, disco, controladores de vídeo, rede etc.
+
+
+>> Abstração <<
+
+- Cada componente físico de um computador possui características intrínsecas para atender ao seu propósito.
+
+- Os sistemas operacionais típicos interagem servindo de conexão entre o hardware e os aplicativos.
+
+
+>> Gerência <<
+
+- Os programas, por meio do sistema operaciona, usam o hardware para atigir seus objetivos: gravar, apagar, acessar e armazenar dados, imprimir documentos, navegar na internet, tocar música etc.
+
+- Quando dois ou mais aplicativos precisam concorrentemente e simultaneamente acessar recursos de hardware, então podem surgir conflitos.
+
+- Cabe ao sistema operacional baseado nas políticas de sua estrutura gerenciar o uso dos recursos de hardware e administrar disputas e conflitos.
+
+
+>> História dos Sistemas Operacionais <<
+
+- O inglês Charles Babbage projetou o primeiro computador de uso geral.
+
+- Em seu projeto, Charles vislumbrava partes como rodas, engrenagens e correis de alta precisão que não eram compatíveis com a tecnologia disponível em sua época, portanto a máquina nunca foi construída.
+
+
+>> Primeira geração de computadores (1945-1955) - Válvulas
+
+- Na universidade do Estado de Lowa no perído de 1937 a 1942, o professor John Atanasoff (1903-1955) e seu então aluno Clifford Edward Berry (1918-1963) criaram o primeiro computador digital eletrônico da história. Eles são considerados os pais dos computadores modernos.
+
+- John Willian Mauchly (1907-19080) e seu aluno John Presper Eckert (1919-1995), em parceria com o governo dos Estados Unidos, construíram na Universidade da Pensilvânia, o primeiro computador eletrônico, conhecido com ENIAC (Eletronic Number Integrator And Computer).
+
+- Possuía 17 mil válvulas, 10 mil capacitores, 70 mil resistores, pesava 30 toneladas, consumia 140 quilowatts e era capas de executar 5 mil adições por segundo.
+
+- Seu painel de programação continha 6 mil conectores.
+
+- É considerado o primeiro computador digital eletrônico.
+
+- Foi desenvolvido por J. Presper Eckert e John Mauchly na universidade da Pensilvânia.
+
+- Realizou cálculos balísticos e foi utilizado no projeto da bomba de hidrogênio.
+
+- Principais características:
+
+    - Válvulas a vácuo.
+    - Grandes.
+    - Lentos.
+    - Cada computador era programada para uma tarefa específica e tinha uma linguagem binária diferente (código máquina).
+    - Utilizava tambores magnéticos para armazenamento de dados.
+
+- Na época que essas máquinas estavam em plena produção um mesmo grupo de pofissionais projetava, construía, programava, operava e realizava a manutenção de cada equipamento.
+
+- Nesta geração de equipamentos, não existia linguagem de programação nem sistema operacional.
+
+- O programador reservava antecipadamento o tempo de máquina.
+
+- O programador encaminhava-se até a sala da máquina, inseria um painel de programação no computador.
+
+- Aguardava horas monitorando e torcento para que nenhuma das milhares de válvulas queimasse durante a execução.
