@@ -1,0 +1,33 @@
+
+>> Introdução <<
+
+Como um computador pode processar diferentes tarefas simultâneamente
+
+Como os programas de computador, sendo executados numa mesma máquina, podem obter os recursos necessários para suas tarefas e não causar conflitos nem mesmo apresentação do resultado do programa A na tela do programa B por equívoco?
+
+Como usuários podem acessar computadores remotos e compartilhar informações de forma segura?
+
+Como os diferentes tipos de sistemas podem trocar dados via rede de forma segura e sem conflitos por causa de compatibilidade?
+
+
+>> Precursores dos computadores <<
+
+- São considerados precursores dos computadores todos os instrumentos ou máquinas que contribuíram com ideias para a criação dos mesmos.
+
+- Dentre eles, o surgimento de uma máquina programável foi um grande marco na história dos computadores.
+
+- O ábaco foi um dos primeiros instrumentos desenvolvidos para auxiliar os humanos na realização de cálculos. Muitos atribuem sua criação à China, mas existem evidências deles na Babilônia no ano 300 a.C.
+
+
+>> Precursores dos computadores: Ábacos <<
+
+- A ideia básica no ábaco é considerar as contas (bolinhas) contidas na parte inferior, chamada de chão do Ábaco, com valor unitário e cada conta contida na parte superior, chamada de céu do Ábaco, com valor de cinco unidades.
+
+- Cada valor unitário tem representação diferente dependendo da coluna em que se encontra, logo uma unidade na primeira coluna tem o valor 1 em nosso sistema numérico, já uma unidade na segunda coluna tem valor 10.
+
+
+>> Precursores dos computadores: Pascaline <<
+
+As rodas dentadas de Pascal (Pascaline)
+
+- Em 1642, o francês Blaise Pascal, aos 19 anos de idade, foi o primeiro a inventar um dispositivo 
