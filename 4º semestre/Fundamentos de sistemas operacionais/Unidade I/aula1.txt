@@ -1,0 +1,72 @@
+
+>> Introdução <<
+
+Como um computador pode processar diferentes tarefas simultâneamente
+
+Como os programas de computador, sendo executados numa mesma máquina, podem obter os recursos necessários para suas tarefas e não causar conflitos nem mesmo apresentação do resultado do programa A na tela do programa B por equívoco?
+
+Como usuários podem acessar computadores remotos e compartilhar informações de forma segura?
+
+Como os diferentes tipos de sistemas podem trocar dados via rede de forma segura e sem conflitos por causa de compatibilidade?
+
+
+>> Precursores dos computadores <<
+
+- São considerados precursores dos computadores todos os instrumentos ou máquinas que contribuíram com ideias para a criação dos mesmos.
+
+- Dentre eles, o surgimento de uma máquina programável foi um grande marco na história dos computadores.
+
+- O ábaco foi um dos primeiros instrumentos desenvolvidos para auxiliar os humanos na realização de cálculos. Muitos atribuem sua criação à China, mas existem evidências deles na Babilônia no ano 300 a.C.
+
+
+>> Precursores dos computadores: Ábacos <<
+
+- A ideia básica no ábaco é considerar as contas (bolinhas) contidas na parte inferior, chamada de chão do Ábaco, com valor unitário e cada conta contida na parte superior, chamada de céu do Ábaco, com valor de cinco unidades.
+
+- Cada valor unitário tem representação diferente dependendo da coluna em que se encontra, logo uma unidade na primeira coluna tem o valor 1 em nosso sistema numérico, já uma unidade na segunda coluna tem valor 10.
+
+
+>> Precursores dos computadores: Pascaline <<
+
+As rodas dentadas de Pascal (Pascaline)
+
+- Em 1642, o francês Blaise Pascal, aos 19 anos de idade, foi o primeiro a inventar um dispositivo mecânico para realização de cálculos.
+
+- O dispositivo é conhecido como as Rodas dentadas de Pascal.
+
+- Pascal era filho de um cobrador de impostos e auxiliava o pai na realização de cálculos utilizando um instrumento similar ao ábaco. Mas segundo ele, o trabalho era muito entediante, o que levou a elaborar um dispositivo para realização de somas e subtração.
+
+As rodas dentadas de Pascal (Pascaline) :
+
+- A máquina de Pascal, a Pascaline, era uma caixa com rodas e engrenagens da qual ele construiu mais de cinquenta versões ao longo de uma década.
+
+- O operador introduzia os algarismos a serem somados "discando-os" numa série de rodas dentadas, com algarismos de zero a nove impressos, de modo que os números a serem somados ficassem expostos num mostrador.
+
+- Cada roda representava uma determinada coluna decimal - unidades, dezenas, centenas, e assim por diante.
+
+- Uma roda ao complementar um giro, avançada em um dígito a roda à sua esquerda, de ordem decimal mais alta.
+
+- A máquina de somar de Blaise Pascal adiciona ou subtrai quando as rodas dentadas se engrenam, ao serem giradas.
+
+- Um giro leva um total superior a 9 para a coluna à esquerda. O resultado aparece no mostrador, os números da extrema direita para a adição e os da direita para a subtração.
+
+
+>> Nivelamento <<
+
+- Durante o processo de transformação do produto bruto até a saída e entrega do produto final exstem componentes físicos e lógicos trabalhando nessa produção.
+
+- Os componentes físicos no nosso mundo computacional são conhecidos como hardware e a parte lógica, como software.
+
+- Estes e outros diversos termos e nomes utilizados são palavras de origem inglesa.
+
+- Hardware
+
+    O hardware de um computador pode incluir: 
+    a) o computador em si;
+    b) os discos e a unidade de disco;
+    c) Impressora
+    d) Mouse etc.
+
+- Software
+
+    - O software corresponde a qualquer programa ou grupo de programas que instrui o hardware sobra a maneira como ele deve executar uma tarefa,unclusive sistemas operacionais, processadores de texto e programas de aplicação.
