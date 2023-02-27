@@ -1,0 +1,45 @@
+
+>> Segunda geração de computadores (1955-1965) - Transistores e sistemas em lote (batch) <<
+
+- Em meados dos anos de 1950, foram introduzidos os transistores no mercado computacional, permitindo assim uma verdadeira revolução, elevando a confiabilidade em nível desejado para que pudessem ser fabricados e comercializados.
+
+- Neste período também houve a criação da organização estruturada por funções em que havia separação entre projetista, fabricantes, programadores e técnicos de manutenção.
+
+- Esses computadores denominados computadores de grande porte (mainframes) eram instalados em salas especialmente planejadas e operados por equipes de profissionais altamente capacitados para a época.
+
+- Objetivando a redução do tempo desperdiçado durante o processo de leitura dos cartões, neste período foi adotado o sistema em lote (batch), que consiste em usar um computador de menor porte, com o IBM 1401 que era excelente para ler cartões, copiar fitas e imprimir saídas, mas não tão eficiente em cálculos numéricos que eram executados pelos IBM 7094.
+
+- Principais características:
+
+    - Transistores
+    - 1/200 do tamanho das válvulas
+    - Consumo de menor de 1/100 da energia de uma válvula.
+    - Redução do tamanho das máquinas.
+    - Processamento ainda era lento, mas já na ordem de milissegundos.
+
+- IBM 7094 (versão de maior sucesso dessa segunda geração) pesava apenas 890Kg. Vendeu mais de 10 mil unidades
+
+
+>> Terceira geração de computadores (1965-1980) CIs e multiprogramação <<
+
+- Em 1964, a IBM lançou a linha de equipamentos da série IBM 360 que foi a primeira linha de computadores a usar circuitos integrados (CIs) em pequena escala, proporcionando melhor custo-benefício em comparação à geração de máquinas construídas com transistores.
+
+- Para atender à linha de equipamentos da terceira geração, o sistema operacional OS/360 foi lançado, introduzindo várias técnicas fundamentais que até então eram ausentes.
+
+- Possivelmente, a técnica de suporte à multiprogramação foi a mais significativa, ou seja, enquanto a máquina 7064 com sistema operacional FMS (Fortran Monitor System) ou IBSys estava lendo dispositivos de E/S com as fitas magnéticas, ela não processava mais nada, deixando assim a CPU ociosa.
+
+- Nos equipamentos da linha 360 rodando o OS/360, esta deficiência foi resolvida repartindo a memória em partes e alocado-as para tarefas. Enquanto uma tarefa estivesse esperando por uma operação de E/S (entrada e saída) terminar a outra tarefa, poderia usar a CPU.
+
+Principais características
+
+    - Introdução dos circuitos integrados.
+    - Grande contribuição no processo de miniaturização.
+    - Início da produção de minicomputadores.
+    - Sistema Operacional (orientado à arquitetura).
+    - Tempo compartilhado.
+    - Programação em assembly.
+    - Criação dos primeiros softwares.
+    - Escada de integração:
+        - SSI: Short Scale Integration
+        - MSI: Medium Scale integration.
+        - LSI: Large Scale Integration.
