@@ -43,3 +43,6 @@ Principais características
         - SSI: Short Scale Integration
         - MSI: Medium Scale integration.
         - LSI: Large Scale Integration.
+
+- No final da terceira geração, a IBM, que até então liderava o mercado de computadores, pasou a perder espaço quando concorrentes passaram a vender periféricos mais baratos e compatíveis com sua arquitetura. Os primeiros computadores pessoais começaram a surgir.
+
