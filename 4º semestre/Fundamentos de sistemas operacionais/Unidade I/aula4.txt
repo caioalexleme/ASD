@@ -1,1 +1,30 @@
 
+>> Quarta geração de computadores (1980 - atualmente) - Computadores pessoais <<
+
+- O início da quarta geração teve como marco o desenvolvimento dos circuitos integrados contendo milhares de transistores em alguns centímentos quadrados de silício, dando origem à era dos computadores pessoais.
+
+- Os computadores eram mais confiáveis, mais rápidos, menores e com maior capacidade de armazenamento. Esta geração é marcada pela venda de computadores pessoais.
+
+Principais características:
+
+    - Introdução dos microprocessadores.
+    - Desenvolvimento dos computadores.
+    - Pessoais (Personal Computer ou PC).
+
+Escala de integração:
+
+    - VLSI: Very Large Scale Integration.
+
+- Esta geração foi marcada pelo surgimento dos processadores, os sistemas operacionais como MS-DOS, UNIX, e Macintosh, linguagens de programação orientadas a objetos como o C++ e o smalltalk.
+
+
+- Impressores matriciais, e os teclados como os layouts atuais também foram criados nesta época.
+
+
+>> Conclusão <<
+
+- Ao longo da história da computação, máquinas totalmente mecânicas foram, aos poucos, sendo substituídas por equipamentos que mesmo os mais otimistas dos cientistas, da época dos primeiros computadores do mundo, jamais poderiam acreditar ou afirmar que seria possível.
+
+- Para a computação atual ter se tornado realidade,  muitas quebras de paradigmas e diversas transformações no hardware, bem como no software, foram necessárias.
+
+- A pluralidade dos equipamentos foi durante muitos anos um grande benefício para o modelo que temos atualmente, que ainda não é o definitivo, tão pouco o mais eficiente.

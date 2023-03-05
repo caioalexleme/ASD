@@ -1,0 +1,53 @@
+
+
+>> Tipos de Sistemas Operacionais <<
+
+- Podemos classisficar os sistemas operacionais com base referencial em diversos parâmetros e perspecticas, velocidade, susporte a recursos específicos, acesso à rede etc.
+
+- Nesta unidade são apresentados alguns tipos de sistemas operacionais típicos (muitos sistemas operacionais estão enquadrados em mais de uma das categorias apresentadas).
+
+
+>> TIpos de Sistemas Operacionais: Batch (de lote) <<
+
+- Os sistemas operacionais mais antigos, principalmente os desenvolvidos para a a segunda geração de computadores, trabalhavam "por lote", ou seja, todos os programas a serem executados eram colocados numa fila.
+
+- O processador recebia um programa após o outro, para ser processado em sequência, o que permitia um alto grau de utilização do sistema.
+
+- Atualmente, o termo "em lote" é usado para designar um conjunto de comandos que deve ser executado em sequência.
+
+
+>> Tipos de Sistemas Operacionais: De Rede <<
+
+-  Os sistemas operacionais de rede devem suportar operações em rede, ou seja, a capacidade de oferecer às aplicações locais recursos que estejam localizados em outros computadores da rede LAN (Local Area Network)  ou WAN (Wide Area Network), como serviços de autenticação remota, acesso a arquivos, acesso a bancoo de dados, impressoras etc.
+
+
+>> Tipos de Sistemas Operacionais: Distribuído <<
+
+- No sistema operacional distribuído, os recursos utilizados por cada usuário em cada máquina estão disponíveis de forma transparente aos usuários.
+
+- Ao acessar uma aplicação, o usuário interage com sua interface, entretanto, não sabe onde está executando ou armazenando seus arquivos, sendo essa decisão de total responsabilidade do sistema e totalmente transparente para o usuário do mesmo.
+
+
+>> Tipos de Sistemas Operacionais: Multiusuário e multitarefas <<
+
+- Chamamos de processo um programa que está em execução. Um programa em execução requer recursos, principalmente da CPU, e concorre com outros processos para ser realizado. Portanto, cabe ao sistema operacional, quando multiusuário e multitarefas, gerenciar os recursos disponíveis a todos os processos.
+
+- Um sistema operacinal multiusuário deve suportar a autenticação e a autorização de cada usuário quando necessário o uso de algum recuros contido no sistema (arquivos, processos, conexões de rede) e garantir regras para o controle de acesso, objetivando impedir o uso desses recursos por usuários não autorizados.
+
+- Grande parte dos sistemas operacionais atuais é multiusuário.
+
+
+>> Tipos de Sistemas Operacionais: Desktop/Computador pessoal <<
+
+- Um sistema operacional Desktop é projetado para atender ao usuário doméstico e/ou corporativos que necessite realizar atividades triviais, como editar textos, elaborar planilhas e gráficos, navegar na internet etc.
+
+- Suas principais características são a interface gráfica, o suporte à interatividades e operação da rede.
+
+
+>> Tipos de Sistemas Operacionais: Servidor <<
+
+- O sistema operacional classificado como servidor possibilita a gestão eficiente de grandes quantidades de recursos físicos como: disco, memória e processadores, gerindo as prioridades e limites sobre o uso de recursos.
+
+- Tipicamente, um sistema operacional servidor também tem suporte à rede e multiusuário.
+
+- Alguns exemplos de sistemas servidores são: Solaris, AIX, Linux e Windows Server 2008.
