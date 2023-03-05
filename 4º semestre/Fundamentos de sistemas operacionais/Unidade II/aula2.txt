@@ -1,0 +1,77 @@
+
+>> Tipos de Sistemas Operacionais: Embarcados <<
+
+- Um sistema operacional embarcado ou embutido é construído  para operar sobre um hardware com poucos recursos de processamento e armazenamento.
+
+- Exemplos típicos são aparelhos de TV, reprodutores de MP3, aparelhos de DVD etc. Um ponto positivo desses equipamentos que dependem deste tipos de sistema é que dificilmente será possível instalar algum software que não seja extremamente compatível, não permitindo o uso de software não confiável.
+
+Exemplos de sistemas embarcado: QNX e VxWorks.
+
+
+>> Tipos de sistema operacional: Tempo real <<
+
+- Esse sistema operacional é caracterizado por tempo como parâmetro principal.
+
+- Outras duas subdivisões são: sistemas de tempo real críticos, voltados tipicamente ao controle de processos industriais e militares, e os sistemas se tempo real não críticos, como os aplicados em sistemas de áudio digital ou multimídia.
+
+- A grande diferença entre essas duas subcategorias é que, no caso de sistemas que dependem do tempo real crítico, eles não podem ter degradação de desempenho (como é o caso dos sistemas que controlam a linha de produção de veículos), já o não crítico, apesar de não desejado, se houver um pequeno atraso, não irá gerar tantos danos.
+
+
+>> Tipos de sistemas operacionais: De computadores de grande porte <<
+
+- Sistema de grande porte é tipicamente utilizado por grande corporações e, como características predominantes desses sistemas, pode-se considerar a elevada capacidade de E/S, sistema em lote (bach), processamento de transações e tempo compartilhado.
+
+- Exemplos de sistema de grande porte são: OS/390 e S/400.
+
+
+>> Tipos de Sistemas Operacionais: Multiprocessadores <<
+
+- O sistema operacional dessa categoria pode tratar múltiplas CPUs simultaneamente. Equipamentos com multiprocessadores ou multinúcleos têm como objetivo principal melhorar a capacidade computacional dos equipamentos, trazendo melhor desempenho para o ambiente.
+
+- Com o advento dos processadores multinúcleo, até sistemas operacionais voltados para computadores pessoais estão começando a lidar com multiprocessadores. Alguns exemplos de sistemas operacionais multiprocessados são: Windows, Linux, Solaris e AIX.
+
+>> Tipos de Sistemas Operacionais: Portáteis <<
+
+- Voltados para computadores como os PDA (Personal Digital Assistant) e telefones celulares.
+
+- Os PDA e celulares não possuem disco rígido multigicabyte.
+
+- Os sistemas operacionas para portáteis são: Android, IOS, Symbian OS, Windows Mobile e Palm OS.
+
+
+>> Visão geral sobre hardware de computadores <<
+
+- O hardware e o sistema operacional devem ser extremamente congruentes para que seja possível obter o melhor resultado dessa combinação.
+
+- Fas-se necessária uma homogeneidade entre os desenvolvedores de hardware e software.
+
+- independente das ideologias, turma do hardware ou do software, temos que ter conceitualmente um modelo pertinente à arquitetura do harware de um computador pessoal para que possamos entender melhor os sistemas operacionais.
+
+- Conceitualmente, computadores simples podem ser abstraídos para um modelo esquemáticos representado na figura abaixo:
+
+- Temos o barramento, que seria a nossa estrada possibilitando a comunicação entre os elementos, a memória e os dispositivos de E/S.
+
+
+>> Processadores <<
+
+- A CPU traz das memórias instruções, decoodifica, interpreta as instruções a serem executadas e as executa; a partir daí, busca as instruções subsequentes e processa o ciclo novamente até ter instruções a serem executadas.
+
+- Cada arquitetura de CPU teum um conjunto específico de intruções que pode executar.
+
+- Todas as CPUs possuem registradores internos para armazenamento de variáveis importatnes e de resultados temporários. Em adição aos registradores de propósito geral usados para conter variáveis e resultados temporários a maioria dos computadores possuem vários registradores especiais disponíveis de forma aparente para os programadores.
+
+- O primeiro a se destacar é o contador de programa que contém o endereço de memória da próxima instrução a ser buscada, ou seja, ele é atualizado para buscar a próxima instrução.
+
+- Outro registrador especial é o ponteiro de pilha, que aponta para o topo da pilha da memória que contém uma estrutura para cada rotina chamada, mas que ainda não se finalizou. Uma estrutura de pilha da rotina contém os parâmetros de entrada, as variáveis locais e as variáveis temporárias que não são mantidas nos registradores.
+
+- Outro registrador especial é o PSW (Program Status Word). Esse registrador contém os bits do código de condições, os quais são alterados pelas instruções de comparação, pelo nível de prioridade da CPU, pelo modo de execução e por vários bits de controle.
+
+- Programas de usuários normalmente podem ler todo o PSW, mas em geral são capazes de alterar somente alguns de seus campos. Normalmente, o PSW conterá o ponteiro/endereço da próxima instrução para ser executada.
+
+- Toda vez que o sistema operacional compartilha o tempo de CPU e, por algum motivo, interrompe a execução de um programa, inicia ou reinicia outro, então o sistema operacional necessita salvar todos os registradores para que possam ser restaurados quando o programa for executado novamente.
+
+- CPUs modernas possuem recursos para executar mais de uma insrução em tempo cocorrente, é o que chamamos de pipeline (elas podem executar uma busca, executar decodificação e, simultaneamente, execução de instrução)
+
+Busca > Decodificação > execução
+
+- Além do pipeline, temos o superescalar, esse tipo de processador possui múltiplas unidades de execução. Portanto, duas ou mais instruções são buscadas, decodificadas e armazenadas temporariamente eu um buffer, até que possam ser executadas.
