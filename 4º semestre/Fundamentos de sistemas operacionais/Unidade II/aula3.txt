@@ -1,0 +1,60 @@
+
+
+>> Processadores multithread e muktinúcleo <<
+
+- O Intel Pentium 4 e outros chips de processadores têm a propriedade chamada multithreading.
+
+- No ambiente da ciência da computação, a execução de um thread é a menor unidade de processamento que pode ser atendida por um sistema operacional. Múltiplos threads podem existir num mesmo processo e compartilhar recursos como a memória, enquanto diferetes processos não compartilham esses recursos.
+
+- O thread de um processo compartilha as instruções e contextos. Analogicamente, múltiplo thread de um processo é o mesmo que múltiplos alunos lendo intruções em um mesmo livro, porém não necessariamente todos os alunos lendo a mesma página.
+
+- Se um dos processos precisa ler uma palavra a partir da memória demandando muitos ciclos de relógio, uma CPU multithreading não oferece paralelismo, então apenas um processo por vez é executado, mas o tempo de chaveamento é reduzido para a ordem de um nanossegundo.
+
+- O grande problema é que multithreading é compeendido pelo sistema operacional como uma CPU, portanto se um computador tiver, por exemplo duas CPUs, cada uma com dois threads, o sistema operacional etenderá e terá que gerenciar como se existissem 4 CPUs no sistema.
+
+- Outra opção é a CPU com multinúcleo. Isso é mesmo que fisicamente vermos um único chip, porém, internamente, temos múltiplos chips como se fossem várias CPUs. É importante destacar que sistemas com CPU multinúcleo requerem SO para multiprocessadores.
+
+
+>> Memória <<
+
+- Na teoria, a memória deveria ser mais performática do que a execução de uma instrução processada por uma CPU, pois, com isso, a CPU jamais teria que esperar pela resposta da memória; entretanto, na prática isso não é uma verdade.
+
+- Para tentar resolver este problema, a abordagem contemporânea é construir o sistema de memória seguindo uma hierarquia de camadas, conforme se demonstra na próxima figura.
+
+- No topo da pirâmide, temos os registradores que estão contidos nas CPUs. Esse são feitos do mesmo material que as CPUs e são tão rápidos quanto elas. Desta forma, o tempo do registrador para a memória é deprezívell e a capacidade de memória disponível nos registradores é de 32 x32 bits para CPU de 32 bits e de 64 x 64 bits para a CPU de 64 bits.
+
+- Seguindo, no segundo nível vem a memória cache, que é controlada principalmente pelo hardware.
+
+- Atualmente, vários dispositivos, como processadores, discos rígidos, placas-mãe, placas controladoras e outros, possuem cache. A memória cache é mais usada para armazenar informações frequentemente mais utilizadas, poréma memória cache é muito mais cara e não é tão abundante nos sistemas.
+
+- No próximo nível, é possível identiifcar a memória principal, também conhecida como memória RAM (Random Acces Memory - Memória de Acesso Aleatório).
+
+- Todas as solicitações vindas da CPU e que não estão na meória cache são encaminhadas para a memória principal.
+
+- ROM (Read Ony Memory) e CMOS são outros tipos de memórias também presentes nos sistemas computacionais.
+
+- A memória ROM é normalmente usada pelos fabricantes para gravar códigos controladores do hardware e são previamente programadas em fábrica, não sendo possível sua alteração, a não ser que usem equipamentos específicos para essa finalidade.
+
+- A memória CMOS é tipicamente usada para manter data e hora atualizadas e parâmetros de configuração do hardware, como sequência de boot e outros, mesmo que o computador esteja desligado.
+
+- A memória CMOS necessita de uma bateria para manter seu conteúdo.
+
+
+>> Disco <<
+
+- Os discos magnéticos estãona camada logo abaixo da memória principal, sendo conhecido como discos rígidos ou, em inglês, hard disks, e também, de forma abreviada, como HD.
+
+- O grande atrativo dos discos magnéticos em relaçõa à memória é o preço bem menor se comparado R$/GB, entretanto, o contraponto é a velocidade de acesso que é muito mais lenta por ser um disposítivo mecânico, conforma ilustrado na figura abaixo.
+
+- Na estrutura de um disco magnético, temos como uma das principais partes o grupo de discos metálicos em que são gravadas as informações. Tipicamente, esses discos rodam a velocidade de 5400 a 10000 rom (rotações por minuto) e tem uma média de transferência de 0,5Gbit/s.
+
+- Em ambientes projetados com servidodres de rede e, principalmente, servidores de banco de dados transacional, normalmente, são instalados discos com velocidade de 15000 rpm, podendo se atingir a média de transferência acime de 1,6 Gbit/s. Os discos de 10000 ou 15000 rpm usam discos menores para mitigar grandes demandas de energia, entretanto, isso acarreta que esses discos com maior capacidade de rotação por minuto possuam menos capacidade do que os discos magnéticos de menos rpm.
+
+- As informações são escritas no disco em uma série de circulos que têm o mesmo centro. Cada cabeça pode ler e gravar uma região circular chamada trilha. Juntas, as trilhas de uma posição do braço formam um cilindro. Mover o braço entre cilindros próximos leva aproximadamente 1 ms e mover o braço de uma determinado cilindro para outro distante leva em torno de 5 a 10 ms.
+
+
+>> Fitas <<
+
+- A fita magnética é o último tipo de memória na pirâmide ilustrada na Figura 25. Esse meio é muito utilizado como mídia de cópia de segurança (backup), transportando uma cópia daquilo que está nos discos magnéticos para fitas magnéticas.
+
+- Com base nas normas de segurança ISO 27001, e até mesmo no Banco Central Brasleiro, é obrigatório o uso de sistemas de backup para garantir que a informação esteja disponível em caso de o sistema principal apresentar problema. Grandes sistema utilizam robôs que controla a troca de fitas, bem como softwares especiais para backup, como as Veritas Backup Exec, Data Protector, ARCserve, Tivoli Storage Management e outros.
