@@ -1,0 +1,75 @@
+
+>> Dispositivos de E/S <<
+
+- Os dispositivos de E/S são geralmente, os controladores dos dispositivos.
+
+- O controlador é formado por uma ou mais chips numa placa. esses controladores possuem a função de receber os comandos do sistema operacional, e gerar as instruções mais adequadas para os dispositivos, fornecendo orientação exatamente de como o disco rígido armazena e acessa os dados, por exemplo.
+
+- Os dispositivos possuem interfaces bastante padronizadas. Isso ajuda, porque a controladora IDE pode controlar qualquer disco IDE.
+
+- Entre o sitema operacional e o controlador, há outro software chamado driver de dispositivo.
+
+- E função do driver de dispositivo se comunicar com o controlador, emitindo comado e recebendo respostas.
+
+- Os fabricantes de controladores dever fornecer drivers específicos para cada sistema operacional e que dão suporte.
+
+- Existem três maneiras diferentes para entrada e saída (E/S): o método mais simples é quando o programa de um usuário emite uma chamada de sistema, então o núcleo do sistema operacional a traduz em uma chamada ao driver relacionado, em seguida, o driver inicia a entrada e saída e fica em constante checagem se o dispositivo terminou a operação; quando a operação é finalizada, o driver coloca os dados onde são necessários; o sistema operacional, então, remete o controle para quem originou a chamda.
+
+- Nesse processo, A CPU fica ocupada durante a monitoração se a operação de E/S terminou ou não.
+
+- No segundo método, o driver inicia o dipositvo e instrui que ele o infome quando terminar; durante esse período de intervalo, o sistema operacional retoma o controle da CPU para executar outra tarefa. Assim que o controlador recebe a sinalização do final da transferência, ele gerará uma interrupção para sinalizar o término.
+
+- DMA (Directory Memory Access) é o terceiro método para a implementação da entrada e saída. Nesse cenário, é utilizado um chip especial de acesso direto à memória, controlando o fluxo de bits a memória em algum controlador sem intervenção constante da CPU. Nesse processo, a CPU configura o chip DMA informando a quantidade de bytes que devem ser transferidos, os endereços do dispositivo e de memória empregados, e a direção. Então, a execução fica a cargo do DMA. Assim que o DMA finalizar a tarefa, haverá uma interrupção.
+
+
+>> Barramento <<
+
+- O termo barramento é definido como elos de comunicação que consistem em um conjunto de vias.
+
+- Ao longo da evolução da arquitetura computacional, os barramentos foram tomando forma mais heterogênea e estruturada para as necessidade modernas.
+
+- Os processadores e memórias foram ficando cada vez mais velozes, e o computador antigo, que inicialmente tinha somente um barramento, passou a não dar mais conta.
+
+- A CPU se comunica com o barramento PCI por meio do barramento local que, por suam vez, se comunica coma a memória por intermédio de um barramento dedicado. Usando por exemplo um sistema Pentium com uma cache de nível 1 dentro do chip e uma cache nível 2 muito maior que fica na parte externa do chip e é conectada à CPU pelo barramento de cache.
+
+- Esse sistema contém também três barramentos específicos: IDE, USB e SCSI. O barramento IDE, como descrito anteriormente, pode ser usado para conectar discos físicos e unidade CD-ROM.
+
+- O padrão USB foi desenvolvido por um consórcio de empresas entre as quais podemos citar: Microsoft, Apple, NEC, Intel etc.
+
+- Uma das características fundamentais para o sucesso do USB, principalmente pela demanda de agilidade de interoperabilidade, é que esta tecnologia compartilha o mesmo driver entre os seus dispositivos, tornando dispensável instalar um novo driver para cada novo dispositivo USB.
+
+- Isso traz como benefício maior o fato de podermos instalar dispositivos USB no computador sem precisar reiniciá-lo, ou seja, plug and play.
+
+
+>> Resumo <<
+
+- No modelo abstrato de sistema operacional temos que ter alguns entendimentos a respeito de processadores, memórias e dispositivos de entrada e saída que são conectados por barramento.
+
+Além de estrutura de hardware em que está montado o sistema operacional, os conceitos típicos sobre os quais os sistemas operacionais são construídos são:
+
+    - Processos;
+    - Gerenciamento de memória;
+    - Gerenciamento de E/S;
+    - Sistema de arquivos;
+    - Segurança.
+
+- Os sistemas operacionais devem ser vistos por dois prismas:
+
+    - Dispositivo gerenciador de recursos;
+    - Máquina estendida.
+
+- Todos os sistemas operacionais possuem, na sua essência, o conjunto de chamadas de sistema com que eles pode lidar. Dentre elas destacamos:
+
+    - Criação e finalização de processos;
+    - Leitura e escrita de arquivos;
+    - Gerenciamento de diretórios;
+    - Chamadas diversas.
+
+- Os elementos operacionais são geralmente, entre outros, estruturados conforme as classificações abaixo:
+
+    - Sistema monilítico;
+    - Hierarquia de camadas;
+    - Micronúcleo;
+    - Sistema de máquina virtual;
+    - Exonúcleo: tem como finalidade permitir que uma aplicação solicite uma região específica da memória, simplesmente para assegurar que os recursos pedidos estejam disponíveis e que o programa tenha direito a acessá-los;
+    - Modelo cliente servidor.
