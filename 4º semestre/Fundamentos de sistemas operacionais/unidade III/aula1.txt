@@ -1,0 +1,86 @@
+
+>> Gerenciamento de processos <<
+
+- Os sistemas computacionais atuais são capazes de desenvolver uma grande variedade de tarefas simultaneamente.
+
+- Muitas vezes, isso passa despercebido para nós e só lembramos dessa extraordinária capacidade quando ela falha, ou quando o sistema já está sobrecarregado e notamos a degradação de desempenho em alguma das tarefas que lhe demos e da qual não estamos tendo o nível de serviço esperado.
+
+- Em todos os sistemas com suposto conceito de paralelismo, temos a CPU trabalhando por algumas dezenas ou centenas de milissegundos numa única aplicação e subsequentemente na próxima até o ciclo se completar.
+
+Introdução a processos
+
+- Essa sequência continuará até termos todos os processos concluídos, porém não podemos esquecer que outros processos podem estar entrando na fila a todo o momento.
+
+- Devido à rapidez dos ciclos, esse cenário de suposto paralelismo irá gerar para a percepção humana a sensação de que o ambiente está processando as requisições, atendendo às diversas aplicações de forma simultânea.
+
+- Somente nos casos de sistemas com múltiplos processadores é que teremos de fato múltiplos programas sendo atendidos no mesmo instante. Controlar múltiplas atividades em paralelo é algo que vem sendo desenvolvido e aprimorado com base num modelo conceitual de processos sequenciais que facilita o parelelismo que estudaremos nessa unidade.
+
+- Todos os computadores são capazes de fazer várias coisas ao mesmo tempo.
+
+    - Executar um programa.
+    - Ler dados do disco.
+    - Exibir mensagens na tela.
+
+- Tudo sendo executado "ao mesmo tempo"
+
+- Esse mecanismo de trocas rápidas é chamado de multiprogramação.
+
+
+>> Processo <<
+
+- Os softwares de computador são organizados em processos sequenciais.
+
+- Um processo é um programa em execução, acompamhado dos valores correntes do contador de programa, dos registradores e das variáveis.
+
+- Uma CPU pode executar um processo por vez.
+
+- Observe a próxima ilustração de um sistema com dois cores que equivale a termos duas CPUs, porém ainda temos a mesma afirmativa - todas as CPUs podem executar um porcesso por vez.
+
+- Vale destacar que um processo e um programa possuem conceitos distintos, sendo que o processo constitui uma atividade, possuindo programa, entrada, saída e um estado.
+
+- Os processos podem conter mais de uma tarefa, conceituando, então, que tarefa e processo são distintos.
+
+
+>> Criação de processos <<
+
+- Processos são criados e destruídos constantemente nos sistemas.
+
+- Essas operações disponibilizam aplicações por meio de chamadas de sistema que diferem entre sistemas operacionais.
+
+- Para os sistemas de porpósitos gerais, é necessário algum mecanismo para criar e terminar processos durante a operação quando for necessário.
+
+- Teremos nos sistemas quatro eventos que fazem que processos sejam criados: no início do sistema, um processo em execução procedendo a uma chamada de sistema de criação de um processo, requisição do usuário para criar um novo processo e gerenciar a tarefa em lote (bacth job) que está sendo iniciada.
+
+- Ao iniciar o sistema operacional, tipicamente vários processos são criados. Entre esses processos, temos os que estão em primeiro plano e interagindo com o usuário e outros que estão em segundo plano, portanto, não estão diretamente interagindo com o usuário.
+
+- Para exemplificar um processo em segundo plano, podemos pegar o caso de um servidor de FTP (File Transfer Protocol) que fica inativo durante boa parte do tempo, sendo ativado somente quando um clente FTP solicita a abertura de uma nova conexão - usamos o termo daemons para descrever um processo que fica em segundo plano com finalidade de lidar com alguma atividade como a descrita.
+
+- Processos que estão em execução podem fazer chamadas de sistema (sustem calls) para criar um ou mais processos.
+
+- Criar processo é indicado quando a tarefa a ser executada puder ser facilmente dividida em vários processos relacionados, interagindo, entretanto, de maneira independente.
+
+- Os usuários podem iniciar um novo processo começando um programa no ambiente GUI ou no ambiente Shell.
+
+- No caso de sistemas em lote, tipicamente encontrado em computadores de grande porte, o usuário, administrador ou até mesmo um alinhamento prévio, pode submeter tarefa em lote para o sistema.
+
+O sistem a operacional criará um novo processo e o executará quando tiver recurso disponível e/ou redefenindo prioridades e executando o processo no momento determinado.
+
+- Se usarmos como exemplo o ambiente Unix, Teremos a chamada de sistema fork pra criar um processi. Essa chamada cria uma réplica do processo solicitante conforme exibido na imagem.
+
+- Posteriormente, o processo filho executará subsequentemente ou uma chamada de sistema similar para mudar suam imagem de memória e executar um novo programa.
+
+- No ambiente Windows, uma única chamada denominada CreateProcess de função Win32 trata o processo de criação e carga do programa correto no novo porcesso.
+
+- O processo Win32 possui dezenas funções para gerenciar e sincronizar processos e tópicps relacionados.
+
+- Tanto no Unix quanto no Windows, quando um novo processo filho é criado, o processo pai e filho possuirão seus próprios espaços de endereçamento de memória, permitindo, assim, que se o processo pai ou filho alterar uma palavra em seu espaço de enderaçamento, a mudança não impacte o outro processo.
+
+
+>> Término de processos <<
+
+- Após o término, o processo é finalizado com base nas quantro condições típicas: normal, por erro, erro fatal e cancelado por terceiros - sendo as duas primeiras voluntárias e as duas últimas involuntárias.
+
+- Processos terminados de forma involuntária não são comuns num sistema em perfeito funcionamento (verificaremos as quatro condições e notaremos por qual motivo essa afirmação é um fato).
+
+- O primeiro caso, que é a condição normal de se encerrar um processo é verificado pela chamada exit do Unix ou ExitProcess do Windows. nesses casos, o processo termina após finalizar as tarefas que estavam previstas, mesmo que seja um usuário finalizando um programa, fechando a janela do ambiente GUI ou pela opção relativa no ambiente Shell.
+
