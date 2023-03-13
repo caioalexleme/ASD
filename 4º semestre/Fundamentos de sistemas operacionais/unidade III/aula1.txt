@@ -55,7 +55,7 @@ Introdução a processos
 
 - Para exemplificar um processo em segundo plano, podemos pegar o caso de um servidor de FTP (File Transfer Protocol) que fica inativo durante boa parte do tempo, sendo ativado somente quando um clente FTP solicita a abertura de uma nova conexão - usamos o termo daemons para descrever um processo que fica em segundo plano com finalidade de lidar com alguma atividade como a descrita.
 
-- Processos que estão em execução podem fazer chamadas de sistema (sustem calls) para criar um ou mais processos.
+- Processos que estão em execução podem fazer chamadas de sistema (system calls) para criar um ou mais processos.
 
 - Criar processo é indicado quando a tarefa a ser executada puder ser facilmente dividida em vários processos relacionados, interagindo, entretanto, de maneira independente.
 
@@ -65,9 +65,9 @@ Introdução a processos
 
 O sistem a operacional criará um novo processo e o executará quando tiver recurso disponível e/ou redefenindo prioridades e executando o processo no momento determinado.
 
-- Se usarmos como exemplo o ambiente Unix, Teremos a chamada de sistema fork pra criar um processi. Essa chamada cria uma réplica do processo solicitante conforme exibido na imagem.
+- Se usarmos como exemplo o ambiente Unix, Teremos a chamada de sistema fork pra criar um processo. Essa chamada cria uma réplica do processo solicitante conforme exibido na imagem.
 
-- Posteriormente, o processo filho executará subsequentemente ou uma chamada de sistema similar para mudar suam imagem de memória e executar um novo programa.
+- Posteriormente, o processo filho executará subsequentemente ou uma chamada de sistema similar para mudar sua imagem de memória e executar um novo programa.
 
 - No ambiente Windows, uma única chamada denominada CreateProcess de função Win32 trata o processo de criação e carga do programa correto no novo porcesso.
 
