@@ -84,3 +84,16 @@ O sistem a operacional criará um novo processo e o executará quando tiver recu
 
 - O primeiro caso, que é a condição normal de se encerrar um processo é verificado pela chamada exit do Unix ou ExitProcess do Windows. nesses casos, o processo termina após finalizar as tarefas que estavam previstas, mesmo que seja um usuário finalizando um programa, fechando a janela do ambiente GUI ou pela opção relativa no ambiente Shell.
 
+- Num ambiente Unix, a chamada de sistema exit serve para informar ao núcleo do sistema operacional que o processo em questão não é mais necessário e pode ser eliminado, liberando todos os recursos a ele empregados.
+
+- Processos podem solicitar ao núcleo o encerramento de outros processos, mas essa operação só é aplicável a processos do mesmo usuário ou se o processo solicitante pertencer ao administrador do sistema.
+
+- Os processos que interagem com outros não podem ser concluídos quando um parâmetro errado é fornecido.
+
+- Vamos considerar o caso de um usuário tentando colocar o nome duplicado entre dois arquivos no sistema, então, uma caixa de diálogo emerge e pergunta ao usuário se ele quer tentar novamente; dessa forma, teremos por consequência a segunda condição que é a saída por erro.
+
+- Erro fatal é um erro causado pelo processo e, normalmente, por um erro de programa. Como exemplo podemos ter a execução de uma instrução ilegal, a referência à memória inexistente ou a divisão por zero; em todos esses casos, teremos como resultado um erro fatal.
+
+- O cancelamento por outro processo ocorre quando um processo x executa uma chamada de sistema determinando que o sistema operacional cancele outro(s) processo(s) n.
+
+- Tanto no Unix/Linux, a chamada é o kill e, no ambiente Windows, a função Win31 correspondente é a Terminate Process.
