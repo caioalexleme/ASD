@@ -1,0 +1,118 @@
+
+>> Programa x processo <<
+
+- O programa é o algorítmo que expressa uma notação adequada, expressa em um conjunto organizado de instruções em linguagem natural ou codificada.
+
+- O processo é uma atividade desempenhada pela CPU de ler o algorítmo, buscar os dados e executá-los segundo o algorítmo ordena.
+
+
+>> Comunicação entre processos <<
+
+- A comunicação entre processos é algo frequentemente nos sistemas atuais, havendo a necessidade de obtermos uma comunicação estruturada e sem interrupções acontecendo entre eles.
+
+- Temos três tópicos importantes na comunicação entre processos:
+
+    A) Como um processo passa a informação entre processos.
+    B) Como garantir que múltiplos processos não entrem em conflito.
+    C) Como haverá um sequência adequada quando existirem dependências.
+
+
+>> Condição de corrida <<
+
+- Processos que trabalham juntos pordem compartilhar algum armazenamento comum e serem capazes de ler e escrever.
+
+- O armazenamento compartilhado pode estar na memória principal ou em um arquivo compartilhado.
+
+- Para entendermos o processo de condição corrida, vamos considerar como exemplo um spool de impressão.
+
+- Para imprimir um arquivo, um processo entra com o nome do arquivo numa posição da fila em um diretório de spool. Em paralelo e de forma constante, o deamon de impressão verifica na fila se há algum arquivo para imprimir. Se houver algum arquivo para imprimir, ele será impresso e, em seguida, seu nome será removido da fila.
+
+- Ainda pensando no cenário para exemplificar nossa condição de corrida, imagine que há duas variáveis compartilhadas, sendo uma de saída com o nome out que apontará para o próximo arquivo a ser impresso, e uma de entrada com o nome de in que apontará para a próxima posição livre no diretório de impressão.
+
+- Agora, imagine que temos dois processos X e Y que decidem quase que simultâneamente colocar, cada um deles, um arquivo, sendo X = ArquivoX e Y = ArquivoY, na fila de impressão.
+
+- Então o processo X lê a variável in e nota que a posição 1 está disponível, o processo X armazena a posição 1 na sua variável vaga_impressao_disponivel.
+
+- Porém, nesse instante, a CPU transaciona para o processo Y, entendendo que X já ocupou o tempo necessário durante esse ciclo de processamento.
+
+- No momento em que Y lê a variável in, nota que a posição 1 está disponível, então, Y armazena em sua variável vaga_impressao_disponivel a posição 1.
+
+- Podemos notar que ambos os processos passam a conter a posição 1 como variável indicando a vaga 1 na fila de impressão.
+
+- O processo Y continua sua execução armazenando o nome ArquivoY na vaga 1, então atualiza a variável in para conter o valor 2.
+
+- Depois dessa tarefa, o processo Y passa a executar outras tarefas subsequentes.
+
+- De forma fortuita, o processo X volta a executar suas tarefas da posição em que havia parado, após verificar sua variável vaga_impressao_disponivel e encontrar o valor 1, então, escreve o ArquivoX na vaga 1.
+
+- Após o processo X executar a tarefa de gravação do arquivo, teremos a posição 1 da fila de impressão ocupada pelo arquivoX e o arquivoY concomitantemente apagado. Como X atualiza a variável in com o valor 2, o diretório de spool está internamente consistente não havendo nenhuma suspeita, portanto o deamon não notará nada anormal ou inconsistente, porém o processo Y jamais obterá qualquer saída.
+
+- O usuário que mandou imprimir o ArquivoY certamente imaginará que houve algum boicote após esperar por muito tempo e nada sair da impressora.
+
+- Portanto, cenários como esse em que temos dois ou mais processos que estão lendo ou escrevendo algum dado compartilhado e cujo resultado final depende de quem executa - e quando executa - são chamados de condições de corrida (race conditions).
+
+- É extremamente exaustiva a atividade de análise, depuração e resolução de códigos de programa que apresentam condições de corrida.
+
+São necessárias quatro condições elementares para chegarmos a uma boa solução:
+
+- Dois ou mais processos nunca podem estar simultaneamente em suas regiões críticas.
+
+- Nada pode ser definitivamente afirmado no que tange à velocidade ou ao número de cores.
+
+- Nenhum processo executado fora de sua região crítica pode bloquear outros processos.
+
+- Nenhum processo deve esperar infinitamente para estar em sua região crítica.
+
+
+- Portanto, em um modelo abstrato, as características necessárias para satisfazermos a condição desejada são demonstradas na imagem, em que o processo X entra em sua região crítica no tempo T1.
+
+- Subsequentemente, no tempo T2, o processo Y tenta entrar em sua região crítica, entretanto falhará devido ao fato de outro processo já estar ocupando essa condição exclusiva.
+
+- Então, X fica temporariamente aguardando até que o processo Y deixe sua região crítica.
+
+
+>> Exclusão mútua com espera ociosa <<
+
+- Quando estamos usando os sistemas mais antigos que possuíam somenta uma CPU com um único core, a forma mais trivial e segura para evitarmos que mais de um processo entre na região crítica é aplicada com a desativação das interrupções assim que o primeiro processo entrar na região crítica e consecutivamente reabilitá-las assim que sair dessa região.
+
+-  Portanto, quando se desativa a interrupção, a CPU não poderá chavear para outro processo, com isso não tem como ocorrer a condição de corrida apresentada anteriormente.
+
+- Podemos concluir que a desativação das interrupções é uma técnica coerente para o próprio sistema operacional, porém com alto nível de risco para os processos dos usuários que necessitem de exclusão mútua.
+
+
+>> Semáforos <<
+
+- Como vimos anteriormente, quando um processo estivesse ativo e executando as tarefas na região crítica, então outros deveriam ficar "dormindo" até o término dessa tarefa.
+
+- O semáforo é o conceito proposto por E.W Dijkstra para um tipo de variável inteira, objetivando contar o número de sinais de "acordar" salvos para o uso futuro.
+
+- Um semáforo poderia conter o valor 0, indicando que nenhum sinal de acordar foi salvo, ou algum valor positivo, sinalizando que um ou mais sinais de acordar estivessem pendentes.
+
+- Dijkstra propôs a existência de duas operações para os semáforos: P (down) e V (up), que são mnemômicos e fazem alusão a sleep e wake up (dormir e acordar).
+
+- A operação down (P) no semáforo verifica se o valor contido é maior que 0.
+
+- Caso isso seja mesmo um fato, subtrairá um sinal de up (V) que estiver na variável e prosseguirá com as tarefas.
+
+- Se o valor contido na variável apresentar o valor igual a 0, então, o processo será instruído para sleep (dormir), porém sem terminar o down "ainda" (esse é um ponto importante do semáforo que será debatido adiante).
+
+- Observação: vale destacar, nesse momento, que verificar o valor sem alterá-lo e, possivelmente, ir dormir são tarefas que dever ser obrigatoriamente executadas nessa ordem, além de não poderem ser divididas.
+
+
+>> Monitores <<
+
+- Hoare a Brinch Hansen propuseram uma unidade básica de sincronização de alto nível chamada de monitor. Podemos definir monitor como uma coleção de rotinas, variáveis e estruturas de dados, todos agrupados em um tipo especial de pacote.
+
+- O monitor tem um papel fundamental para realizar a exclusão mútua pelo fato de que somente um processo pode estar ativo em um monitor num determinado tempo x.
+
+- Tipicamente, quando um processo executa uma chamada a uma determinada rotina do monitor, algumas das primeiras intruções da rotina deverão verificar se existe outro processo ativo dentro do monitor.
+
+- Caso confirme que outro processo encontra-se ativo dentro do monitor, então o processo que realizaou a chamada ficará suspenso até que o processo que estava previamente ativo saia do monitor.
+
+- Observação: um processo que executar uma chamada ao monitor poderá entrar somente se não houver nenhum outro previamente ativo.
+
+- O monitor é uma construção da linguagem de programação e os compiladores tratam suas chamadas e rotinas de modo diferente de outras chamadas de procedimento.
+
+- É função do compilador implantar a execução mútua. Tendo em vista que para codificar um monitor quem codifica não necessariamente tem de conhecer como o compilador implanta a exclusão mútua, então, basta ter em mente que convertendo todas as regiões críticas em rotinas do monitor, dois ou mais processos nunca poderão entrar em suas regiões críticas ao mesmo tempo.
+
+- Além da maneira simples pela qual o monitor consegue tratar as exclusões mútuas, ele também apresenta variáveis condicionais que possibilitam bloquear processos quando não puderem continuar.
