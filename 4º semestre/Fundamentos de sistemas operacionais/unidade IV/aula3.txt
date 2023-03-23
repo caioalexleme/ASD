@@ -1,0 +1,27 @@
+
+>> Introdução a gerenciamento de entrada e saída <<
+
+- Como foi descrito no primeiro capítulo desta série, o gerenciamento de entrada e saída tem como princípio básico a abstração, tornando a interação do programador com a máquina algo muito mais fácil e permitindo que os programas e os hardwares evoluam de forma independente, porém estruturada.
+
+- O gerenciamento de entrada e saída na visão de dentro do sistema operacional é algo complexo e que exige dos desenvolvedores de sistemas operacionais boa parte do tempo e dos esforços para obter um sistema estável e confiável. E não poderia ser diferente, pois toda a lógica e complexidade de controlar os diversos dispositivos demandam muita ação e dinamismo.
+
+
+>> Dispositivos de entrada e saída <<
+
+- Os dispositivos de entrada e saída são típicos e os que estaremos dando ênfase são divididos em duas categorias:
+
+- Dispositivos de blocos: entre outras características,armazenam informações em blocos de tamanho fixo e endereço próprio. Todas as transferências estão em unidades consecutivas de um ou mais blocos. Para essa categoria, cada bloco pode ser lido ou escrito independentemente de todos os outros.
+
+- Dispositivos de caractere: nesse caso há o envio e recebimento de caracteres. Diferentemente da categoria anterior, os dispositivos de caractere não são endereçáveis e não possuem funcionalidades de posicionamento.
+
+
+>> Controladores de dispositivos (driver) <<
+
+- As unidades de entrada e saída típicas são constituídas por dois componentes:
+
+- Componente mecânico: é o dispositivo mais aparente para o usuário final, ou seja, impressora, teclado, mouse e outros.
+
+- Componente eletrônico: conhecido como controlador de dispositivo ou adaptador. Esses adaptadores são inseridos em um conector de expansão localizado na placa mãe do computador.
+
+- Os componentes mecânicos e eletrônicos são mostrados em destaque na próxima figura.
+
