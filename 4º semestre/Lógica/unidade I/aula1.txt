@@ -1,0 +1,116 @@
+
+>> Introdução à Lógica Matemática <<
+
+- Definição de lógica matemática:
+
+- A lógica matemática estuda os conceitos de lógica do ponto de vista das ciências exatas.
+
+- Ela é por definição, uma lógica formal.
+
+- Isso significa que o nosso objeto de estudo será a forma de sentenças e argumentos, não seu conteúdo ou contexto.
+
+- Para exemplificar o que queremos dizer, analisemos os argumentos seguintes.
+
+Argumento 1:
+- Todo homem é mortal.
+- Sócrates é um homem.
+- Portanto, Sócrates é mortal.
+
+Argumento 2:
+- Todo gato é mamífero.
+- Tommy é um gato.
+- Portanto, Tommy é mamífero.
+
+
+>> Proposição <<
+
+- O conceito mais básico de lógica proporcional é, evidentemente, o significado de proposição.
+
+- Uma proposição é uma sentença declarativa que assume apenas UM entre dois valores lógicos, que podem ser classificados como verdadeiro (V) ou falso (F).
+
+- Uma proposição deve expressar uma ideia completa, de forma a ser possível atribuir a ela um valor lógico.
+
+- Vejamos alguns exemplos de proposições e seus respectivos valores lógicos.
+
+- A Terra é um planeta do Sisitema Solar (V)
+- Marte é o  satélite natural da Terra (F)
+- Luís de Camões escreveu Os Lusiadas (V)
+- Machado de Assis escreveu O Cortiço (F)
+- 2+3 = 5 (V)
+- 3-7 = 2 (F)
+
+- Quando nos referimos a proposições, falamos de uma estrutura dicotômica, ou seja, uma estrutura cujo valor lógico está restrito a apenas duas alternativas, que classificaremos nesse conteúdo como V ou F.
+
+- No entanto, é necessário nos atentarmos para o fato de qua a ideia expressa precisa ser completa, de forma a conseguirmos um valor lógico a ela.
+
+- Desse modo, as sentenças apresentadas a seguir não são consideradas proposições.
+
+A Terra
+- No caso, não foi transmitida uma ideia completa. Assim, não é possível classificarmos a frase como verdadeira ou falsa.
+
+Qual é o seu nome?
+- Trata se de uma sentença interrogativa, ou seja, de uma pergunta. Não é possível atribuir um valor lógico a perguntas.
+
+
+>> Proposições simples e compostas <<
+
+- Em proposições simples, a sentença apresenta uma única ideia.
+
+- É possível unirmos proposições simples utilizando conectivos lógicos.
+
+- Esses conectivos, também chamados de operadores, são palavras que empregamos na nossa linguagem cotidiana, que ganham destaque no estudo da lógica por serem capazes de formar proposições compostas.
+
+- A Terra é um planeta do Sistema Solar e Marte é uma estrela.
+
+- No caso, temos duas proposições simples formando uma proposição composta.
+
+- Podemos separá-las, conforme expsto a seguir, observando que cada uma delas assume seu próprio valor lógico.
+
+Proposição simples:
+- A Terra é um planeta do Sistema Solar. (V)
+
+Proposição simples:
+- Marte é uma estrela. (F)
+
+- Perceba que as proposições simples estão unidas por um conectivo, representado pela palavra e.
+
+- Esse conectivo indica uma operação entre proposições simples.
+
+- Dessa forma, a proposição composta será verdadeira apenas se ambas as proposições simples componentes forem também verdadeiras.
+
+- Porém como a segunda proposição é falsa, temos uma proposição composta de valor lógico F.
+
+- A terra é um planeta do Sistema Solar e Marte é uma estrela. (F)
+
+
+>> Teoria de conjuntos <<
+
+- Para entendermos esse conceito, precisamos fazer duas definições básicas, mas muito importantes.
+
+- Conjunto: é uma coleção de elementos que possuem alguma característica em comum.
+
+- Elemento: é o nome dado a cada item que faz parte de um conjunto.
+
+- Geralmente, o nome de um conjunto é representado por uma letra maiúscula, mas isso pode variar dependendo da aplicação.
+
+Podemos citar exemplos a seguir:
+
+- Conjunto A das faces de uma moeda: A = {cara, coroa}
+
+- Conjunto B das regiões do Brasil: {Norte, Nordeste, Centro-Oeste, Sudeste, Sul}
+
+- Conjusto das cores da bandeira brasileira: {verde, amarelo, azul e branco}
+
+- O conjunto A tem 2 elementos.
+
+- O conjunto B tem 5 elementos.
+
+- O Conjunto C tem 4 elementos.
+
+- Existem diversas formas de representar um conjunto e seus elementos:
+
+Uma das maneira mais utilizadas graficamento:
+
+- S = {x | x é um estado da região Sudeste do Brasil}
+
+- Graficamente, temos o que se mostra na figura a seguir:
