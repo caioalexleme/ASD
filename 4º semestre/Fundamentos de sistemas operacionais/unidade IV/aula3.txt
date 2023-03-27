@@ -25,3 +25,21 @@
 
 - Os componentes mecânicos e eletrônicos são mostrados em destaque na próxima figura.
 
+
+>> Software de E/S <<
+
+- Existem alguns pontos importantes para alinharmos quando estamos tratando de software de entrada e saída, os quais estão destacados a seguir:
+
+- O software de entrada e saída deve estar suportado pelo conceito de independência do hardware. Isso parte do pressuposto que deveria ser possível que os programas pudessem acessar os dispositivos de E/S sem a necessidade específica de conhecer o dispositivo. Então, um programa que tem no seu conjunto de funcionalidades a possibilidade de ler um arquivo de entrada deveria, de forma transparente e sem ter que mudar o programa, pode ler tanto um disco rígido, CD e DVD, quanto um USB.
+
+- Um outro ponto é que os programadores de E/S deveriam estar alheios ao tratamento de erros, ficando a cargo dos níveis mais próximos ao hardware esse tratamento, ou seja, o controlador deveria resolver o problema e se, não conseguisse, então o driver do dispositivo deveria tratar.
+
+- Ainda primordial é o tipo de transferência síncrona ou assíncrona. Na transferência síncrona o modo é de bloqueio e na assíncrona é orientada a interrupção.
+
+- A utilização de buffers para armazenamento temporário envolve frequentes e elevadas operações de cópia, gerando um impacto considerável no desempenho da entrada e saída.
+
+- O último ponto que devemos nos atentar com a mesma importância dos apresentados anteriormente é o de dispositivos dedicados versus compartilhados. Pode parecer contraditório, porém, nos dias atuais os dispositivos não compartilhados (dedicados) podem apresentar grande problemas, bem como impassses. Se imaginarmos dois processos necessitando acessar a mesma fita magnética, mas com dados em endereços distintos, certamente um dos processos ficará esperando por um tempo muito grande.
+
+- Conforme ilustrado na figura 55,  tipicamente, os softwares de E/S possuem quatro camadas e estão logo acima do hardware. Cada camada do software de entrada e saída tem função específica e interface com as camadas vizinhas.
+
+- Como cada sistema operacional possui características próprias do software de entrada e saída, é uma generalidade para estudos acadêmicos, sem entrar nos detalhes específicos de cada plataforma física e lógica.
