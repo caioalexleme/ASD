@@ -1,0 +1,82 @@
+
+>> Operações entre conjuntos <<
+
+- Diferença entre dois conjuntos
+
+- Se A e B são dois conjuntos, então a diferença entre A e B expressa como A - B (lê-se: "A menos B") é o conjunto de elementos que estão em A, mas não em B.
+
+- Vejamos os exemplos a seguir. Graficamente, A -B serpa composto pelos elementos que pertencem à região destacada no diagrama da figura 5, a seguir:
+
+- Sejam os conjuntos A = {2, 4, 6, 8} e B = {2,4}; então, A – B = {6, 8}.
+
+- {1, 2, 3} – {4, 5, 6} = {1, 2, 3}
+
+- {1, 2, 3} – {3, 4, 5} = {1, 2}
+
+- Complementar de B em a
+
+- Para a operação complementar ocorrer, é necessário que haja uma relação de inclusão entre dois conjuntos.
+
+- Se tivermos B como subconjunto de A, ou seja, B⊂A, podemos achar o complementar de B em relação a A.
+
+- Neses caso, será o conjunto de elementos de A que não pertencem a B.
+
+- Trata se de uma diferença entre conjuntos (A - B), mas com a restrição da necessidade de inclusão entre eles.
+
+- Podemos pensar na operação complementar como um caso particular da operação de diferença.
+
+Graficamente, BC = CU
+B = U – B será
+composto pelos elementos que pertencem
+à região destacada no diagrama da
+figura 6.
+
+... blá blá blá ...
+
+
+>> Operações lógicas sobre proposições <<
+
+- Assim como os conjuntos matemáticos podem realizar operações entre si, as proposições lógicas também.
+
+- É por meio dessas operações que conseguimos construir proposições compostas.
+
+- Vamos conhecer as principais operações da lógica proposicional, estabelecendo associações com as operações entre conjuntos.
+
+Operações lógicas:
+
+- As operações da lógica proposicional que aprenderemos a seguir são:
+
+    - Negação
+    - Conjunção
+    - Disjunção inclusiva
+    - Disjunção exclusiva
+    - Condicional
+    - Bicondicional
+
+- Operações lógicas - Negação (conectivo “não” “~”)
+
+- A operação de negação é aquela realizada sobre uma proposição simples por meio do conectivo "não", e o símbolo é til: ~.
+
+- a: Luís de Camões escreveu Os Lusíadas. (V)
+
+- Realizar uma operação de negação sobre a proposição "a" seria incluir em suan sentença o conectivo "não", de forma a trocar o seu valor lógico. Observe:
+
+- ~a Luís de Camões não escreveu Os Lusíadas. (F)
+
+- Operações lógicas - Conjunção (conectivo “e” “∧”)
+
+- A operação de conjunção é aquela capaz de unir duas (ou mais) proposições simples por meio do conectivo "e" cujo símbolo é "∧"
+
+- Considere as duas proposições simples a seguir.
+
+- a: Luís de Camões escreveu Os Lusíadas. (V)
+
+- b: Machado de Assis escreveu O Cortiço. (F)
+
+- Se realizarmos uma conjunção entre a e b, teremos a proposição composta a seguir:
+
+- a ∧ b: Luís de Camões escreveu Os Lusíadas, e Machado de Assis escreveu O Cortiço. (F)
+
+- A operação de conjunção entre duas proposições simples exige que ambas sejam verdadeiras para que o resultado seja uma proposição composta verdadeira.
+
+- Desse modo, a proposição composta será verdadeira somente se ambas as proposições simples componentes também o forem.
