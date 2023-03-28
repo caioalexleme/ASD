@@ -1,0 +1,76 @@
+
+>> Operações lógicas sobre proposições <<
+
+- Operações lógicas - Disjunção inclusiva (conectivo "ou" "v")
+
+- A operação de disjunção inclusiva é aquele capaz de unir proposições simples por meio do conectivo "ou" cujo símbolo é v.
+
+- Considere as duas proposições simples a seguir.
+
+- a: Luís de Camões escreveu Os Lusíadas. (V).
+
+- b: Machado de Assis escreveu O Cortiço. (F).
+
+- a V b: Luís de Camões escreveu Os Lusíadas, ou Machado de Assis escreveu O Cortiço. (V).
+
+- A operação de disjunção inclusiva entre duas proposições simples pede que pelo memos uma delas seja verdadeira para que o resultado seja uma proposição composta verdadeira.
+
+- Desse modo, a proposição composta será falsa somente quandos ambas as componentes também forem.
+
+- A tabela verdade que expressa esse comportamento pode ser vista a seguir.
+
+- No caso, temos duas entradas quaisquer, a e b, e a saída é justamente a operação de disjunção inclusiva entre elas, a V b.
+
+- Operações lógicas - Disjunção exclusiva (conectivo "ou...ou" "⊻")
+
+- Existe um outro tipo de operação de disjunção, chamado de exclusiva.
+
+- A operação de disjunção exclusiva é aquela capaz de unir porposições simples por meio do conectivo "ou...ou" e o símbolo é ⊻.
+
+- Considere duas proposições simples a seguir.
+
+- a: Luís de Camões escreveu os Lusíadas.
+
+- b: Machado de Assis escreveu Dom Casmurro. (V).
+
+- Se realizarmos uma disjunção exclusiva entre a e b, teremos a proposição composta a seguir:
+
+- a ⊻ b: Ou Luís de Camões escreveu Os Lusíadas, ou Machado de Assis excreveu Dom Casmurro. (F)
+
+- A tabela-verdade que expressa esse comportamento pode ser vista a seguir.
+
+- No caso, temos duas entradas quaisquer, a e b, e a saída é a operação de disjunção exclusiva entre elas, a ⊻ b.
+
+- Operações lógicas - Condicional (conectivo "se..então" "➞")
+
+- A operação condicionalé aquela capaz de unir proposições simples por meio do conectivo "se...então", e o símbolo é "➞".
+
+- Considere as duas proposições simples a seguir.
+
+- a: Machado de Assis nasceu no Rio de Janeiro. (V)
+- b: Machado de Assis é brasileiro. (V)
+
+- Se realizarmos uma operação condicional entre a e b, teremos a proposição composta que segue.
+
+- a ➞ b: Se machado de Assis nasceu no Rio de Janeiro, então ele é brasileiro. (V)
+
+- A tabela-verdade que expressa esse comportamento pode ser vista a seguir.
+
+- No caso, temos duas entradas quaisquer, a e b, e a saída é a operação condicional entre elas, a ➞ b.
+
+- Operações lógicas - Bicondicional (conectivo "se e somente se" "<-->")
+
+- A operação bicondicional é capaz de unir proposições simples por meio do conectivo "se e somente se", e o símbolo é ⇿
+
+- Considere as duas proposições simples a seguir:
+
+- a: O número 11 é par. (F)
+- b: O número 11 é divisível por 2. (F)
+
+- Se realizarmos uma operação bicondicional entre a e b, teremos a proposição composta que segue.
+
+- a ⇿ b: O número 11 é par se e somente se ele for divisível por 2. (V)
+
+- A tabela-verdade que expressa esse comportamento pode ser vista a seguir.
+
+- No caso, temos duas entradas quaisquer, a e b, e a saída é a operação bicondicional entre elas, a ⇿b.
