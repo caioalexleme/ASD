@@ -58,5 +58,27 @@ Exemplo:
 - Censo
 - Amostragem
 
-- No Censo é feita a avaliação direta de um parâmetro utilizando-se de toda a população. A necessidade de acessar toda a população para obter a informação faz com que o processos seja lento, mas aumenta a confiabilidade.
+- No Censo é feita a avaliação direta de um parâmetro utilizando-se de toda a população. A necessidade de acessar toda a população para obter a informação faz com que o processo seja lento, mas aumenta a confiabilidade.
 
+- Na amostragem, a avaliação de um parâmetro é indireta e usa-se como estimador o cálculo de probabilidades. Nela, não é necessário acessar toda a população, de forma que o processo se torna mais rápido e com menos custos, permitindo, ainda, que os dados sejam constantemente atualizados.
+
+Dados estatísticos
+
+- Os Dados Estatísticos são elementos fundamentais a partir dos quais a estatística é feita.
+
+- Define-se como variável a característica de interesse de cada dado da amostra ou da população. As variáveis podem ser de dois tipos:
+
+- Variáveis Quantitativas
+- Variáveis Qualitativas.
+
+- As variáveis Quantitativas assumem valores numéricos e, a partir deles, podemos realizar cálculos estatísticos. Tais variáveis são classificadas como discretas ou contínuas.
+
+- Discretas: assumem apenas certos valores (inteiros).
+
+- Contínuas: Podem assumir um intervalo de valores.
+
+- Variáveis Qualitativas: Contém informações não numéricas relativas a categorias, como gênero, cargo e endereço, ao tratarmos de pessoas, ou cor, volume e peso, ao tratarmos de produtos.
+
+- Ordinais: contêm informações que localizam o dado dentro de uma categoria, por exemplo, escolaridade.
+
+- Nominais: contêm informações que não localizam o dado em uma categoria, como cor dos olhos ou endereço.
