@@ -1,0 +1,60 @@
+
+>> Organização estruturada de computadores <<
+
+- Um computador pode ser definido como uma máquina constituída de partes eletrônicas e/ou eletromecânicas capazes de manipular e fornecer, de forma sistemática, informações para uma gama variada de aplicações.
+
+- Computadores realizam uma série de atividades ordenadas a fim de produzirem um arranjo determinado de dados a partir de outros que foram manipulados anteriormente.
+
+- O dado é definido como a matéria-prima ou entrada original a ser processada.
+
+- A informação pode ser definida como o resultado do processamento do dado.
+
+- Todos os dados introduzidos em um computador, ou mesmo a informação resultante do processamento de dados, precisam ser interpretados pela máquina, para que ela possa processá-lo de forma correta.
+
+- Em se tratando da informação computacional armazenável, a menor unidade de informação é o algarismo binário, conhecido como bit (binary digit).
+
+- Os dígitos binários possuem somente dois valores: 0 ou 1.
+
+- O byte (conjunto de 8 bits), implementado inicialmente pela IBM, foi a primeira padronização de ordenação para um grupo de bits e é utilizado atualmente em todos os fabricantes de computadores.
+
+>> Função <<
+
+- O funcionamento do computador pode ser representado através das seguintes funções básicas:
+
+- Processamento de dados - é o processo que consiste na extração de informações,  resultando em uma combinação de novos resultados a serem utilizados por um sistema computacional.
+
+- O processamento de dados é subdividido em três etapas: entrada, processamento e saída.
+
+- Os dados processados estão contidos no próprio sistema de armazenamento, sendo necessária a movimentação desses dados para que seja realizado o processamento.
+
+- Movimentação de dados - um computador deve ser capaz de movimentar dados gerados internamente para dispositivos externos.
+
+- Dessa forma, ele será capaz de receber dados recebidos externamente e processá-los.
+
+- Os dispositivos responsáveis pela interconexão como seu exterior (entrada/saída - E/S) são conhecidos como periféricos.
+
+- Um computador pode funcionar como um dispositivo para movimentação de dados transferindo dados de um periférico para outro.
+
+- Armazenamento de dados - um computador deve ser capaz de armazinar dados mesmo que temporariamente, tornando o armazenamento de dados e intruções em um processo dinãmico.
+
+- Assim, os dados transferidos do ambiente externo podem ser armazenados no computador para a realização do processo de leitura/escrita, a fim de realizar uma nova operação.
+
+- Controle - são operações realizadas pelo processador, fornecendo intruções para a realização das três funcões (processamento de dados, armazenamento de dados e movimentação de dados).
+
+- O gerenciamento dessas funções é realizado pela unidade de controle (UC), gerenciando os recursos computacionais através de intruções de máquina ou código de operações (OPCODES), além de coordenar o desempenho e as funcionalidades do processador.
+
+>> Estrututra <<
+
+- Um computador pode estar estruturado internamente a partir de quatro componentes principais responsáveis pelo seu pleno funcionamento, classificados como:
+
+- Unidade central de processamento: (UCP ou CPU do inglês central processing unit) constituída pela ULA (unidade lógica e aritmética) e pela UC (unidade de controle).
+
+- Tem como função controlar toda a operação do computador e realiza suas funções de processamento de dados e instruções, além de gerenciar o armazenamento de dados.
+
+- Memória principal - tem a função de armazenar os dados de forma dinâmica e temporária.
+
+- Entrada e Saída (E/S) - tem como função mover os dados entre o computador e seu ambiente externo ou de um ambiente externo para realizar armazenamento ou processamento.
+
+- interconexão do sistema - é formada por mecanismos que oferecem um meio de comunicação entre a CPU, a memória principal e os dispositivos de E/S.
+
+- Um exemplo comum de interconexão do sistema é o barramento de dados e intruções, que consiste em uma série de fios de cobre condutores aos quais todos os outros componentes se conectam para trocar informação.
