@@ -1,0 +1,85 @@
+
+>> A evolução dos computadores eletrônicos <<
+
+- A evolução atual dos computadores está baseada nas seguintes características:
+
+- Constante aumento na capacidade de processamento.
+
+- Diminuição do tamanho dos componentes eletrônicos.
+
+- Aumento na capacidade de armazenamento na memória.
+
+- Melhoria na comunicação entre dispositivos internos e externos.
+
+- Melhoria no desempenho dos dispositivos de E/S.
+
+- Um fator que contribuiu para o aumento do desempenho dos processadores foi a diminuição do tamanho dos transistores, o que possibilitou o aumento da quantidade de transistores empacotados no chip.
+
+- Outro fator que vem contribuindo para a melhoria no desempenho dos processadores inclui o uso intensivo de técnicas de processamento paralelo ou o uso de processadores com múltiplos núcleos (multicore).
+
+- Em se tratando de datas, a evolução dos computadores eletrônicos iniciou-se durande as décadas de 1930-1950.
+
+- Esse período ficou conhecido como a primeira geração de computadores.
+
+- Primeira geração de computadores> relés e válvulas (1936-1953).
+
+- No início da década de 1930, o cientista alemão Zonrad Konrad Zuse (1910-1995) desenvolveu um computador que ficou conhecido como Z1 e que foi concebido para ser uma continuação do projeto inicial  do computador de Babbage.
+
+- O Z1 era um computador programávele se baseava no uso de relés eletromecânicos para a realização de cálculos numéricos ao invés de engrenagens à manivela propostas por Babbage.
+
+- Em 1946, os cientistas John Mauchly e John Presper Eckert desenvolveram o Eniac (Eletronic Numerical integrator and Computer - Computador integrador numérico eletrônico). que foi conhecidoo como o primeiro computador eletrônico de uso geral.
+
+- Essa máquina ocupava 1800m² e pesava aproximadamente 30 toneladas.
+
+- Diferente do Z1, o Eniac utilizava válvulas para realização das operações computacionais, além de memória com capacidade de cerca de 1000 bits.
+
+- Segunda geração de computadores: transistores (1954-1965).
+
+- O uso de válvulas não era prático, pois elas superaqueciam e queimavam com muita facilidade, mas rápido do que poderiam ser respostas.
+
+- Os computadores passavam mais tempo em manutenção do que funcionando, tornando sua praticidade quase inviável.
+
+- Diante desse problema, os cientistas Jonh Bardeenm Walter Brattain e Willian Shockley inventaram um dos componentes eletrônicos mais revolucionários da história, o transistor.
+
+- A utilização de transistores se tornou muito mais vantajosa, pois o custo de fabricação, além de menor, também possuía um consumo de energia elétrica menor, principalmente se comparado às antigas válvulas.
+
+- Atualmente, os transistores são utilizados em larga escala e, a cada ano, os fabricantes conseguem diminuir o seu tamanho, facilitando o aumento da quantidade desse componentes (integração),  o que por consequência irá aumentar sua capacidade de realizar tarefas necessárias para o processamento de dados.
+
+- Terceira geração de computadores: circuitos integrados (1965 - 1980)
+
+- O grande avanço no uso de computadores ocorreu a partir da terceira geração, principalemte devido ao desenvolvimento do circuito integrado (CI) ou microchip, desenvolvido pelos cientistas Jack Kilby e Robert Noyce.
+
+- O circuito integrado é o "empacotamento" de vários transistores, conectados, formando uma rede lógica de compoentes eletrónicos.
+
+- Um dos computadores de uso empresarial de maior sucesso desenvolvido na terceira geração foi o "Mainframe"
+
+- Quarta geração de computadores: VLSI (1980 - ???)
+
+- À medida que as técnicas de fabricação evoluem, um número maior de transistores podem ser agrupados, possibilitando uma variedade de escalas de integração de circuitos eletrônicos.
+
+- Existem diversas categorias de integração de circuitos:
+
+- SSI (small scale integration - integração em pequena escala) com cerca de 10 a 100 componentes por chip.
+
+- MSI (medium scale integration - integração em média escala) com 100 a 1000 componentes por chip.
+
+- LSI (large scale integration - integração em larga escala) com 1000 a 10000 componentes por chip
+
+- VLSI (very large scale integration - integração em escala muito larga) com mais de 10000 componentes por chip.
+
+- O VLSI possibilitou o desenvolvimento dos microcomputadores ou PCs (personal computer - computador pessoal)
+
+- Os PCs surgiram como dispositivos suficientemente pequenos e baratos (se comparados aos Mainframes).
+
+- Fácil fabricação, tornando seu acesso facilitado ao público em geral.
+
+- Gordon Moore, fundador da Intel, publicou um artigo científico em 1965, em que verificou qu cada nova geração de chips de memória estava sendo lançada trê anos após a geração anterior.
+
+- De modo que, se cada geração tivesse 4x mais memória do que sua antecessora, o número de transistores também cresceria a uma taxa constante.
+
+- Essa pesquisa ficou conhecida como Lei de Moore e costuma ser empregada para referencia o aumento do número de transistores nos chips.
+
+- Ele afirmou que o poder de processamento dos computadores dobra a capacidade a cada 18 meses.
+
+- O que equivale a um aumento de 60% a cada ano.
+
