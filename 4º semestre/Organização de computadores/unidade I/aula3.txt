@@ -1,0 +1,15 @@
+
+>> Conversão de bases numéricas <<
+
+- A necessidade do uso de diferentes bases numéricas advém da ideia de agrupamento de valores, permitindo a realização de operações entre bases.
+
+- O sistema decimal ou base 10, por exemplo,  se baisea no uso de 10 símbolos, enaquanto o sistema binário possui apenas dois símbolos (0 e 1)
+
+- Dessa forma, qualquer número binário poderá ser convertido em um número decimal equivalente, assim como qualquer número em base binária poderá ser convertido em base decimal.
+
+- Exemplo: a partir do número binário 11001110, qual é seu equivalente em base decimal?
+
+- Resposta: (1x128) + (1x64) + (0x32) + (0x16) + (1x8) + (1x4) + (1x2) + (0x1) = 206
+
+- Para converter um número decimal para base binária, utiliza-se o método de divisões sucessivas do número pela base em que se deseja converter o valor.
+
