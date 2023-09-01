@@ -53,7 +53,7 @@
 - Reportagem opinativa ocorre quando o fato é narrado procurando orientar e dirigir a opnião do receptor com opniões próprias do repórter.
 
 
->> Tipos de midia impressa <<
+>> Tipos de mídia impressa <<
 
 - Panfleto, folheto, folder e catálogo
 - jornal
@@ -61,7 +61,7 @@
 - indoor
 
 
->> Anúncios em midia exterior <<
+>> Anúncios em mídia exterior <<
 
 - Outdoor tradicional
 - Frontlight
@@ -69,7 +69,7 @@
 - Painel digital (OOH - Out of Home)
 
 
->> Tipos de npidia eletrônica digital <<
+>> Tipos de Mpiidia eletrônica digital <<
 
 - Rádio
 - Televisão
